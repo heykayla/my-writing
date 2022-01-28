@@ -1,2 +1,2 @@
 # Technical-Writing-Portfolio
- A repository to store and manage my technical writing work.
+This repository contains a portfolio of all of my technical writing work.
