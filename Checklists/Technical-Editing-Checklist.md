@@ -9,6 +9,7 @@
  - [ ] Verify that the content does not include dated materials or concepts.
 ## Clarity
  - [ ] Verify that the purpose statement clearly defines objectives.
- - [ ] Verify
  - [ ] Verify if conclusions are drawn and the information is clearly stated.
- - [ ]
+ - [ ]  Verify that the content is written in active voice.
+ - [ ] Verify the content omits jargon, slang, jokes, offensive language, etc.
+ - [ ] Verify the content consistently uses first person, second person, or third person.
