@@ -14,7 +14,7 @@ Technical writers and editors can use this checklist as a job aid and guide for 
 
 ## Clarity and Completeness
  - [ ] Verify that the purpose statement clearly **defines objectives**.
- - [ ] Verify if **conclusions are drawn** and the information is clearly stated.
+ - [ ] Verify if **conclusions are drawn**, and the **information is clearly stated**.
  - [ ]  Verify that the content is written in **active voice** to avoid ambiguities and wordiness.
  - [ ]  Verify the content **does not omit essential steps or information** to complete the desired outcome.
  - [ ]  Verify if **prerequisites** and **requirements** are clearly defined.
