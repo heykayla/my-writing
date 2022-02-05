@@ -3,7 +3,7 @@
 ## Introduction
 Technical writers and editors can use this checklist as a job aid and guide for reviewing and editing technical documentation.
 
-## Content and Accuracy
+## Accuracy
  - [ ] **Test the content** to ensure you can produce the desired outcome.
  - [ ] Verify that content is **not plagiarized**.
  - [ ] Verify the content is tailored to the defined **audience**.
