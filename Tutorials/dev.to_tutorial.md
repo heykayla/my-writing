@@ -8,10 +8,4 @@ If you haven't already done so, you will need to create a **free** Dev.to accoun
 
 First, you'll need to go to the [Dev.to](dev.to) and on the upper-right-hand corner of the homepage, click **Create an Account**. 
 
-You'll be greeted with a new page displaying different sign-up options, such as creating a Dev.to account with your existing:
-* Apple ID account
-* Forem account
-* GitHub account
-* Twitter account
-
-Select your preferred sign-up option to login and authorize Dev.to to 
+You'll be greeted with a new page displaying different sign-up options using an existing Apple ID, Forem, GitHub, or Twitter account. Select your preferred option and log into the account accordingly.
