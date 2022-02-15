@@ -6,4 +6,4 @@ In this tutorial, you will learn how to create and customize your Dev.to account
 # Step 1 — Create a Dev.to account
 If you haven't already done so, you will need to create a **free** Dev.to account.
 
-First, you'll need to go to the [Dev.to](dev.to) homepage. 
+First, you'll need to go to the [Dev.to](dev.to) homepage. On the upper-right-hand corner of the homepage, click **Create an Account**. 
