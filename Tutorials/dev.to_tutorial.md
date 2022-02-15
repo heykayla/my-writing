@@ -6,6 +6,6 @@ In this tutorial, you will learn how to create and customize your Dev.to account
 ## Step 1 — Create a Dev.to account
 If you haven't already done so, you will need to create a **free** Dev.to account.
 
-First, you'll need to go to the [Dev.to](dev.to) and on the upper-right-hand corner of the homepage, click **Create an Account**. 
+First, you'll need to go to the [Dev.to](dev.to) website and on the upper-right-hand corner of the homepage, click **Create an Account**. 
 
 You'll be greeted with a new page displaying different sign-up options using an existing Apple ID, Forem, GitHub, or Twitter account. Select your preferred option and log into the account accordingly.
