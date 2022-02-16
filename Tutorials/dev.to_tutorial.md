@@ -1,16 +1,18 @@
 # How to Create and Customize Your DEV Account
 
 ## Introduction
-In this tutorial, you will learn how to create and customize your DEV account. DEV is a free social networking platform for developers that encourages collaboration and sharing ideas.
+DEV is a free social networking platform for developers that encourages collaboration and sharing ideas. In this tutorial, you will learn how to create a free DEV account using a third-party application and customizing your DEV account. 
 
-## Step 1 — Create a DEV account
-In this step, you will create a **free** Dev.to account. 
+## 1.1 Go to the DEV website
+Go to the [DEV](dev.to) website to create an account. 
 
-Go to the [DEV](dev.to) website and on the upper-right-hand corner of the homepage, click the **Create an Account** button. Alternatively, you can click the other **Create an Account** button on the left-hand side of the homepage beneath the _DEV Community_ message.
+On the upper-right-hand corner of the homepage, click the **Create an Account** button. Alternatively, you can click the other **Create an Account** button on the left-hand side of the homepage beneath the _DEV Community_ message.
 
+### 1.1.1 Select a third-party application
 Select a sign-up option of a third-party application to create a DEV account; options include signing up with your Apple ID, Forem, GitHub, or Twitter account. In this tutorial, we will use GitHub; however, you can choose a different third-party application—the process for signing-up is the same for all the third-party applications. 
 
-**DEV by practicaldev** will request that you authorize it access to your GitHub account. Authorizing means that you are allowing DEV to identify you by your GitHub account based on your GitHub's email and username. Click the **Authorize practicaldev** button to confirm authorizing. 
+### 1.1.2 Authorizing DEV
+DEV will request that you authorize it access to your GitHub account. Authorizing means that you are allowing DEV to identify you by your GitHub account based on your GitHub's email and username. Click the **Authorize practicaldev** button to confirm authorizing. 
 
 Authorizing will redirect you to the DEV website. You'll be greeted with a welcome message where you will need to click the checkboxes to confirm that you agree with DEV's **Code of Conduct** and **Terms and Conditions**. After clicking the checkboxes, click the **Continue** button to proceed forward.
 
@@ -26,3 +28,6 @@ Now you must build your profile. A form will appear with an image and username t
 Afterward, you'll be given a list of people to follow. Select any of your choice and click Continue to proceed forward. 
 
 Lastly, DEV will as you to checkmark your email preferences, such as if you want to recieve weekly newsletter emails or emails about top posts from your tags that you've selected. If you would like to not receive any emails from DEV regarding the presented options, click **Finish** to complete customizing your DEV profile.
+
+Aftering finishing, you are directed back to the main DEV website with a message that confirms that you're officially a part of the DEV community. 
+
