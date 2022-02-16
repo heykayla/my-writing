@@ -21,4 +21,4 @@ Now that you've created a free DEV account, it's time to customize it.
 
 After completing Step 1 in this tutorial, DEV will ask you to select tags to follow to customize your feed with. Select all that apply and click **Continue** on the upper-right-hand side to proceed forward.
 
-
+Now you must build your profile. A form will appear with an image and username that DEV pulled from the third-party application you signed up with. If you would like to change your DEV username, you are able to do so. It will also ask for you to populate the Bio by sharing a brief introduction about yoursef as well as what you do for work and what coding skills or languages you're familiar with. 
