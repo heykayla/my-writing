@@ -1,9 +1,11 @@
 # How to Create and Customize Your DEV Account
 
-## Introduction
+## 1.1 Create a DEV account
+In this 
+
 DEV is a free social networking platform for developers that encourages collaboration and sharing ideas. In this tutorial, you will learn how to create a free DEV account using a third-party application and customizing your DEV account. 
 
-## 1.1 Go to the DEV website
+### 1.1.1Go to the DEV website
 Go to the [DEV](dev.to) website to create an account. 
 
 On the upper-right-hand corner of the homepage, click the **Create an Account** button. Alternatively, you can click the other **Create an Account** button on the left-hand side of the homepage beneath the _DEV Community_ message.
@@ -11,10 +13,11 @@ On the upper-right-hand corner of the homepage, click the **Create an Account** 
 ### 1.1.1 Select a third-party application
 Select a sign-up option of a third-party application to create a DEV account; options include signing up with your Apple ID, Forem, GitHub, or Twitter account. In this tutorial, we will use GitHub; however, you can choose a different third-party application—the process for signing-up is the same for all the third-party applications. 
 
-### 1.1.2 Authorizing DEV
-DEV will request that you authorize it access to your GitHub account. Authorizing means that you are allowing DEV to identify you by your GitHub account based on your GitHub's email and username. Click the **Authorize practicaldev** button to confirm authorizing. 
+### 1.1.2 Authorize DEV to access your third-party application
+DEV will request that you authorize it access to your GitHub account. Authorizing means that you are allowing DEV to identify you by your GitHub account based on your GitHub's email and username. Click  **Authorize practicaldev** to confirm authorizing. 
 
-Authorizing will redirect you to the DEV website. You'll be greeted with a welcome message where you will need to click the checkboxes to confirm that you agree with DEV's **Code of Conduct** and **Terms and Conditions**. After clicking the checkboxes, click the **Continue** button to proceed forward.
+### 1.1.3 Wecome to the DEV community
+Authorizing will redirect you to the DEV website. You'll be greeted with a welcome message where you will need to click the checkboxes to confirm that you agree with DEV's **Code of Conduct** and **Terms and Conditions**. After clicking the checkboxes, click **Continue** to proceed forward.
 
 In this step, you successfully created a DEV account using a third-party application. The next step will cover customizing your DEV account.
 
