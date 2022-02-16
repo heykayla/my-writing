@@ -5,7 +5,7 @@ In this
 
 DEV is a free social networking platform for developers that encourages collaboration and sharing ideas. In this tutorial, you will learn how to create a free DEV account using a third-party application and customizing your DEV account. 
 
-### 1.1.1Go to the DEV website
+### 1.1.1 Go to the DEV website
 Go to the [DEV](dev.to) website to create an account. 
 
 On the upper-right-hand corner of the homepage, click the **Create an Account** button. Alternatively, you can click the other **Create an Account** button on the left-hand side of the homepage beneath the _DEV Community_ message.
