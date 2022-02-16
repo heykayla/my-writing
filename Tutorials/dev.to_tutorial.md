@@ -19,4 +19,6 @@ In this step, you successfully created a DEV account using a third-party applica
 ## Step 2 — Customize your DEV.to account
 Now that you've created a free DEV account, it's time to customize it. 
 
-After completing Step 1 in this tutorial, DEV will ask you to select tags to follow to customize your feed, and select all that apply. 
+After completing Step 1 in this tutorial, DEV will ask you to select tags to follow to customize your feed with. Select all that apply and click **Continue** on the upper-right-hand side to proceed forward.
+
+
