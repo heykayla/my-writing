@@ -10,7 +10,6 @@ At the end of this tutorial, you will:
 
 But before we start this tutorial, there are a few concepts to quickly review:
 
-
 ### Git
 Git is an open-source Version Control System (VCS) software that records changes to files, allowing you to revert or recall changes you made. Think of Git as a time machine for your project, where you can always go back in time to review changes you made to a file no matter how far you've altered them.
 
@@ -71,7 +70,7 @@ Adjacent to the options listed above, a list of all repositories from your GitHu
 
 A pop-up window titled **Clone a Repository** will appear that defaults to cloning your repository via a URL (**NOTE:** Do not change the method for cloning your repository). Within that window, you will need to:
 
- 1. Choose the location of where you want to clone your repository on your computer under **Local Path** by clicking **Choose.**  
+ 1. Choose where you want to clone your repository on your computer under **Local Path** by clicking **Choose.**  
  2. A pop-up window will display all of your directories within your computer; click the one you want and then click **Select** on the pop-up window.
 
  After selecting your repository's Local Path, you are directed back to the Clone a Repository pop-up window. Click the blue **Clone** button to clone your repository to your local computer.
