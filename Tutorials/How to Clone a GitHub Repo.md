@@ -2,9 +2,11 @@
 
 ## **Introduction**
 
-This tutorial will walk you through copying a GitHub repository from the GitHub website to the GitHub Desktop application.
+This tutorial will walk you through copying a GitHub repository from your GitHub.com account to your local computer using GitHub Desktop.
 
-At the end of this tutorial, you will have GitHub Desktop installed on your computer, which you will use to clone a repository to your computer from your GitHub account so that you can begin to track and manage your files locally.
+At the end of this tutorial, you will:
+- Have GitHub Desktop installed on your computer.
+- Have created a local copy of your repository to your computer so that you can begin to track and manage your files locally.
 
 But before we start this tutorial, there are a few concepts to quickly review:
 
@@ -26,12 +28,14 @@ Cloning a repository creates a local copy on your computer, enabling you to edit
 ## **Prerequisites**
 To complete this tutorial, you will need to:
 
- - Have a GitHub Account
+ - Have a GitHub account
 	 - GitHub is **free** for anyone to use. GitHub does offer paid plans that provide more features, but it is **NOT** a requirement for this tutorial.
-	 - If you do not have a GitHub account, you will need to create one. If you do not know how to create a GitHub account, read GitHub's [Signing up for a new GitHub account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account) article.
- - Have a repository already created in your GitHub account.
+	 - If you do not have a GitHub account, you will need to create one. If you do not know how to create a GitHub account, follow GitHub's [Signing up for a new GitHub account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account) instructions.
+ - Have a repository already created in your GitHub account
 	 - If you do not know how to create a repository in GitHub, read GitHub's [Create a repo](https://docs.github.com/en/get-started/quickstart/create-a-repo) article.
- - Have a desktop computer or laptop to perform the actions within this tutorial.
+ - Have a computer to perform the actions within this tutorial
+ - Have Git installed on your computer
+    - o	If you do not have Git installed on your computer, follow GitHub’s [Install Git](https://github.com/git-guides/install-git#:~:text=To%20install%20Git%2C%20run%20the,installation%20by%20typing%3A%20git%20version%20.) instructions.
 
 ## **Step 1 — Download the GitHub Desktop Application**
 You will download the GitHub Desktop application to your computer within this step.
@@ -66,7 +70,7 @@ Adjacent to the options listed above, a list of all repositories from your GitHu
 
 A pop-up window titled **Clone a Repository** will appear that defaults to cloning your repository via a URL (**NOTE:** Do not change the method for cloning your repository). Within that window, you will need to:
 
- 1. Choose the location of where you want to clone your repository on your computer under **Local Path** by clicking **Choose.**  
+ 1. Choose where you want to clone your repository on your computer under **Local Path** by clicking **Choose.**  
  2. A pop-up window will display all of your directories within your computer; click the one you want and then click **Select** on the pop-up window.
 
  After selecting your repository's Local Path, you are directed back to the Clone a Repository pop-up window. Click the blue **Clone** button to clone your repository to your local computer.
