@@ -35,7 +35,7 @@ Next, DEV will redirect you to a different page requesting authorization to acce
 
 Authorizing will redirect you to the DEV website. You'll be greeted with a welcome message where you will need to click the checkboxes to confirm that you agree with DEV's **Code of Conduct** and **Terms and Conditions**. After clicking the checkboxes, click **Continue** to proceed forward.
 
-## 2. Customize your DEV.to account
+## 2. Customize your DEV account
 
 Now that you've created a DEV account, it's time to customize it.
 
@@ -43,9 +43,9 @@ Now that you've created a DEV account, it's time to customize it.
 
 After completing your agreement with DEV's Code of Conduct and Terms and Conditions, DEV will ask you to select tags to follow. Selecting tags that align with your interests will help customize your feed, where you'll see content that uses the tag you follow. You can choose all that apply and click **Continue** to proceed forward.
 
-### 2.2 Build your profile
+### 2.2 Customize your DEV Account
 
-Now you can build your profile. A form will appear with an image and username that DEV pulled from your GitHub account. If you would like to change your DEV username, you can do so. Below are fields that are a part of the form (**NOTE**: All fields within the form are optional to populate):
+Now you can customize your DEV account. The **Build your profile** form will appear displaying your GitHub profile image and username that DEV pulled from your GitHub account. If you would like to change your DEV username, you can do so. Below are fields that are a part of the form (**NOTE**: All fields within the form are optional to populate):
 
 - **Bio**: You can share a brief summary of your background, interests, hobbies, and more.
 - **Work**: You can share what you do for work (e.g., Technical Writer at Hogwarts).
@@ -60,10 +60,12 @@ Select anyone to follow and click **Continue** once you're done to proceed forwa
 
 ### 2.3 Select your email preferences
 
-Lastly, DEV will ask to select the one, both, or neither for the following emails:
+Lastly, DEV will ask if you're interested in receiving emails for weekly newsletters or top posts. You can select one, both, or neither of the email prefrences. For selecting your email preferences, click the checkbox to confirm your choice. Afterward, click _Finish_ to complete customizing your DEV profile.
 
--
+### 2.4 You're now a part of the DEV community
 
-you to checkmark your email preferences, such as if you want to receive weekly newsletter emails or emails about top posts from your tags that you've selected. If you would like to not receive any emails from DEV regarding the presented options, click **Finish** to complete customizing your DEV profile.
+After finishing the above steps, you are directed back to the main DEV website with a message that confirms that you're officially a part of the DEV community.
 
-After finishing, you are directed back to the main DEV website with a message that confirms that you're officially a part of the DEV community.
+## Conclusion
+
+Congratulations, you have created and customized your DEV account. Since you are now a part of the DEV community, you're able to create posts
