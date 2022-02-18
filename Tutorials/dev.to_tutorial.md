@@ -26,7 +26,7 @@ On the upper-right-hand corner of the homepage, click the **Create an Account** 
 
 ### 1.2 Sign-up with a GitHub
 
-In the sign-up page, click **Sign-up with GitHub** as the third-party application to create a DEV account.
+Click **Sign-up with GitHub** as the third-party application to create a DEV account on the sign-up page.
 
 ### 1.3 Authorize DEV to access your third-party application
 
@@ -50,7 +50,7 @@ The **Build your profile** form will appear for you to fill out. The form will d
 
 - **Bio**: You can share a brief summary of your background, interests, hobbies, and more.
 - **Work**: You can share what you do for work (e.g., Technical Writer at Gringotts Wizarding Bank).
-- **Education**: You can share where you went to school (e.g., Hogwarts School of Witchcraft and Wizardy).
+- **Education**: You can share where you went to school (e.g., Hogwarts School of Witchcraft and Wizardry).
 - **Skills/Languages**: List any coding languages and skills you know or are familiar with (e.g., python, ruby, Git, etc.).
 
 ### 2.3 Choose people to follow
@@ -59,7 +59,7 @@ Like many social media platforms, you can select people from the DEV community t
 
 Select anyone to follow and click **Continue** once you're done to proceed forward.
 
-### 2.3 Choose your email preferences and complete DEV acccount customization
+### 2.3 Choose your email preferences and complete DEV account customization
 
 DEV will ask if you're interested in receiving weekly newsletters or top posts emails. You can select one, both, or neither of the email preferences. For choosing your email preferences, click the checkbox to confirm your choice. Afterward, click _Finish_ to complete customizing your DEV profile.
 
