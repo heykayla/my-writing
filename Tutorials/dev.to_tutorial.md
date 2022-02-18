@@ -1,10 +1,21 @@
 # How to Create and Customize Your DEV Account
 
+## Introduction
+
+DEV is a free social networking platform for developers that encourages collaboration and sharing ideas. In this tutorial, you will learn how to create and customize your DEV account.
+
+## Prerequisites
+
+To successfully complete this tutorial, you will need:
+
+- A computer
+- Internet connection
+- An account to a third-party application
+  - DEV only gives users the option to sign-up with a third-party application; this includes your Apple ID, Forem, GitHub, or Twitter account. Ensure to have an account with at least ONE of the available third-party applications. (**NOTE:** This tutorial will demontrate creating a DEV account with GitHub, but you are able to choose any other third-party application as the process is the same for all the third-party applications.)
+
 ## 1.1 Create a DEV account
 
-In this tutorial
-
-DEV is a free social networking platform for developers that encourages collaboration and sharing ideas. In this tutorial, you will learn how to create a free DEV account using a third-party application and customizing your DEV account.
+s
 
 ### 1.1.1 Go to the DEV website
 
