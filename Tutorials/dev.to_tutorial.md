@@ -39,9 +39,13 @@ Authorizing will redirect you to the DEV website. You'll be greeted with a welco
 
 Now that you've created a DEV account, it's time to customize it.
 
-After completing Step 1 in this tutorial, DEV will ask you to select tags to follow to customize your feed with. Select all that apply and click **Continue** on the upper-right-hand side to proceed forward.
+## 2.1 Choose tags to follow
 
-Now you must build your profile. A form will appear with an image and username that DEV pulled from the third-party application you signed up with. If you would like to change your DEV username, you are able to do so. It will also ask for you to populate the Bio by sharing a brief introduction about yourself as well as what you do for work and what coding skills or languages you're familiar with.
+After completing your agreement with DEV's Code of Conduct and Terms and Conditions, DEV will ask you to select tags to follow. Selecting tags that align with your interests will customize your feed. Choose all that apply and click **Continue** to proceed forward.
+
+## 2.2 Build your profile
+
+Now you can build your profile. A form will appear with an image and username that DEV pulled from the third-party application you signed up with. If you would like to change your DEV username, you are able to do so. It will also ask for you to populate the Bio by sharing a brief introduction about yourself as well as what you do for work and what coding skills or languages you're familiar with.
 
 Afterward, you'll be given a list of people to follow. Select any of your choice and click Continue to proceed forward.
 
