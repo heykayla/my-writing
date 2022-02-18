@@ -23,7 +23,7 @@ Go to the [DEV](dev.to) website to create an account.
 
 On the upper-right-hand corner of the homepage, click the **Create an Account** button. Alternatively, you can click the other **Create an Account** button on the left-hand side of the homepage beneath the _DEV Community_ message.
 
-### 1.1.1 Sign-up with a third-party application
+### 1.1.1 Sign-up with a GitHub
 
 Select a third-party application to create a DEV account. You can choose to sign-up with your Apple ID, Forem, GitHub, or Twitter account.
 
