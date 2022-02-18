@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This tutorial will teach you how to create a DEV account—a free social networking platform for developers—using GitHub. You will also learn how to customize your DEV account by building a profile, choosing tags to follow, and more.
+This tutorial will teach you how to create a DEV account—a free social networking platform for developers—using your GitHub account. You will also learn how to customize your DEV account by building a profile, choosing tags to follow, and more.
 
 ## Prerequisites
 
@@ -15,7 +15,7 @@ To complete this tutorial, you will need:
 
 ## 1. Create a DEV account
 
-First, we'll create a DEV account using your GitHub account.
+First, we'll create a DEV account by signing up with your GitHub account.
 
 ### 1.1 Go to the DEV website
 
@@ -41,11 +41,11 @@ After clicking the checkboxes, click **Continue** to proceed forward.
 
 ## 2. Customize your DEV account
 
-Now that you've created a DEV account, it's time to customize your profile, choose tags to follow, and more.
+Now that you've created a DEV account, it's time to build your profile, choose tags and people to follow, and more.
 
 ### 2.1 Choose tags to follow
 
-DEV will ask you to choose **tags** to follow. Tags are written with the hashtag symbol (#) followed by a keyword; tags represent a topic related to a post. Choosing tags will customize your feed by showing posts that use the tag you follow.
+DEV will ask you to choose **tags** to follow (e.g., #python). Tags are written with the hashtag symbol (#) followed by a keyword; they represent a topic related to a post. Choosing tags will customize your feed by showing posts that use the tag you follow.
 
 You can choose all that apply and click **Continue** to proceed forward.
 
