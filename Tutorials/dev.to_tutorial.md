@@ -2,7 +2,7 @@
 
 ## Introduction
 
-DEV is a free social networking platform for developers that encourages collaboration and sharing ideas. In this tutorial, you will learn how to create and customize your DEV account.
+DEV is a free social networking platform for developers that encourages collaboration and sharing ideas. In this tutorial, you will learn how to create a DEV account using GitHub and customize your DEV account.
 
 ## Prerequisites
 
@@ -15,7 +15,7 @@ To successfully complete this tutorial, you will need:
 
 ## 1.1 Create a DEV account
 
-First, we'll create a DEV account using a third-party application. We will demonstrate using GitHub to create a DEV account with, but you are welcome to choose a different third-party application; the steps for creating a DEV account is the same regardless of which third-party application you choose.
+First, we'll create a DEV account using a third-party application. The screenshots in this tutorial to demontrate the sign-up process uses GitHub to create a DEV account with, but you are welcome to choose a different third-party application; the steps for creating a DEV account is the same regardless of which third-party application you choose.
 
 ### 1.1.1 Go to the DEV website
 
@@ -25,11 +25,11 @@ On the upper-right-hand corner of the homepage, click the **Create an Account** 
 
 ### 1.1.1 Sign-up with a third-party application
 
-Select a third-party application to create a DEV account. You can select Apple ID, Forem, GitHub, or Twitter.
+Select a third-party application to create a DEV account. You can choose to sign-up with your Apple ID, Forem, GitHub, or Twitter account.
 
 ### 1.1.2 Authorize DEV to access your third-party application
 
-DEV will request that you authorize it access to your GitHub account. Authorizing means that you are allowing DEV to identify you by your GitHub account based on your GitHub's email and username. Click **Authorize practicaldev** to confirm authorizing.
+After selecting and clicking the third-party application to create a DEV account with, DEV will redirect you to a different page requesting authorization to access your third-party application's account. Authorizing means that you are allowing DEV to identify you by your third-party application account based on your account's email and username. Click **Authorize practicaldev** to confirm authorizing.
 
 ### 1.1.3 Welcome to the DEV community
 
