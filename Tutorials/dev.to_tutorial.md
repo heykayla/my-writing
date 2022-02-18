@@ -2,7 +2,7 @@
 
 ## Introduction
 
-DEV is a free social networking platform for developers that encourages collaboration and sharing ideas. In this tutorial, you will learn how to create a DEV account using your GitHub account. Afterward, you will learn how to customize your DEV account, such as tags and people to follow and more.
+In this tutorial, you will learn how to create a DEV account—a free social networking platform for developers—using your GitHub account. Afterward, you will learn how to customize your DEV account, such as tags and people to follow and more.
 
 ## Prerequisites
 
