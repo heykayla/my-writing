@@ -11,35 +11,33 @@ To successfully complete this tutorial, you will need:
 - A computer
 - Internet connection
 - A GitHub account
-  - DEV gives users the option to sign-up with their Apple ID, Forem, GitHub, or Twitter account. Although this tutorial demonstrates creating a DEV account with your GitHub account, you are welcome to choose a different third-party application; the steps for creating a DEV account with a differnt third-party application are similar.
+  - DEV gives users the option to sign-up with their Apple ID, Forem, GitHub, or Twitter account. Although this tutorial demonstrates creating a DEV account with your GitHub account, you are welcome to choose a different third-party application; the steps for creating a DEV account with a different third-party application are similar.
 
-## 1.1 Create a DEV account
+## 1.0 Create a DEV account
 
 First, we'll create a DEV account using your GitHub account.
 
-### 1.1.1 Go to the DEV website
+### 1.1 Go to the DEV website
 
 Go to the [DEV](dev.to) website to create an account.
 
 On the upper-right-hand corner of the homepage, click the **Create an Account** button. Alternatively, you can click the other **Create an Account** button on the left-hand side of the homepage beneath the _DEV Community_ message.
 
-### 1.1.1 Sign-up with a GitHub
+### 1.2 Sign-up with a GitHub
 
-Select a third-party application to create a DEV account. You can choose to sign-up with your Apple ID, Forem, GitHub, or Twitter account.
+Select **Sign-up with GitHub** as the third-party application to create a DEV account.
 
-### 1.1.2 Authorize DEV to access your third-party application
+### 1.3 Authorize DEV to access your third-party application
 
-After selecting and clicking the third-party application to create a DEV account with, DEV will redirect you to a different page requesting authorization to access your third-party application's account. Authorizing means that you are allowing DEV to identify you by your third-party application account based on your account's email and username. Click **Authorize practicaldev** to confirm authorizing.
+Next, DEV will redirect you to a different page requesting authorization to access your GitHub account. Authorizing means that you are allowing DEV to identify you by your GitHub account based on your account's email and username. Click **Authorize practicaldev** to confirm authorizing.
 
-### 1.1.3 Welcome to the DEV community
+### 1.4 Welcome to the DEV community
 
 Authorizing will redirect you to the DEV website. You'll be greeted with a welcome message where you will need to click the checkboxes to confirm that you agree with DEV's **Code of Conduct** and **Terms and Conditions**. After clicking the checkboxes, click **Continue** to proceed forward.
 
-In this step, you successfully created a DEV account using a third-party application. The next step will cover customizing your DEV account.
+## 2.0 Customize your DEV.to account
 
-## Step 2 — Customize your DEV.to account
-
-Now that you've created a free DEV account, it's time to customize it.
+Now that you've created a DEV account, it's time to customize it.
 
 After completing Step 1 in this tutorial, DEV will ask you to select tags to follow to customize your feed with. Select all that apply and click **Continue** on the upper-right-hand side to proceed forward.
 
