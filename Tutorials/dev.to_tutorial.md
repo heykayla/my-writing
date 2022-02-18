@@ -13,7 +13,7 @@ To successfully complete this tutorial, you will need:
 - A GitHub account
   - DEV gives users the option to sign-up with their Apple ID, Forem, GitHub, or Twitter account. Although this tutorial demonstrates creating a DEV account with your GitHub account, you are welcome to choose a different third-party application; the steps for creating a DEV account with a different third-party application are similar.
 
-## 1.0 Create a DEV account
+## 1. Create a DEV account
 
 First, we'll create a DEV account using your GitHub account.
 
@@ -35,15 +35,15 @@ Next, DEV will redirect you to a different page requesting authorization to acce
 
 Authorizing will redirect you to the DEV website. You'll be greeted with a welcome message where you will need to click the checkboxes to confirm that you agree with DEV's **Code of Conduct** and **Terms and Conditions**. After clicking the checkboxes, click **Continue** to proceed forward.
 
-## 2.0 Customize your DEV.to account
+## 2. Customize your DEV.to account
 
 Now that you've created a DEV account, it's time to customize it.
 
-## 2.1 Choose tags to follow
+### 2.1 Choose tags to follow
 
 After completing your agreement with DEV's Code of Conduct and Terms and Conditions, DEV will ask you to select tags to follow. Selecting tags that align with your interests will help customize your feed, where you'll see content that uses the tag you follow. You can choose all that apply and click **Continue** to proceed forward.
 
-## 2.2 Build your profile
+### 2.2 Build your profile
 
 Now you can build your profile. A form will appear with an image and username that DEV pulled from your GitHub account. If you would like to change your DEV username, you can do so. Below are fields that are a part of the form (**NOTE**: All fields within the form are optional to populate):
 
@@ -52,13 +52,13 @@ Now you can build your profile. A form will appear with an image and username th
 - **Education**: You can share where you went to school (e.g., University of the World).
 - **Skills/Languages**: List any coding languages and skills that you know or are familiar with (e.g., python, ruby, Git, etc.).
 
-## 2.3 Choose people to follow
+### 2.3 Choose people to follow
 
 Like Twitter, Instagram, or any other social media platform, you can select people from the DEV community to follow. When you follow someone on DEV, you'll be able to see their newly published content, such as videos, Podcasts, articles, etc., on your feed.
 
 Select anyone to follow and click **Continue** once you're done to proceed forward.
 
-## 2.3 Select your email preferences
+### 2.3 Select your email preferences
 
 Lastly, DEV will ask to select the one, both, or neither for the following emails:
 
