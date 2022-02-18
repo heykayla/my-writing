@@ -74,4 +74,4 @@ DEV will direct you back to the main website with a message that confirms that y
 
 ## Conclusion
 
-Congratulations, you are now a part of the DEV community. From this tutorial, you have created your DEV account with GitHub and customized it.
+Congratulations, you have created your DEV account and customized it. You are now a part of the DEV community and can create posts, share ideas, and collaborate with other developers.
