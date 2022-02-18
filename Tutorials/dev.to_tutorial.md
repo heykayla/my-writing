@@ -58,6 +58,12 @@ Like Twitter, Instagram, or any other social media platform, you can select peop
 
 Select anyone to follow and click **Continue** once you're done to proceed forward.
 
-Lastly, DEV will as you to checkmark your email preferences, such as if you want to receive weekly newsletter emails or emails about top posts from your tags that you've selected. If you would like to not receive any emails from DEV regarding the presented options, click **Finish** to complete customizing your DEV profile.
+## 2.3 Select your email preferences
+
+Lastly, DEV will ask to select the one, both, or neither for the following emails:
+
+-
+
+you to checkmark your email preferences, such as if you want to receive weekly newsletter emails or emails about top posts from your tags that you've selected. If you would like to not receive any emails from DEV regarding the presented options, click **Finish** to complete customizing your DEV profile.
 
 After finishing, you are directed back to the main DEV website with a message that confirms that you're officially a part of the DEV community.
