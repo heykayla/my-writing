@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This tutorial will teach you how to create a DEV account—a free social networking platform for developers—using your GitHub account. You will also learn how to customize your DEV account by building a profile, choosing tags to follow, and more.
+This tutorial will teach you how to create a DEV account—a free social networking platform for developers—using your GitHub account. You will also learn how to customize your DEV account by building a profile, choosing tags and people to follow, and more.
 
 ## Prerequisites
 
@@ -11,7 +11,8 @@ To complete this tutorial, you will need:
 - A computer
 - Internet connection
 - A GitHub account
-- DEV gives users the option to sign-up with their Apple ID, Forem, GitHub, or Twitter account. In this tutorial, we will use GitHub to create a DEV account. However, you are welcome to choose a different third-party application. The steps for creating a DEV account with a different third-party application are similar.
+  - DEV gives users the option to sign-up with their Apple ID, Forem, GitHub, or Twitter account. In this tutorial, we will use GitHub to create a DEV account. However, you are welcome to choose a different third-party application. The steps for creating a DEV account with a different third-party application are similar.
+  - If you do not have a GitHub account, follow GitHub's [Signing up for a new GitHub account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account) instructions.
 
 ## 1. Create a DEV account
 
@@ -21,17 +22,15 @@ First, we'll create a DEV account by signing up with your GitHub account.
 
 Go to the [DEV](dev.to) website to create an account.
 
-On the upper-right-hand corner of the homepage, click the **Create an Account** button. Or you can click the other **Create an Account** beneath the _DEV Community_ message.
+On the upper-right-hand corner of the homepage, click the **Create an Account** button. Or you can click the other **Create an Account** button beneath the _DEV Community_ message. After clicking the button, DEV will redirect you to their sign-up page.
 
 ### 1.2 Sign-up with a GitHub
 
-Select **Sign-up with GitHub** as the third-party application to create a DEV account.
+In the sign-up page, select **Sign-up with GitHub** as the third-party application to create a DEV account.
 
 ### 1.3 Authorize DEV to access your third-party application
 
-DEV will redirect you to a new page requesting authorization to your GitHub account. By approving the authorization, you allow DEV to identify you by your GitHub account.
-
-Click **Authorize practicaldev** to confirm authorizing.
+DEV will redirect you to a new page requesting authorization to your GitHub account. By approving the authorization, you allow DEV to identify you by your GitHub account. Click **Authorize practicaldev** to confirm authorizing.
 
 ### 1.4 Welcome to the DEV community
 
