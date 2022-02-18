@@ -45,9 +45,18 @@ After completing your agreement with DEV's Code of Conduct and Terms and Conditi
 
 ## 2.2 Build your profile
 
-Now you can build your profile. A form will appear with an image and username that DEV pulled from your GitHub account. If you would like to change your DEV username, you can do so. Below are fields that DEV may ask you to populate (**NOTE**: All fields within the form are optional to populate): It will also ask for you to populate the **Bio** by sharing a brief introduction about yourself as well as what you do for work and what coding skills or languages you're familiar with.
+Now you can build your profile. A form will appear with an image and username that DEV pulled from your GitHub account. If you would like to change your DEV username, you can do so. Below are fields that are a part of the form (**NOTE**: All fields within the form are optional to populate):
 
-Afterward, you'll be given a list of people to follow. Select any of your choice and click Continue to proceed forward.
+- **Bio**: You can share a brief summary of your background, interests, hobbies, and more.
+- **Work**: You can share what you do for work (e.g., Technical Writer at Hogwarts).
+- **Education**: You can share where you went to school (e.g., University of the World).
+- **Skills/Languages**: List any coding languages and skills that you know or are familiar with (e.g., python, ruby, Git, etc.).
+
+## 2.3 Choose people to follow
+
+Like Twitter, Instagram, or any other social media platform, you can select people from the DEV community to follow. When you follow someone on DEV, you'll be able to see their newly published content, such as videos, Podcasts, articles, etc., on your feed.
+
+Select anyone to follow and click **Continue** once you're done to proceed forward.
 
 Lastly, DEV will as you to checkmark your email preferences, such as if you want to receive weekly newsletter emails or emails about top posts from your tags that you've selected. If you would like to not receive any emails from DEV regarding the presented options, click **Finish** to complete customizing your DEV profile.
 
