@@ -11,11 +11,11 @@ To successfully complete this tutorial, you will need:
 - A computer
 - Internet connection
 - An account to a third-party application
-  - DEV only gives users the option to sign-up with a third-party application; this includes your Apple ID, Forem, GitHub, or Twitter account. Ensure to have an account with at least ONE of the available third-party applications. (**NOTE:** This tutorial will demontrate creating a DEV account with GitHub, but you are able to choose any other third-party application as the process is the same for all the third-party applications.)
+  - DEV only gives users the option to sign-up with your Apple ID, Forem, GitHub, or Twitter account. Ensure to **have an account with at least ONE of the available third-party applications**.
 
 ## 1.1 Create a DEV account
 
-s
+First, we'll create a DEV account using a third-party application. This tutorial will demonstrate creating a DEV account with GitHub, but you are welcome to choose a different third-party application; the DEV sign-up process and steps are the same for all the third-party applications.
 
 ### 1.1.1 Go to the DEV website
 
@@ -23,7 +23,7 @@ Go to the [DEV](dev.to) website to create an account.
 
 On the upper-right-hand corner of the homepage, click the **Create an Account** button. Alternatively, you can click the other **Create an Account** button on the left-hand side of the homepage beneath the _DEV Community_ message.
 
-### 1.1.1 Select a third-party application
+### 1.1.1 Sign-up with a third-party application
 
 Select a sign-up option of a third-party application to create a DEV account; options include signing up with your Apple ID, Forem, GitHub, or Twitter account. In this tutorial, we will use GitHub; however, you can choose a different third-party application—the process for signing-up is the same for all the third-party applications.
 
