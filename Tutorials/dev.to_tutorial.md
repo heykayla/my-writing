@@ -45,7 +45,7 @@ Now that you've created a DEV account, it's time to customize it.
 
 ### 2.1 Choose tags to follow
 
-After completing your agreement with DEV's Code of Conduct and Terms and Conditions, DEV will ask you to select tags to follow. Selecting tags that align with your interests will customize your feed, showing posts that uses the tag you follow.
+After completing your agreement with DEV's Code of Conduct and Terms and Conditions, DEV will ask you to choose **tags** to follow. DEV's tags are written with the hashtag symbol (#) followed by a keyword that usually represents a topic related to a post. Choosing tags that align with topics that you're interested in will customize your feed by showing posts that uses the tag you follow.
 
 You can choose all that apply and click **Continue** to proceed forward.
 
