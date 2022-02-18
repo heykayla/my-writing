@@ -2,7 +2,7 @@
 
 ## Introduction
 
-DEV is a free social networking platform for developers that encourages collaboration and sharing ideas. In this tutorial, you will learn how to create a DEV account using GitHub and customize your DEV account.
+DEV is a free social networking platform for developers that encourages collaboration and sharing ideas. In this tutorial, you will learn how to create a DEV account using your GitHub account. Afterward, you will learn how to customize your DEV account, such as tags and people to follow and more.
 
 ## Prerequisites
 
@@ -10,12 +10,12 @@ To successfully complete this tutorial, you will need:
 
 - A computer
 - Internet connection
-- An account to a third-party application
-  - DEV only gives users the option to sign-up with your Apple ID, Forem, GitHub, or Twitter account. Ensure to **have an account with at least ONE of the available third-party applications**.
+- A GitHub account
+  - DEV gives users the option to sign-up with their Apple ID, Forem, GitHub, or Twitter account. Although this tutorial demonstrates creating a DEV account with your GitHub account, you are welcome to choose a different third-party application; the steps for creating a DEV account with a differnt third-party application are similar.
 
 ## 1.1 Create a DEV account
 
-First, we'll create a DEV account using a third-party application. The screenshots in this tutorial to demontrate the sign-up process uses GitHub to create a DEV account with, but you are welcome to choose a different third-party application; the steps for creating a DEV account is the same regardless of which third-party application you choose.
+First, we'll create a DEV account using your GitHub account.
 
 ### 1.1.1 Go to the DEV website
 
