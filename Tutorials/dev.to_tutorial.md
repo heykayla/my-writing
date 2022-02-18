@@ -29,11 +29,15 @@ Select **Sign-up with GitHub** as the third-party application to create a DEV ac
 
 ### 1.3 Authorize DEV to access your third-party application
 
-Next, DEV will redirect you to a different page requesting authorization to access your GitHub account. Authorizing means that you are allowing DEV to identify you by your GitHub account based on your account's email and username. Click **Authorize practicaldev** to confirm authorizing.
+Next, DEV will redirect you to a different page requesting authorization to access your GitHub account. Authorizing means that you are allowing DEV to identify you by your GitHub account based on your GitHub account's email and username.
+
+Click **Authorize practicaldev** to confirm authorizing.
 
 ### 1.4 Welcome to the DEV community
 
-Authorizing will redirect you to the DEV website. You'll be greeted with a welcome message where you will need to click the checkboxes to confirm that you agree with DEV's **Code of Conduct** and **Terms and Conditions**. After clicking the checkboxes, click **Continue** to proceed forward.
+Authorizing will redirect you to the DEV website. You'll be greeted with a welcome message where you will need to click the checkboxes to confirm that you agree with DEV's **Code of Conduct** and **Terms and Conditions**.
+
+After clicking the checkboxes, click **Continue** to proceed forward.
 
 ## 2. Customize your DEV account
 
@@ -41,7 +45,9 @@ Now that you've created a DEV account, it's time to customize it.
 
 ### 2.1 Choose tags to follow
 
-After completing your agreement with DEV's Code of Conduct and Terms and Conditions, DEV will ask you to select tags to follow. Selecting tags that align with your interests will help customize your feed, where you'll see content that uses the tag you follow. You can choose all that apply and click **Continue** to proceed forward.
+After completing your agreement with DEV's Code of Conduct and Terms and Conditions, DEV will ask you to select tags to follow. Selecting tags that align with your interests will customize your feed, showing posts that uses the tag you follow.
+
+You can choose all that apply and click **Continue** to proceed forward.
 
 ### 2.2 Customize your DEV Account
 
