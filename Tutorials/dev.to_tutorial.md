@@ -45,7 +45,7 @@ After completing your agreement with DEV's Code of Conduct and Terms and Conditi
 
 ### 2.2 Customize your DEV Account
 
-Now you can customize your DEV account. The **Build your profile** form will appear displaying your GitHub profile image and username that DEV pulled from your GitHub account. If you would like to change your DEV username, you can do so. Below are fields that are a part of the form (**NOTE**: All fields within the form are optional to populate):
+Now you can customize your DEV account. The **Build your profile** form will appear displaying your GitHub profile image and username that DEV pulled from your GitHub account. If you would like to change your DEV username, you can do so by clicking into the **Username** field and entering a new username. Below are fields that are a part of the form (**NOTE**: All fields within the form are optional to populate):
 
 - **Bio**: You can share a brief summary of your background, interests, hobbies, and more.
 - **Work**: You can share what you do for work (e.g., Technical Writer at Hogwarts).
@@ -58,7 +58,7 @@ Like Twitter, Instagram, or any other social media platform, you can select peop
 
 Select anyone to follow and click **Continue** once you're done to proceed forward.
 
-### 2.3 Select your email preferences
+### 2.3 Choose your email preferences
 
 Lastly, DEV will ask if you're interested in receiving emails for weekly newsletters or top posts. You can select one, both, or neither of the email prefrences. For selecting your email preferences, click the checkbox to confirm your choice. Afterward, click _Finish_ to complete customizing your DEV profile.
 
@@ -68,4 +68,4 @@ After finishing the above steps, you are directed back to the main DEV website w
 
 ## Conclusion
 
-Congratulations, you have created and customized your DEV account. Since you are now a part of the DEV community, you're able to create posts
+Congratulations, you have created your DEV account with GitHub and customized it. Since you are now a part of the DEV community, you're able to create posts and interact with fellow DEV community members.
