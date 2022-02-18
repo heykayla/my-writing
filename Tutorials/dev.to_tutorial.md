@@ -60,13 +60,13 @@ Now you can customize your DEV account. The **Build your profile** form will app
 
 ### 2.3 Choose people to follow
 
-Like Twitter, Instagram, or any other social media platform, you can select people from the DEV community to follow. When you follow someone on DEV, you'll be able to see their newly published content, such as videos, podcasts, articles, etc., on your feed.
+Like Twitter, Instagram, or any other social media platform, you can select people from the DEV community to follow. When you follow someone on DEV, you'll be able to see their newly published posts, such as videos, podcasts, articles, etc., on your feed.
 
 Select anyone to follow and click **Continue** once you're done to proceed forward.
 
 ### 2.3 Choose your email preferences
 
-Lastly, DEV will ask if you're interested in receiving weekly newsletters or top posts emails. You can select one, both, or neither of the email preferences. For selecting your email preferences, click the checkbox to confirm your choice. Afterward, click _Finish_ to complete customizing your DEV profile.
+Lastly, DEV will ask if you're interested in receiving weekly newsletters or top posts emails. You can select one, both, or neither of the email preferences. For choosing your email preferences, click the checkbox to confirm your choice. Afterward, click _Finish_ to complete customizing your DEV profile.
 
 ### 2.4 You're now a part of the DEV community
 
