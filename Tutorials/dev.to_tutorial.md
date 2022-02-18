@@ -41,7 +41,7 @@ After clicking the checkboxes, click **Continue** to proceed forward.
 
 ## 2. Customize your DEV account
 
-Now that you've created a DEV account, it's time to customize it.
+Now that you've created a DEV account, it's time to customize your profile, choose tags to follow, and more.
 
 ### 2.1 Choose tags to follow
 
