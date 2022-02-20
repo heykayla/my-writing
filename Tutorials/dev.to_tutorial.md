@@ -59,6 +59,8 @@ Below are fields that are a part of the form (NOTE: All fields within the form a
 - **Education:** You can share where you went to school (e.g., Hogwarts School of Witchcraft and Wizardry).
 - **Skills/Languages:** List any coding languages and skills you know or are familiar with (e.g., python, ruby, Git, etc.).
 
+![DEV's build your profile form fields](https://github.com/heykayla/Technical-Writing-Portfolio/blob/main/Images/creating_DEV_account_tutorial/Picture7.png)
+
 ### 2.3 Choose people to follow
 
 Like many social media platforms, you can select people from the DEV community to follow. Following people on DEV lets you see their latest posts on your feed, such as videos, podcasts, articles, and more.
