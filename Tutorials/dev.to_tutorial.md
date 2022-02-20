@@ -22,13 +22,13 @@ First, we'll create a DEV account by signing up with your GitHub account.
 
 Go to the [DEV](dev.to) website to create an account. On the upper-right-hand corner of the homepage, click the **Create an Account** button (red box). Or you can click the other **Create an Account** button beneath the DEV Community message (blue box). Afterward, DEV will redirect you to their sign-up page.
 
-### 1.2 Sign-up with a GitHub
+### 1.2 Sign-up with GitHub
 
 Click **Sign-up with GitHub** as the third-party application to create a DEV account on the sign-up page.
 
 ### 1.3 Authorize DEV to access your third-party application
 
-DEV will redirect you to a new page requesting authorization to your GitHub account. By approving the authorization, you allow DEV to identify you by your GitHub account. Click **Authorize practicaldev** to confirm authorizing.
+DEV will redirect you to a new page requesting authorization to your GitHub account. Click Authorize practicaldev to approve the request. By approving the request, you allow DEV to identify you by your GitHub account (email and username).
 
 ### 1.4 Welcome to the DEV community
 
