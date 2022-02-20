@@ -7,9 +7,9 @@
 5. Clone your repository from you GitHub.com to your local computer by entering `git clone` followed by the HTTPS address.
 6. See you current local path on your computer by entering the `pwd` command.
 7. Enter `ls` to see all your directories within your current local path. You should see your cloned repository listed.
-8. `cd` followed by the name of your copied repository to go inside it on your local computer.
-   - `ls` to see a list of all your current files within your copied repository. You should only see your README.md file.
-   - `touch` followed by the name of the file you'd like to create (e.g., `touch helloworld.md`).
-9. Open your text editor.
-10. Open the file you created.
-11.
+8. To go inside your cloned repository on your local computer, enter `cd` followed by the name of the cloned repository.
+9. Enter `ls` to see a list of all your current files within your copied repository. You should only see your README.md file.
+10. To create a new file, enter `touch` followed by the name of the file you'd like to create (e.g., `touch helloworld.md`).
+11. Enter `git add .` to stage the file for a commit.
+12. To push the file to your GitHub.com account, enter `git commit -m` followed by a message within quotation marks (e.g., `git commit -m "Initial file creation"`).
+13.
