@@ -40,16 +40,18 @@ Now that you've created a DEV account, it's time to build your profile, choose t
 
 ### 2.1 Choose tags to follow
 
-DEV will ask you to choose **tags** to follow. Tags are written with the hashtag symbol (#) followed by a keyword representing a topic (e.g., #python). Choosing tags will customize your feed by showing posts that use the tag you follow. You can choose all that apply and click **Continue** to proceed forward.
+DEV will ask you to choose **tags** to follow. Tags are written with the hashtag symbol (#) followed by a keyword representing a topic (e.g., #python). Choosing tags will customize your feed by showing posts that use the tag you follow. You can choose all that apply and click **Continue** to proceed forward
 
 ### 2.2 Build your DEV profile
 
-The **Build your profile** form will appear for you to fill out. The form will display your GitHub profile image and username that DEV pulled from your GitHub account. If you want to change your DEV username, you can click into the **Username** field and enter a new username. Below are fields that are a part of the form (**NOTE**: All fields within the form are optional to populate):
+The **Build your profile** form will appear for you to fill out. The form will display your GitHub profile image and username that DEV pulled from your GitHub account. If you want to change your DEV username, you can click into the **Username** field and enter a new username.
 
-- **Bio**: You can share a brief summary of your background, interests, hobbies, and more.
-- **Work**: You can share what you do for work (e.g., Technical Writer at Gringotts Wizarding Bank).
-- **Education**: You can share where you went to school (e.g., Hogwarts School of Witchcraft and Wizardry).
-- **Skills/Languages**: List any coding languages and skills you know or are familiar with (e.g., python, ruby, Git, etc.).
+Below are fields that are a part of the form (NOTE: All fields within the form are optional to populate):
+
+- **Bio:** You can share a brief summary of your background, interests, hobbies, and more.
+- **Work:** You can share what you do for work (e.g., Technical Writer at Gringotts Wizarding Bank).
+- **Education:** You can share where you went to school (e.g., Hogwarts School of Witchcraft and Wizardry).
+- **Skills/Languages:** List any coding languages and skills you know or are familiar with (e.g., python, ruby, Git, etc.).
 
 ### 2.3 Choose people to follow
 
