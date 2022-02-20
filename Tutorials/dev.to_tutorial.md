@@ -28,11 +28,11 @@ Click **Sign-up with GitHub** as the third-party application to create a DEV acc
 
 ### 1.3 Authorize DEV to access your third-party application
 
-DEV will redirect you to a new page requesting authorization to your GitHub account. Click Authorize practicaldev to approve the request. By approving the request, you allow DEV to identify you by your GitHub account (email and username).
+DEV will redirect you to a new page requesting authorization to your GitHub account. Click **Authorize practicaldev** to approve the request. By approving the request, you allow DEV to identify you by your GitHub account (email and username).
 
-### 1.4 Welcome to the DEV community
+### 1.4 Accept DEV’s policies
 
-DEV will redirect you to the main website with a welcome message. Within the message, click the checkboxes to confirm that you agree with DEV's **Code of Conduct** and **Terms and Conditions**. After clicking the checkboxes, click **Continue** to proceed forward.
+DEV will redirect you to the main website with a welcome message. Click the checkboxes to confirm that you agree with DEV's **Code of Conduct** and **Terms and Conditions** within the message, then click **Continue** to proceed forward.
 
 ## 2. Customize your DEV account
 
