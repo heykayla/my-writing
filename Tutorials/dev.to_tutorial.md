@@ -55,9 +55,7 @@ Below are fields that are a part of the form (NOTE: All fields within the form a
 
 ### 2.3 Choose people to follow
 
-Like many social media platforms, you can select people from the DEV community to follow. Following people on DEV lets you see their posts, such as videos, podcasts, articles, etc., on your feed.
-
-Select anyone to follow and click **Continue** once you're done to proceed forward.
+Like many social media platforms, you can select people from the DEV community to follow. Following people on DEV lets you see their latest posts on your feed, such as videos, podcasts, articles, and more.
 
 ### 2.3 Choose your email preferences and complete DEV account customization
 
