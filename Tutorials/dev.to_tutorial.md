@@ -44,7 +44,8 @@ Now that you've created a DEV account, it's time to build your profile, choose t
 
 ### 2.1 Choose tags to follow
 
-DEV will ask you to choose **tags** to follow. Tags are written with the hashtag symbol (#) followed by a keyword representing a topic (e.g., #python). Choosing tags will customize your feed by showing posts that use the tag you follow. You can choose all that apply and click **Continue** to proceed forward
+DEV will ask you to choose **tags** to follow. Tags are written with the hashtag symbol (#) followed by a keyword representing a topic (e.g., #python). Choosing tags will customize your feed by showing posts that use the tag you follow. You can choose all that apply and click **Continue** to proceed forward.
+![DEV's options for tags page](https://github.com/heykayla/Technical-Writing-Portfolio/blob/main/Images/creating_DEV_account_tutorial/Picture5.png)
 
 ### 2.2 Build your DEV profile
 
