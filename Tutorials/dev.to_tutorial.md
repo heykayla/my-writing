@@ -36,6 +36,7 @@ DEV will redirect you to a new page requesting authorization to your GitHub acco
 ### 1.4 Accept DEV’s policies
 
 DEV will redirect you to the main website with a welcome message. Click the checkboxes to confirm that you agree with DEV's **Code of Conduct** and **Terms and Conditions** within the message, then click **Continue** to proceed forward.
+![DEV's welcome message and community policies](https://github.com/heykayla/Technical-Writing-Portfolio/blob/main/Images/creating_DEV_account_tutorial/Picture4.png)
 
 ## 2. Customize your DEV account
 
