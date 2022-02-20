@@ -50,6 +50,7 @@ DEV will ask you to choose **tags** to follow. Tags are written with the hashtag
 ### 2.2 Build your DEV profile
 
 The **Build your profile** form will appear for you to fill out. The form will display your GitHub profile image and username that DEV pulled from your GitHub account. If you want to change your DEV username, you can click into the **Username** field and enter a new username.
+![DEV's build yoru profile form](https://github.com/heykayla/Technical-Writing-Portfolio/blob/main/Images/creating_DEV_account_tutorial/Picture6.png)
 
 Below are fields that are a part of the form (NOTE: All fields within the form are optional to populate):
 
