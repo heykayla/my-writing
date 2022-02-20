@@ -57,6 +57,8 @@ Below are fields that are a part of the form (NOTE: All fields within the form a
 
 Like many social media platforms, you can select people from the DEV community to follow. Following people on DEV lets you see their latest posts on your feed, such as videos, podcasts, articles, and more.
 
+DEV provides a list of suggested people to follow. Select anyone to follow and click Continue once you're done to proceed forward. (NOTE: Following people on DEV is optional. You can always skip this step and follow people later.)
+
 ### 2.3 Choose your email preferences and complete DEV account customization
 
 DEV will ask if you're interested in receiving weekly newsletters or top posts emails. You can select one, both, or neither of the email preferences. For choosing your email preferences, click the checkbox to confirm your choice. Afterward, click _Finish_ to complete customizing your DEV profile.
