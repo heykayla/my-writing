@@ -11,7 +11,7 @@ To complete this tutorial, you will need:
 - A computer
 - Internet connection
 - A GitHub account
-  - DEV gives users the option to sign-up with their Apple ID, Forem, GitHub, or Twitter account. In this tutorial, we will use GitHub to create a DEV account. However, you are welcome to choose a different third-party application. The steps for creating a DEV account with a different third-party application are similar.
+  - o DEV gives users the option to sign-up with their Apple ID, Forem, GitHub, or Twitter account. In this tutorial, we will use GitHub to create a DEV account. However, you are welcome to choose a different third-party application. The steps for creating a DEV account with a different third-party application are similar.
   - If you do not have a GitHub account, follow GitHub's [Signing up for a new GitHub account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account) instructions.
 
 ## 1. Create a DEV account
@@ -20,9 +20,7 @@ First, we'll create a DEV account by signing up with your GitHub account.
 
 ### 1.1 Go to the DEV website
 
-Go to the [DEV](dev.to) website to create an account.
-
-On the upper-right-hand corner of the homepage, click the **Create an Account** button. Or you can click the other **Create an Account** button beneath the _DEV Community_ message. Afterward, DEV will redirect you to their sign-up page.
+Go to the [DEV](dev.to) website to create an account. On the upper-right-hand corner of the homepage, click the **Create an Account** button (red box). Or you can click the other **Create an Account** button beneath the DEV Community message (blue box). Afterward, DEV will redirect you to their sign-up page.
 
 ### 1.2 Sign-up with a GitHub
 
