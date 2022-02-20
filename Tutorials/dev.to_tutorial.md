@@ -31,6 +31,7 @@ Click **Sign-up with GitHub** as the third-party application to create a DEV acc
 ### 1.3 Authorize DEV to access your third-party application
 
 DEV will redirect you to a new page requesting authorization to your GitHub account. Click **Authorize practicaldev** to approve the request. By approving the request, you allow DEV to identify you by your GitHub account (email and username).
+![DEV authorization request page](https://github.com/heykayla/Technical-Writing-Portfolio/blob/main/Images/creating_DEV_account_tutorial/Picture3.png)
 
 ### 1.4 Accept DEV’s policies
 
