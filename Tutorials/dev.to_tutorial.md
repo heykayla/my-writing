@@ -61,9 +61,9 @@ DEV provides a list of suggested people to follow. Select anyone to follow and c
 
 ### 2.3 Choose your email preferences and complete DEV account customization
 
-DEV will ask if you're interested in receiving weekly newsletters or top posts emails. You can select one, both, or neither of the email preferences. For choosing your email preferences, click the checkbox to confirm your choice. Afterward, click _Finish_ to complete customizing your DEV profile.
+DEV will ask if you're interested in receiving weekly newsletters or top posts emails. You can select one, both, or neither of the email preferences. For choosing your email preferences, click the checkbox to confirm your choice. Afterward, click Finish to complete customizing your DEV profile.
 
-DEV will direct you back to the main website with a message that confirms that you're a part of the DEV community.
+DEV will direct you back to the main website with a message confirming that you're a part of the DEV community.
 
 ## Conclusion
 
