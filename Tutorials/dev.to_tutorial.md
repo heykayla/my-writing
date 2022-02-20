@@ -26,6 +26,7 @@ Go to the [DEV](dev.to) website to create an account. On the upper-right-hand co
 ### 1.2 Sign-up with GitHub
 
 Click **Sign-up with GitHub** as the third-party application to create a DEV account on the sign-up page.
+![DEV sign-up page](https://github.com/heykayla/Technical-Writing-Portfolio/blob/main/Images/creating_DEV_account_tutorial/Picture2.png)
 
 ### 1.3 Authorize DEV to access your third-party application
 
