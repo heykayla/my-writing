@@ -15,16 +15,17 @@ To complete the steps, you will need to have Git installed on your computer and 
 
 1. Go to your [GitHub.com](http://wwww.github.com) account and create a repository with a README.md file.
    ![Creating a new repo in GitHub.com](https://github.com/heykayla/Technical-Writing-Portfolio/blob/main/Images/how_to_add_files_using_git/image3.png)
-2. Aftre creating your repository, GitHub will ask for you to set up your repository to your local computer. It'll provide options for using GitHub Desktop, HTTPS, or SSH. Click HTTPS and copy your repository's HTTPS address.
+2. Aftre creating your repository, GitHub will ask for you to set up your repository to your local computer. It'll provide options for using GitHub Desktop, HTTPS, or SSH. **Click** HTTPS and copy your repository's HTTPS address.
    ![Copying repo's HTTPS address](https://github.com/heykayla/Technical-Writing-Portfolio/blob/main/Images/how_to_add_files_using_git/image4.png)
-3. Open your local computer's terminal to enter commands.
-4. To check your Git configuration settings, enter the `git config -l` command. You should see your GitHub username and email appear after running the command.
-5. Clone your repository from you GitHub.com to your local computer by entering `git clone` followed by the HTTPS address.
-6. See you current local path on your computer by entering the `pwd` command.
-7. Enter `ls` to see all your directories within your current local path. You should see your cloned repository listed.
-8. To go inside your cloned repository on your local computer, enter `cd` followed by the name of the cloned repository.
-9. Enter `ls` to see a list of all your current files within your copied repository. You should only see your README.md file.
-10. To create a new file, enter `touch` followed by the name of the file you'd like to create (e.g., `touch helloworld.md`).
-11. Enter `git add .` to stage the file for a commit.
-12. To push the file to your GitHub.com account, enter `git commit -m` followed by a message within quotation marks (e.g., `git commit -m "Initial file creation"`).
-13. Run `git push` to publish the new file into your GitHub.com repository.
+3. **Open** your local computer's terminal to enter commands.
+4. To check your Git configuration settings, **enter** the `git config -l` command. You should see your GitHub username and email appear after running the command.
+5. **Choose** a root directory to clone your repository to. Enter the command `cd` followed by the name of the directory you want the cloned repository to be stored in (e.g., `cd documents`).
+6. **Clone** your repository from you GitHub.com to your local computer by **entering** `git clone` followed by the HTTPS address.
+7. **See** your current local path on your computer by **entering** the `pwd` command.
+8. **Enter** `ls` to see all your directories within your current local path. You should see your cloned repository listed.
+9. To go **inside** your cloned repository on your local computer, **enter** `cd` followed by the name of the cloned repository.
+10. **Enter** `ls` to see a list of all your current files within your cloned repository. You should only see your README.md file.
+11. To **create** a new file, **enter** `touch` followed by the name of the file you'd like to create (e.g., `touch helloworld.md`).
+12. **Enter** `git add .` to stage the file for a commit.
+13. To **push** the file to your GitHub.com account, enter `git commit -m` followed by a message within quotation marks (e.g., `git commit -m "Initial file creation"`).
+14. Run `git push` to publish the new file to your main branch and into your GitHub.com repository.
