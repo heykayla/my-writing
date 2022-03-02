@@ -1,8 +1,17 @@
 # How to Create and Clone a GitHub Repository and Push New Files Using the Command Line
 
-## Introudction
+## Introduction
 
-In this how-to guide, you will follow instructions for creating and cloning a GitHub repository and creating and pushing new files from your local computer to your GitHub.com repository.
+This how-to guide shares instructions on:
+
+- Creating a new GitHub repository on your GitHub.com account
+- Cloning your GitHub repository from your GitHub.com account to your local computer
+- Creating a new file in your cloned repository on your local computer
+- Pushing your new file from your local computer to your GitHub.com repository
+
+To complete the steps, you will need to have Git installed on your computer and be using the command line.
+
+## Instructions
 
 1. Go to your GitHub.com account and create a repository with a README.md file.
 2. Copy your repository's HTTPS address.
