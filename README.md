@@ -1,12 +1,11 @@
-# ✍️ Technical-Writing-Portfolio
-## Introduction
-🎉 Wecome to my Technical Writing Portfolio repository on GitHub! 🎉
+# Welcome 👋
+Hi, thanks for checking out my Technical Writing Portfolio repository. 
 
-This repository contains a growing list of files that demonstrate my technical writing expertise and skills—ranging from tutorials to checklists.
+This repository contains pieces of technical documentation that I have created or am currently in the works of creating. I started this repository in January 2022, so there is not a plethora of documentation to peruse through. However, I plan to continue to develop more technical documentation to demonstrate my writing and expertise in using version control system software (Git) and GitHub. 
 
-## About
-My name is Kayla; I am a technical writer based in North Carolina. I have a background in technical writing, copywriting, and project management. I devote my free time to learning new technical writing tools, methodologies, and more to enhance my skills and knowledge, as I believe that there's always room for improvement. I also believe in the importance of adapting to new technical writing industry trends and techniques because to be a good technical writer, you must learn to change with the times.
+If you have any questions about me and my work thus far, feel free to send a message via my website's [Contact](https://kaylamorales.com/contact) page.
 
-To learn more about me and my work experience, I encourage you to explore my [website](https://kaylamorales.com/). Also, please feel free to reach out via my website's [Contact](https://kaylamorales.com/contact) page for questions, feedback, and more. 😊
+Thanks again for visiting!
 
-Thank you for stopping by! 👋
+Cheers,
+Kayla
