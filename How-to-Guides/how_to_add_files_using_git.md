@@ -9,11 +9,11 @@ This how-to guide shares instructions on:
 - Creating a new file in your cloned repository on your local computer
 - Pushing your new file from your local computer to your GitHub.com repository
 
-To complete the steps, you will need to have Git installed on your computer and be using the command line.
+To complete the steps, you will need to have Git installed on your computer and be using the command line on your local computer.
 
 ## Instructions
 
-1. Go to your GitHub.com account and create a repository with a README.md file.
+1. Go to your [GitHub.com](http://wwww.github.com) account and create a repository with a README.md file.
 2. Copy your repository's HTTPS address.
 3. Open your local computer's terminal to enter commands.
 4. To check your Git configuration settings, enter the `git config -l` command. You should see your GitHub username and email appear after running the command.
