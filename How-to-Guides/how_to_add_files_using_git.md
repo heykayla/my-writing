@@ -14,8 +14,9 @@ To complete the steps, you will need to have Git installed on your computer and 
 ## Instructions
 
 1. Go to your [GitHub.com](http://wwww.github.com) account and create a repository with a README.md file.
-2. Copy your repository's HTTPS address.
-   ![Copying repo's HTTPS address](https://github.com/heykayla/Technical-Writing-Portfolio/blob/main/Images/how_to_add_files_using_git/image3.png)
+   ![Creating a new repo in GitHub.com](https://github.com/heykayla/Technical-Writing-Portfolio/blob/main/Images/how_to_add_files_using_git/image3.png)
+2. Aftre creating your repository, GitHub will ask for you to set up your repository to your local computer. It'll provide options for using GitHub Desktop, HTTPS, or SSH. Click HTTPS and copy your repository's HTTPS address.
+   ![Copying repo's HTTPS address](https://github.com/heykayla/Technical-Writing-Portfolio/blob/main/Images/how_to_add_files_using_git/image4.png)
 3. Open your local computer's terminal to enter commands.
 4. To check your Git configuration settings, enter the `git config -l` command. You should see your GitHub username and email appear after running the command.
 5. Clone your repository from you GitHub.com to your local computer by entering `git clone` followed by the HTTPS address.
