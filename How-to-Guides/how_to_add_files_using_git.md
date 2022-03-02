@@ -12,4 +12,4 @@
 10. To create a new file, enter `touch` followed by the name of the file you'd like to create (e.g., `touch helloworld.md`).
 11. Enter `git add .` to stage the file for a commit.
 12. To push the file to your GitHub.com account, enter `git commit -m` followed by a message within quotation marks (e.g., `git commit -m "Initial file creation"`).
-13.
+13. Run `git push` to publish the new file into your GitHub.com repository.
