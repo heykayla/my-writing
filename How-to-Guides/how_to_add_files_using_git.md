@@ -2,6 +2,7 @@
 
 1. Go to your GitHub.com account and create a repository with a README.md file.
 2. Copy your repository's HTTPS address.
+   ![Copying HTTPS address](https://github.com/heykayla/Technical-Writing-Portfolio/blob/main/Images/how_to_add_files_using_git/image3.png)
 3. Open your local computer's terminal.
 4. Enter `git config -l` to check your Git configuration settings. You should see your GitHub username and email appear after running the command.
 5. Enter `git clone` and paste the HTTPS address to clone your repository from your GitHub.com account to your local computer.
