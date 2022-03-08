@@ -53,9 +53,12 @@ Use the commands outlined in this section to setup and customize your [Git](http
 
 Use the commands outlined in this section to perform the basic [Git workflow](https://uidaholib.github.io/get-git/3workflow.html).
 
-| Command                     | Definition                                                                                                                                                                                               |
-| --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `git clone`                 | This command clones a repository to your local computer by entering `git clone https://github.com/uidaholib/gitworkshop.git`. You can use either an HTTPS or SSH URL for cloning a repository.           |
-| `git status`                | This commands tells the current state of your repository.                                                                                                                                                |
-| `git add .`                 | This command stages your files after applying changes. The `git add .` command tells Git that you've made changes to a file and that you would like Git to track the file.                               |
-| `git commit -m "<message>"` | This command saves the changes you've made to a file. You use this command after staging the file. Within the quotation marks, you can enter a message that summarizes the changes you made to the file. |
+| Command                     | Definition                                                                                                                                                                                                 |
+| --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `git clone`                 | This command clones a repository to your local computer by entering `git clone https://github.com/uidaholib/gitworkshop.git`. You can use either an HTTPS or SSH URL for cloning a repository.             |
+| `git status`                | This commands tells the current state of your repository.                                                                                                                                                  |
+| `git add .`                 | This command stages your files after applying changes. The `git add .` command tells Git that you've made changes to a file and that you would like Git to track the file.                                 |
+| `git commit -m "<message>"` | This command saves the changes you've made to a file. You use this command after staging the file. Within the quotation marks, you can enter a message that describes the changes you've made to the file. |
+| `git push`                  | This command pushes and publishes the changes from your local repository on your computer to your GitHub.com repository.                                                                                   |
+
+##
