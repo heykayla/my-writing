@@ -1,10 +1,10 @@
-# Git Commands
+# Git Commands Cheat Sheet
 
 ## Introduction
 
 This cheat sheet lists all Git commands for users who are new to using Git or unfamiliar with many of the basic Git commands.
 
-## Git Commands Cheat Sheet
+## Git Commands
 
 ### Commands to Navigate
 
