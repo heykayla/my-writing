@@ -58,7 +58,7 @@ Use the commands outlined in this section to perform the basic [Git workflow](ht
 | `git status`                | This command displays the current state of your repository and staging area.                                                                                                                               |
 | `git add .`                 | This command stages your files after applying changes. The `git add .` command tells Git that you've made changes to a file and that you would like Git to track the file.                                 |
 | `git commit -m "<message>"` | This command saves the changes you've made to a file. You use this command after staging the file. Within the quotation marks, you can enter a message that describes the changes you've made to the file. |
-| `git push`                  | This command pushes the changes from your local repository on your computer to your GitHub.com repository.                                                                                                 |
-| `git pull`                  | This command updates your repository by pulling updates from your GitHub.com account and combing it with your local                                                                                        |
+| `git push`                  | This command pushes the changes from your local repository on your computer to your GitHub.com (remote) repository.                                                                                        |
+| `git pull`                  | This command updates your repository by pulling updates from your GitHub.com (remote) repository and combining the updates it with your local files.                                                       |
 
 ##
