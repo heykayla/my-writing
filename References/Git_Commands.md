@@ -8,6 +8,8 @@ This cheat sheet lists all Git commands for users who are new to using Git or un
 
 ### Commands to Navigate
 
+Use the commands outlined in this section to navigate to different directories (folders) or files on your local computer.
+
 | Command  | Definition                                                                                                                                                                                            |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `pwd`    | This command stands for _Print Working Directory_. You use this command to see your current file path.                                                                                                |
@@ -21,6 +23,8 @@ This cheat sheet lists all Git commands for users who are new to using Git or un
 
 ### Commands to Create
 
+Use the commands in this section to create new files and directories.
+
 | Command | Definition                                                                                                       |
 | ------- | ---------------------------------------------------------------------------------------------------------------- |
 | `touch` | This command creates a new and empty file by entering `touch filename.extension`. (e.g., `touch hello_world.md`) |
@@ -28,7 +32,19 @@ This cheat sheet lists all Git commands for users who are new to using Git or un
 
 ### Helpful Commands
 
-| Command  | Definition                                                                 |
-| -------- | -------------------------------------------------------------------------- |
-| `clear`  | This command clears the contents within the terminal.                      |
-| `git mv` | This command renames files by entering `git mv old_filename new_filename`. |
+The commands outlined in this section are helpful miscellaneous commands.
+
+| Command      | Definition                                                                      |
+| ------------ | ------------------------------------------------------------------------------- |
+| `clear`      | This command clears the contents within the terminal.                           |
+| `git mv`     | This command renames files by entering `git mv old_filename new_filename`.      |
+| `git status` | This command displays the current state of your repository or and staging area. |
+
+### Configuring Git
+
+Use the commands in this section to setup and customize your [Git](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) enviroment on your local computer.
+
+| Command                          | Definition                                                           |
+| -------------------------------- | -------------------------------------------------------------------- |
+| `git config --global user.name`  | This commands sets your Git username. (e.g., `git config -heykayla`) |
+| `git config --global user.email` | This command sets your Git email address.                            |
