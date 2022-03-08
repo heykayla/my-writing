@@ -24,4 +24,4 @@ This cheat sheet lists all Git commands for users who are new to using Git or un
 | Command | Definition                                                                                                       |
 | ------- | ---------------------------------------------------------------------------------------------------------------- |
 | `touch` | This command creates a new and empty file by entering `touch filename.extension`. (e.g., `touch hello_world.md`) |
-| `mkdir` | This command stands for Make Directory. You use this command to create a new and empty directory.                |
+| `mkdir` | This command stands for _Make Directory_. You use this command to create a new and empty directory.              |
