@@ -34,11 +34,10 @@ Use the commands outlined in this section to create new files and directories.
 
 The commands outlined in this section are helpful miscellaneous commands.
 
-| Command                               | Definition                                                                      |
-| ------------------------------------- | ------------------------------------------------------------------------------- |
-| `clear`                               | This command clears the contents within the terminal.                           |
-| `git mv <old_filename <new_filename>` | This command renames files.                                                     |
-| `git status`                          | This command displays the current state of your repository or and staging area. |
+| Command                               | Definition                                            |
+| ------------------------------------- | ----------------------------------------------------- |
+| `clear`                               | This command clears the contents within the terminal. |
+| `git mv <old_filename <new_filename>` | This command renames files.                           |
 
 ### Configurating Git
 
@@ -56,9 +55,10 @@ Use the commands outlined in this section to perform the basic [Git workflow](ht
 | Command                     | Definition                                                                                                                                                                                                 |
 | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `git clone`                 | This command clones a repository to your local computer by entering `git clone https://github.com/uidaholib/gitworkshop.git`. You can use either an HTTPS or SSH URL for cloning a repository.             |
-| `git status`                | This commands tells the current state of your repository.                                                                                                                                                  |
+| `git status`                | This command displays the current state of your repository and staging area.                                                                                                                               |
 | `git add .`                 | This command stages your files after applying changes. The `git add .` command tells Git that you've made changes to a file and that you would like Git to track the file.                                 |
 | `git commit -m "<message>"` | This command saves the changes you've made to a file. You use this command after staging the file. Within the quotation marks, you can enter a message that describes the changes you've made to the file. |
-| `git push`                  | This command pushes and publishes the changes from your local repository on your computer to your GitHub.com repository.                                                                                   |
+| `git push`                  | This command pushes the changes from your local repository on your computer to your GitHub.com repository.                                                                                                 |
+| `git pull`                  | This command updates your repository by pulling updates from your GitHub.com account and combing it with your local                                                                                        |
 
 ##
