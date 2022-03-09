@@ -34,19 +34,19 @@ Use the commands outlined in this section to create new files and directories.
 
 The commands outlined in this section are helpful miscellaneous commands.
 
-| Command                               | Definition                                            |
-| ------------------------------------- | ----------------------------------------------------- |
-| `clear`                               | This command clears the contents within the terminal. |
-| `git mv <old_filename <new_filename>` | This command renames files.                           |
+| Command                                | Definition                                            |
+| -------------------------------------- | ----------------------------------------------------- |
+| `clear`                                | This command clears the contents within the terminal. |
+| `git mv <old_filename> <new_filename>` | This command renames files.                           |
 
 ### Configure Git
 
-Use the commands outlined in this section to set up and customize your [Git](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) environment on your local computer.
+Use the commands outlined in this section to set up and customize your [Git](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) environment on your local computer for all repositories on your computer.  You can also [configure this per repository](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration#_git_config).
 
-| Command                            | Definition                                                          |
-| ---------------------------------- | ------------------------------------------------------------------- |
-| `git config --<global user.name>`  | This command sets your Git username. (e.g., `git config -heykayla`) |
-| `git config --<global user.email>` | This command sets your Git email address.                           |
+| Command                                      | Definition                                |
+| -------------------------------------------- | ------------------------------------------|
+| `git config --global user.name "<username>"` | This command sets your Git username.      |
+| `git config --global user.email "<email>"`   | This command sets your Git email address. |
 
 ### Basic Workflow
 
@@ -73,6 +73,8 @@ Use the commands outlined in this section to help you start working with remote 
 | `git init <directory>` | This command creates a new Git repository or can convert an existing local and unversioned directory into a Git repository. To convert a directory into a Git repository, make sure to open the directory using `cd` and enter `git init` without inputting the directory's name. |
 | `git branch --all` | This command lists all the branches within your repository. |
 | `git checkout <branch_name>` | This command allows you to switch to a different branch. |
-| `git checkout -b <branch-name>` | This command creates a new branch. |
+| `git checkout -b <branch-name>` | This command creates a new branch and switches to it at the same time. |
+| `git switch <branch_name>` | NEW: This command allows you to switch to a different branch. (Git v2.23+) |
+| `git switch -c <branch-name>` | NEW: This command creates a new branch and switches to it at the same time. (Git v2.23+) |
 | `git fetch add upstream <link>` | This command adds the upstream to your forked (copied) repository, allowing you to push changes to the original repository. When adding the upstream, make sure to copy the HTTPS or SSH link (whichever one you chose for cloning the forked repository to your local computer). |
 | `git fetch upstream main` | This command pulls any updates from the main branch of the forked repository to your local copy. |
