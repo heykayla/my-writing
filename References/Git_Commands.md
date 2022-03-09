@@ -50,23 +50,29 @@ Use the commands outlined in this section to setup and customize your [Git](http
 
 ### Basic Workflow
 
-Use the commands outlined in this section to perform the basic [Git workflow](https://uidaholib.github.io/get-git/3workflow.html).
+Use the commands outlined in this section to perform the basics of the [Git workflow](https://uidaholib.github.io/get-git/3workflow.html).
 
 | Command                     | Definition                                                                                                                                                                                                                                    |
 | --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `git clone`                 | This command clones a repository to your local computer by entering `git clone https://github.com/uidaholib/gitworkshop.git`. You can use either an HTTPS or SSH URL for cloning a repository.                                                |
 | `git status`                | This command displays the current state of your repository and staging area.                                                                                                                                                                  |
+| `git log`                   | This command lists all recent activities.                                                                                                                                                                                                     |
 | `git add .`                 | This command stages your files after applying changes. The `git add .` command tells Git that you've made changes to a file and that you would like Git to track the file.                                                                    |
 | `git commit -m "<message>"` | This command saves or takes a "snapshot" of the changes you've made to a file. You use this command after staging the file (`add .`). Within the quotation marks, you can enter a message that describes the changes you've made to the file. |
 | `git push`                  | This command pushes the changes that you've made to your local files in your cloned repository into your remote (GitHub.com) repository.                                                                                                      |
+| `git push origin main`      | This command pushes changes from a different branch to the main branch.                                                                                                                                                                       |
 | `git pull`                  | This command updates your repository by pulling updates from your remote repository and merging the updates with your local repository.                                                                                                       |
 | `git fetch`                 | This command displays changes made in your remote repository; it does not merge any changes with your local repository.                                                                                                                       |
 
 ## Work with Remote Repositories
 
-Use the commands outlined within this section to help you get started working with remote repositories from your local repository.
+Use the commands outlined in this section to help you get started working with remote repositories.
 | Command | Definition |
 |--|--|
-| `git remote -v` | This command lists the repository's URL of your remote repository |
-| `git init <directory>` | This command creates a new Git repository or convert an existing local and unversioned directoy into a Git repository. For converting a directory into a Git repository, make sure to open the directory using `cd` and then enter `git init` without inputting the directory's name. |
-|
+| `git remote -v` | This command lists the URL of your remote repository in your terminal. The word _origin_ will appear at the start of the name of your remote connection or URL; origin is the default and convention for the remote repository. |
+| `git init <directory>` | This command creates a new Git repository or can convert an existing local and unversioned directoy into a Git repository. For converting a directory into a Git repository, make sure to open the directory using `cd` and then enter `git init` without inputting the directory's name. |
+| `git branch --all` | This command lists all the branches within your repository. |
+| `git checkout <branch_name>` | This command allows you to switch to a different branch. |
+| `git checkout -b <branch-name>` | This command creates a new branch. |
+| `git fetch add upstream <link>` | This command adds the upstream to your forked (copied) repository, allowing you to push changes to the original repository. Make sure to copy the the HTTPS or SSH link (whichever one you chose for cloning the forked repository to your local computer) when adding the upstream. |
+| `git fetch upstream main` | This command pulls any updates from the main branch of the forked repository to your local copy. |
