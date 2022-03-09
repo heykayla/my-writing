@@ -2,18 +2,18 @@
 
 ## Introduction
 
-This cheat sheet lists all Git commands for users who are new to using Git or unfamiliar with many of the basic Git commands.
+This cheat sheet lists all Git commands for users new to using Git or unfamiliar with many of the basic Git commands.
 
 ## Git Commands
 
 ### Navigate
 
-Use the commands outlined in this section to navigate to different directories (folders) or files on your local computer.
+Use the commands outlined in this section to navigate different directories (folders) or files on your local computer.
 
 | Command               | Definition                                                                                                                                                                           |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | `pwd`                 | This command stands for _Print Working Directory_. You use this command to see your current file path.                                                                               |
-| `pwd -p`              | This commands shows you the full file path you're currently in.                                                                                                                      |
+| `pwd -p`              | This command shows you the full file path you're currently in.                                                                                                                       |
 | `cd <directory_name>` | This command stands for _Change Directory_. You use this command to enter and open a directory. Also, if you enter only `cd` or `cd ~`, you'll be directed back to your Home folder. |
 | `cd ..`               | This command takes you to a directory above the one you're currently in.                                                                                                             |
 | `cd -`                | This command takes you to the directory you were in before.                                                                                                                          |
@@ -41,16 +41,16 @@ The commands outlined in this section are helpful miscellaneous commands.
 
 ### Configure Git
 
-Use the commands outlined in this section to setup and customize your [Git](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) enviroment on your local computer.
+Use the commands outlined in this section to set up and customize your [Git](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) environment on your local computer.
 
-| Command                            | Definition                                                           |
-| ---------------------------------- | -------------------------------------------------------------------- |
-| `git config --<global user.name>`  | This commands sets your Git username. (e.g., `git config -heykayla`) |
-| `git config --<global user.email>` | This command sets your Git email address.                            |
+| Command                            | Definition                                                          |
+| ---------------------------------- | ------------------------------------------------------------------- |
+| `git config --<global user.name>`  | This command sets your Git username. (e.g., `git config -heykayla`) |
+| `git config --<global user.email>` | This command sets your Git email address.                           |
 
 ### Basic Workflow
 
-Use the commands outlined in this section to perform the basics of the [Git workflow](https://uidaholib.github.io/get-git/3workflow.html).
+Use the commands outlined in this section to perform the [Git workflow](https://uidaholib.github.io/get-git/3workflow.html).
 
 | Command                     | Definition                                                                                                                                                                                                                                    |
 | --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -59,20 +59,20 @@ Use the commands outlined in this section to perform the basics of the [Git work
 | `git log`                   | This command lists all recent activities.                                                                                                                                                                                                     |
 | `git add .`                 | This command stages your files after applying changes. The `git add .` command tells Git that you've made changes to a file and that you would like Git to track the file.                                                                    |
 | `git commit -m "<message>"` | This command saves or takes a "snapshot" of the changes you've made to a file. You use this command after staging the file (`add .`). Within the quotation marks, you can enter a message that describes the changes you've made to the file. |
-| `git push`                  | This command pushes the changes that you've made to your local files in your cloned repository into your remote (GitHub.com) repository.                                                                                                      |
+| `git push`                  | This command pushes the changes you've made to your local files in your cloned repository into your remote (GitHub.com) repository.                                                                                                           |
 | `git push origin main`      | This command pushes changes from a different branch to the main branch.                                                                                                                                                                       |
 | `git pull`                  | This command updates your repository by pulling updates from your remote repository and merging the updates with your local repository.                                                                                                       |
 | `git fetch`                 | This command displays changes made in your remote repository; it does not merge any changes with your local repository.                                                                                                                       |
 
 ## Work with Remote Repositories
 
-Use the commands outlined in this section to help you get started working with remote repositories.
+Use the commands outlined in this section to help you start working with remote repositories.
 | Command | Definition |
 |--|--|
-| `git remote -v` | This command lists the URL of your remote repository in your terminal. The word _origin_ will appear at the start of the name of your remote connection or URL; origin is the default and convention for the remote repository. |
-| `git init <directory>` | This command creates a new Git repository or can convert an existing local and unversioned directoy into a Git repository. For converting a directory into a Git repository, make sure to open the directory using `cd` and then enter `git init` without inputting the directory's name. |
+| `git remote -v` | This command lists the URL of your remote repository in your terminal. The word _origin_ will appear at the start of your remote connection or URL; origin is the default and convention for the remote repository. |
+| `git init <directory>` | This command creates a new Git repository or can convert an existing local and unversioned directory into a Git repository. To convert a directory into a Git repository, make sure to open the directory using `cd` and enter `git init` without inputting the directory's name. |
 | `git branch --all` | This command lists all the branches within your repository. |
 | `git checkout <branch_name>` | This command allows you to switch to a different branch. |
 | `git checkout -b <branch-name>` | This command creates a new branch. |
-| `git fetch add upstream <link>` | This command adds the upstream to your forked (copied) repository, allowing you to push changes to the original repository. Make sure to copy the the HTTPS or SSH link (whichever one you chose for cloning the forked repository to your local computer) when adding the upstream. |
+| `git fetch add upstream <link>` | This command adds the upstream to your forked (copied) repository, allowing you to push changes to the original repository. When adding the upstream, make sure to copy the HTTPS or SSH link (whichever one you chose for cloning the forked repository to your local computer). |
 | `git fetch upstream main` | This command pulls any updates from the main branch of the forked repository to your local copy. |
