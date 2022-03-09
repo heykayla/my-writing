@@ -6,7 +6,7 @@ This cheat sheet lists all Git commands for users who are new to using Git or un
 
 ## Git Commands
 
-### Navigating
+### Navigate
 
 Use the commands outlined in this section to navigate to different directories (folders) or files on your local computer.
 
@@ -21,7 +21,7 @@ Use the commands outlined in this section to navigate to different directories (
 | `ls -a`               | This command lists all files and hidden files in a directory.                                                                                                                        |
 | `ls -l`               | This command lists all directories in a directory.                                                                                                                                   |
 
-### Creating
+### Create
 
 Use the commands outlined in this section to create new files and directories.
 
@@ -39,7 +39,7 @@ The commands outlined in this section are helpful miscellaneous commands.
 | `clear`                               | This command clears the contents within the terminal. |
 | `git mv <old_filename <new_filename>` | This command renames files.                           |
 
-### Configurating Git
+### Configure Git
 
 Use the commands outlined in this section to setup and customize your [Git](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) enviroment on your local computer.
 
@@ -60,6 +60,13 @@ Use the commands outlined in this section to perform the basic [Git workflow](ht
 | `git commit -m "<message>"` | This command saves or takes a "snapshot" of the changes you've made to a file. You use this command after staging the file (`add .`). Within the quotation marks, you can enter a message that describes the changes you've made to the file. |
 | `git push`                  | This command pushes the changes that you've made to your local files in your cloned repository into your remote (GitHub.com) repository.                                                                                                      |
 | `git pull`                  | This command updates your repository by pulling updates from your remote repository and merging the updates with your local repository.                                                                                                       |
-| `git fetch`                 | This command allows you to see changes made in your remote repository; it does not merge any changes with your local repository.                                                                                                              |
+| `git fetch`                 | This command displays changes made in your remote repository; it does not merge any changes with your local repository.                                                                                                                       |
 
-##
+## Work with Remote Repositories
+
+Use the commands outlined within this section to help you get started working with remote repositories from your local repository.
+| Command | Definition |
+|--|--|
+| `git remote -v` | This command lists the repository's URL of your remote repository |
+| `git init <directory>` | This command creates a new Git repository or convert an existing local and unversioned directoy into a Git repository. For converting a directory into a Git repository, make sure to open the directory using `cd` and then enter `git init` without inputting the directory's name. |
+|
