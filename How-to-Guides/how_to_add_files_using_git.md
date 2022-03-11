@@ -1,31 +1,104 @@
-# How to Create and Clone a GitHub Repository and Push New Files Using the Command Line
+# How to Create and Push Files to a Remote Repository
 
-## Introduction
+## Overview
 
-This how-to guide shares instructions on:
+This how-to article covers instructions for creating and pushing new files to a remote repository using the command line.
 
-- Creating a new GitHub repository on your GitHub.com account
-- Cloning your GitHub repository from your GitHub.com account to your local computer
-- Creating a new file in your cloned repository on your local computer
-- Pushing your new file from your local computer to your GitHub.com repository
+## Before you start
 
-To complete the steps, you will need to have Git installed on your local computer and be using the command line.
+Before you begin, make sure you meet these prerequisites:
+
+- Have a GitHub account
+- Have Git installed and configured on your local computer
+- Have a repository created and cloned to your local computer
+- Have a text editor downloaded on your local computer (e.g., VS Code, Atom, etc.)
+
+## Step-by-step guide
+
+### Step 1: Open your terminal
+
+Open your local computer's terminal or use your text editor's built-in terminal to enter commands.
+
+### Step 2: Open your repository
+
+Perform the following steps to locate and open your cloned repository:
+
+1. See your current local path on your computer by running the `pwd` command.
+2. Run `ls` to see all your directories within your current local path. You should see your cloned repository listed.
+3. To go inside your cloned repository on your local computer, run `cd` followed by the name of the cloned repository.
+4. Run `ls` again to see a list of all your current files within your cloned repository. If it's a new repository, you should only see your README.md file.
+
+### Step 3: Validate your Git configuration settings
+
+Check if you have Git properly configured on your local computer by running the `git config -l` command. The output should list your Git username, email, along with other details.
+
+```
+Kaylas-Air:How-to-Guides kaylamorales$ git config -l
+credential.helper=osxkeychain
+user.name=heykayla
+user.email=kannmorales@gmail.com
+core.editor=vs code --wait
+core.excludesfile=/Users/kaylamorales/.gitignore_global
+color.ui=true
+difftool.sourcetree.cmd=opendiff "$LOCAL" "$REMOTE"
+difftool.sourcetree.path=
+mergetool.sourcetree.cmd=/Users/kaylamorales/Applications/Sourcetree.app/Contents/Resources/opendiff-w.sh "$LOCAL" "$REMOTE" -ancestor "$BASE" -merge "$MERGED"
+mergetool.sourcetree.trustexitcode=true
+commit.template=/Users/kaylamorales/.stCommitMsg
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+```
+
+### Step 4: Create a new file
+
+To **create** a new file in your cloned repository on your local computer, run the `touch` command followed by the title of the file you're creating.
+
+```
+Kaylas-Air:How-to-Guides kaylamorales$ git touch hello_world.md
+```
+
+### Step 5: Stage your file
+
+Upon creating the file and making changes to it (if applicable), it's time to stage it by running the `git add .` command.
+
+```
+Kaylas-Air:How-to-Guides kaylamorales$ git add .
+```
+
+You will not see an output after running the command.
+
+### Step 6: Commit file
+
+Next, you will need to save your file and its changes by running `git commit -m "<message>"`. Within the quotation marks, enter brief description about your file.
+
+```
+Kaylas-Air:How-to-Guides kaylamorales$ git commit -m "Initial commit"
+```
+
+Afterward, you should see the following output:
+
+```
+Kaylas-Air:How-to-Guides kaylamorales$ git commit -m "Initial commit"
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+```
+
+### Step 6: Push the file to your remote repository
+
+Now that you've committed your file, you can push (publish) your file to your remote repository (GitHub.com) by running the `git push` command.
+
+## See also
+
+Include references and/or links to other related documentation, either internal to the project or external.
+After a leading sentence on why/how they are valuable to readers of the current topic, multiple related can be displayed in a list:
+
+- One list for a small number of items, which can contain internal and external references, or;
+- Two lists, divided into internal and external and separated by another leading sentence, if there are a larger number of items.
 
 ## Instructions
 
-1. Go to your [GitHub.com](http://wwww.github.com) account and create a repository with a README.md file.
-   ![Creating a new repo in GitHub.com](https://github.com/heykayla/Technical-Writing-Portfolio/blob/main/Images/how_to_add_files_using_git/image3.png)
-2. After creating your repository, GitHub will ask for you to set up your repository to your local computer. It'll provide options for using GitHub Desktop, HTTPS, or SSH. **Click** HTTPS and copy your repository's HTTPS address.
-   ![Copying repo's HTTPS address](https://github.com/heykayla/Technical-Writing-Portfolio/blob/main/Images/how_to_add_files_using_git/image4.png)
-3. **Open** your local computer's terminal to enter commands.
-4. To check your Git configuration settings, **enter** the `git config -l` command. You should see your GitHub username and email appear after running the command.
-5. **Choose** a root directory to clone your repository to. Enter the command `cd` followed by the name of the directory you want the cloned repository to be stored in (e.g., `cd documents`).
-6. **Clone** your repository from you GitHub.com to your local computer by **entering** `git clone` followed by the HTTPS address.
-7. **See** your current local path on your computer by **entering** the `pwd` command.
-8. **Enter** `ls` to see all your directories within your current local path. You should see your cloned repository listed.
-9. To go **inside** your cloned repository on your local computer, **enter** `cd` followed by the name of the cloned repository.
-10. **Enter** `ls` to see a list of all your current files within your cloned repository. You should only see your README.md file.
-11. To **create** a new file, **enter** `touch` followed by the name of the file you'd like to create (e.g., `touch helloworld.md`).
 12. **Enter** `git add .` to stage the file for a commit.
 13. To **push** the file to your GitHub.com account, enter `git commit -m` followed by a message within quotation marks (e.g., `git commit -m "Initial file creation"`).
 14. Run `git push` to publish the new file to your main branch and into your GitHub.com repository.
