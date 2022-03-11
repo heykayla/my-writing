@@ -75,19 +75,17 @@ Next, you will need to save your file and its changes by running `git commit -m 
 Kaylas-Air:How-to-Guides kaylamorales$ git commit -m "Initial commit"
 ```
 
-Afterward, you should see the following output:
+Afterward, you should see a similar output:
 
 ```
-Kaylas-Air:How-to-Guides kaylamorales$ git commit -m "Initial commit"
-On branch main
-Your branch is up to date with 'origin/main'.
-
-nothing to commit, working tree clean
+[main a50f2b4] Initial commit.
+ 1 file changed, 104 insertions(+), 31 deletions(-)
+ rewrite How-to-Guides/hello_world.md (87%)
 ```
 
 ### Step 6: Push the file to your remote repository
 
-Now that you've committed your file, you can push (publish) your file to your remote repository (GitHub.com) by running the `git push` command.
+Now that you've committed your file, you can push (publish) your file to your main branch into your remote repository (GitHub.com) by running the `git push` command.
 
 ## See also
 
@@ -96,9 +94,3 @@ After a leading sentence on why/how they are valuable to readers of the current 
 
 - One list for a small number of items, which can contain internal and external references, or;
 - Two lists, divided into internal and external and separated by another leading sentence, if there are a larger number of items.
-
-## Instructions
-
-12. **Enter** `git add .` to stage the file for a commit.
-13. To **push** the file to your GitHub.com account, enter `git commit -m` followed by a message within quotation marks (e.g., `git commit -m "Initial file creation"`).
-14. Run `git push` to publish the new file to your main branch and into your GitHub.com repository.
