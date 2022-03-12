@@ -74,7 +74,8 @@ Use the commands outlined in this section to help you start working with remote 
 | `git branch --all` | This command lists all the branches within your repository. |
 | `git checkout <branch_name>` | This command switches you to a different branch. |
 | `git checkout -b <branch-name>` | This command creates a new branch and switches to it at the same time. |
-| `git switch <branch_name>` | NEW: This command switches you to a different branch. (Git v2.23+) |
-| `git switch -c <branch-name>` | NEW: This command creates a new branch and switches to it at the same time. (Git v2.23+) |
+| `git switch <branch_name>` | This command switches you to a different branch. (Git v2.23+) |
+| `git switch -c <branch-name>` | This command creates a new branch and switches to it at the same time. (Git v2.23+) |
+| `git branch -d -r origin/feature/<branch>` | This command deletes a local branch. |
 | `git fetch add upstream <link>` | This command adds the upstream to your forked (copied) repository, allowing you to push changes to the original repository. When adding the upstream, make sure to use the HTTPS or SSH link (whichever one you chose for cloning the forked repository to your local computer). |
 | `git fetch upstream main` | This command pulls any updates from the main branch of the forked repository to your local copy. |
