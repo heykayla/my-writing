@@ -1,10 +1,10 @@
-# How to Create and Customize Your DEV Account
+# Creating and Customizing Your DEV Account Tutorial
 
 ## Introduction
 
 This tutorial will teach you how to create a DEV account—a free social networking platform for developers—using your GitHub account. You will also learn how to customize your DEV account by building a profile, choosing tags and people to follow, and more.
 
-## Prerequisites
+## What you will need
 
 To complete this tutorial, you will need:
 
@@ -20,7 +20,7 @@ First, we'll create a DEV account by signing up with your GitHub account.
 
 ### 1.1 Go to the DEV website
 
-Go to the [DEV](dev.to) website to create an account. On the upper-right-hand corner of the homepage, click the **Create an Account** button (red box). Or you can click the other **Create an Account** button beneath the DEV Community message (blue box). Afterward, DEV will redirect you to their sign-up page.
+Go to the [DEV](dev.to) website to create an account. On the upper corner of the homepage, click the **Create an Account** button (red box). Or you can click the other **Create an Account** button beneath the DEV Community message (blue box). Afterward, DEV will redirect you to their sign-up page.
 
 ![DEV homepage](https://github.com/heykayla/Technical-Writing-Portfolio/blob/main/Images/creating_DEV_account_tutorial/Picture1.png)
 
