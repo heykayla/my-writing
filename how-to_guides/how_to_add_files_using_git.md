@@ -30,7 +30,7 @@ Perform the following steps to locate and open your cloned repository:
 
 ### Step 3: Validate your Git configuration settings
 
-Check if you have Git properly configured on your local computer by running the `git config -l` command. The output should list your Git username, email, along with other details.
+Check your Git configuration settings on your local computer by running the `git config -l` command. The output should list your Git username, email, along with other details.
 
 ```
 Kaylas-Air:How-to-Guides kaylamorales$ git config -l
