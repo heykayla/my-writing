@@ -24,13 +24,13 @@ Open your local computer's terminal or use your text editor's built-in terminal 
 Perform the following steps to locate and open your cloned repository:
 
 1. See your current local path on your computer by running the `pwd` command.
-2. Run `ls` to see all your directories within your current local path. You should see your cloned repository listed.
+2. Run `ls` to see your cloned repository listed.
 3. To go inside your cloned repository on your local computer, run `cd` followed by the name of the cloned repository.
-4. Run `ls` again to see a list of all your current files within your cloned repository. If it's a new repository, you should only see your README.md file.
+4. Re-run `ls` to see a list of all your current files within your cloned repository. If it's a new repository, you should only see your README.md file.
 
 ### Step 3: Validate your Git configuration settings
 
-Check if you have Git properly configured on your local computer by running the `git config -l` command. The output should list your Git username, email, along with other details.
+Check your Git configuration settings on your local computer by running the `git config -l` command. The output should list your Git username, email, along with other details.
 
 ```
 Kaylas-Air:How-to-Guides kaylamorales$ git config -l
