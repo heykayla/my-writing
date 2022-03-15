@@ -19,14 +19,14 @@ Before you begin, make sure you meet these prerequisites:
 
 Open your local computer's terminal or use your text editor's built-in terminal to run commands.
 
-### Step 2: Open your repository
+### Step 2: Open your cloned repository
 
 Perform the following steps to locate and open your cloned repository:
 
 1. See your current local path on your computer by running the `pwd` command.
 2. Run `ls` to see your cloned repository listed.
-3. To go inside your cloned repository on your local computer, run `cd` followed by the name of the cloned repository.
-4. Re-run `pwd` to validate that you are inside your cloned repository.
+3. To go open your cloned repository, run `cd` followed by the name of the cloned repository.
+4. Re-run `pwd` to validate that you are inside and have opened your cloned repository.
 
 ### Step 3: Validate your Git configuration settings
 
@@ -51,7 +51,7 @@ filter.lfs.required=true
 
 ### Step 4: Create a new file
 
-To **create** a new file in your cloned repository on your local computer, run the `touch` command followed by the title of the file you're creating.
+To **create** a new file in your cloned repository, run the `touch` command followed by the filename you're giving it.
 
 ```
 >:$ git touch hello_world.md
