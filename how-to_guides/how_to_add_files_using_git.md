@@ -17,7 +17,7 @@ Before you begin, make sure you meet these prerequisites:
 
 ### Step 1: Open your terminal
 
-Open your local computer's terminal or use your text editor's built-in terminal to enter commands.
+Open your local computer's terminal or use your text editor's built-in terminal to run commands.
 
 ### Step 2: Open your repository
 
@@ -89,4 +89,8 @@ Now that you've committed your file, run `git push` to publish your changes to y
 
 ## See also
 
--
+- [Signing up for a new GitHub account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account)
+- [1.5 Getting Started - Installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+- [1.6 Getting Started - First-Time Git Setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
+- [Create a repo](https://docs.github.com/en/get-started/quickstart/create-a-repo)
+- [Cloning a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
