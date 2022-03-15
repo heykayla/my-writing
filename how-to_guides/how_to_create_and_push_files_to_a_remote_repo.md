@@ -26,7 +26,12 @@ Perform the following steps to locate and open your cloned repository:
 1. See your current local path on your computer by running the `pwd` command.
 2. Run `ls` to see your cloned repository listed.
 3. To go open your cloned repository, run `cd` followed by the name of the cloned repository.
-4. Re-run `pwd` to validate that you are inside and have opened your cloned repository.
+
+```
+>:$ cd <cloned_repo_name>
+```
+
+4. Re-run `pwd` to validate that you have opened your cloned repository.
 
 ### Step 3: Validate your Git configuration settings
 
@@ -48,6 +53,8 @@ commit.template=/Users/<computername>/.stCommitMsg
 filter.lfs.process=git-lfs filter-process
 filter.lfs.required=true
 ```
+
+> 🚩 **NOTE**: Your output may not exactly replicate the example shown above.
 
 ### Step 4: Create a new file
 
