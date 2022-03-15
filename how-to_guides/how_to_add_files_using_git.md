@@ -59,7 +59,7 @@ To **create** a new file in your cloned repository on your local computer, run t
 
 ### Step 5: Stage your file
 
-Upon creating the file and making changes to it (if applicable), it's time to stage it by running the `git add .` command.
+Upon creating the file and making changes (if applicable), it's time to stage it by running the `git add .` command.
 
 ```
 >:$ git add .
@@ -69,7 +69,7 @@ You will not see an output after running the command.
 
 ### Step 6: Commit file
 
-Next, save your file and its changes by running `git commit -m "<message>"`. Within the quotation marks, enter brief description about your file.
+Next, save your file and its changes by running `git commit -m "<message>"`. Within the quotation marks, enter a brief description of your file.
 
 ```
 >:$ git commit -m "Initial commit"
@@ -85,7 +85,7 @@ Afterward, you should see a similar output:
 
 ### Step 6: Push the file to your remote repository
 
-Now that you've committed your file, run `git push` to publish your changes to your remote repository (GitHub.com).
+Now that you've committed your file run `git push` to publish your changes to your remote repository (GitHub.com).
 
 ## See also
 
