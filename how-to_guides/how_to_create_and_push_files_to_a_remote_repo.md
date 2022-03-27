@@ -6,7 +6,7 @@ This how-to article covers instructions for creating and pushing new files to a 
 
 ## Before you start
 
-Before you begin, make sure you meet these prerequisites:
+Before you start, make sure you meet these prerequisites:
 
 - Have a GitHub account
 - Have Git installed and configured on your local computer
@@ -74,7 +74,7 @@ Upon creating the file and making changes (if applicable), it's time to stage it
 
 You will not see an output after running the command.
 
-### Step 6: Commit file
+### Step 6: Commit your file
 
 Next, save your file and its changes by running `git commit -m "<message>"`. Within the quotation marks, enter a brief description of your file.
 
