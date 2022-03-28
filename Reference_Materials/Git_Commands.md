@@ -64,7 +64,7 @@ Use the commands outlined in this section to perform the [Git workflow](https://
 | `git pull`                  | This command updates your repository by pulling updates from your remote repository and merging the updates with your local repository.                                                                                                       |
 | `git fetch`                 | This command displays changes made in your remote repository; it does not merge any changes with your local repository.                                                                                                                       |
 
-## Work with Remote Repositories
+### Work with Remote Repositories
 
 Use the commands outlined in this section to help you start working with remote repositories.
 | Command | Definition |
