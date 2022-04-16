@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This reference document describes the user interface (UI) components of the [DEV](https://dev.to/) website and is for DEV users unfamiliar with DEV's UI.
+This reference document describes the components of [DEV's](https://dev.to/) user interface (UI) to users unfamiliar with the DEV webiste.
 
 ## Homepage components
 
