@@ -21,7 +21,7 @@ The sidebar serves as DEV's navigation system. Reference the table below to unde
 | 🏡 Home | This menu item navigates you to the DEV homepage. |
 | 🗃 Reading List | This menu item navigates you to your bookmarked DEV posts. |
 | 🎙 Podcasts | This menu item navigates you to DEV's Podcasts page, which contains a library of podcasts related to the tech industry. |
-| 🎥 Video | This menu item navigates you to the DEV Community on Video page where you can watch videos posted on DEV. |
+| 🎥 Video | This menu item navigates you to the DEV Community on Video page where you can peruse and watch videos posted on DEV. |
 | 🏷 Tags | This menu item navigates you to a page that lists and defines popular DEV tags to follow. |
 | 💡 FAQ | This menu item navigates you to the Frequently Asked Questions page. |
 | 🛍 Forem Shop | This menu item navigates you to the Forem store to purchase Forum merchandise. |
