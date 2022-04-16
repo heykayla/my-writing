@@ -10,7 +10,19 @@ On the DEV homepage after logging into your account, you will see:
 
 - A sidebar
 - A social feed
-- Listings for contributing, available jobs, and more
-- Posts nested under trending hashtags
+- Listings
+- DEV posts nested under trending hashtags
 
 ### Sidebar
+
+The sidebar serves as DEV's navigation system. Reference the table below to understand what each menu item in the sidebar mean.
+| Menu Item | Description |
+|--|--|
+| 🏡 Home | This menu item navigates you back to the DEV homepage. |
+| 🗃 Reading List | This menu item navigates you to your bookmarked DEV posts. |
+| 🎙 Podcasts | This menu item navigates you to DEV's Podcasts page that contains a library of podcasts related to the tech industry. |
+| 🎥 Video | This menu item navigates you to the DEV Community on Video page where you can watch videos posted on DEV. |
+| 🏷 Tags | This menu item navigates you to a page that lists and defines popular DEV tags to follow. |
+| 💡 FAQ | This menu item navigates you to the Frequently Asked Questions page. |
+| 🛍 Forem Shop | This menu item navigates you to the Forem store to purchase Forum merchandise. |
+| ❤️ Sponsors | This menu item navigates you to the Sponsorship Options page to learn about DEV's current sponsors and a
