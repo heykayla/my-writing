@@ -15,7 +15,7 @@ This article will help you undertand:
 
 A Quick Response (QR) code is an **interactive two-dimensional barcode that compresses data** into a small scannable box, consisting of **small patterned squares and dots encoded with pieces of information**.
 
-QR codes are **scanned with a smartphone or tablet** to direct users to a webpage, video, message, calendar event, or phone number. They are also commonly placed on banners, business cards, leaflets, public posters, and more.
+QR codes help you access information easily and quickly. All you need to do is **scan a QR code with a smartphone or tablet**, and it will direct you to a webpage, video, message, calendar event, or phone number. You can place and find QR codes on banners, business cards, leaflets, public posters, and more.
 
 ## How QR codes work
 
