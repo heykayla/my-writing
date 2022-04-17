@@ -19,13 +19,13 @@ QR codes help you access information easily and quickly. All you need to do is *
 
 ## How QR codes work
 
-Many smart devices (e.g., iPhone, Android, tablets, etc.) have **integrated QR readers into the camera feature or offer QR reader applications** for download to scan QR codes. After a user scans a QR code with a smart device, it will notify them that the QR code has been found and direct them to the desired information. QR codes can be scanned vertically, horizontally, or at any angle due to their two-dimensional design.
+Many smart devices (e.g., iPhone, Android, tablets, etc.) have **integrated QR readers into the camera feature or offer QR reader applications** for download to scan QR codes. After you scan a QR code with a smart device, it will notify you that the QR code has been found and direct you to the desired information. You can scan QR codes vertically, horizontally, or at any angle due to their two-dimensional design.
 
 ## Advantages of QR codes
 
 QR codes are used as a **shortcut to access information** easily and quickly. Unlike barcodes, QR codes do not need a specific machine to be read, just a smart device. QR codes **provide a digital dimension** to businesses, products, and marketing because products and services can be promoted and shared through QR codes, which can help improve engagement and conversions.
 
-In comparison to traditional barcodes, QR codes are reliable. QR codes **can function while impaired** because they have a built-in error correction in the design, meaning that even when the QR code gets damaged, it will find the correct redirection.
+In comparison to traditional barcodes, QR codes are reliable. QR codes **can function while impaired** because they have a built-in error correction in the design, which means that even when the QR code gets damaged, it will find the correct redirection.
 
 ## QR codes types
 
@@ -45,7 +45,7 @@ Although static QR codes provide limited functionality, they are helpful for per
 
 ### Dynamic QR codes
 
-Dynamic QR codes **can be modified** even after you generate them. They also scan and load faster in comparison to static QR codes. Metrics for dynamic QR codes can be tracked, which can help businesses and marketers better understand their audience. Furthermore, dynamic QR codes are great for restaurants, the hospitality industry, government agencies, and other business types that need to collect data and update QR codes when necessary.
+Dynamic QR codes **can be modified** even after you generate them. They also scan and load faster in comparison to static QR codes. Metrics for dynamic QR codes can be tracked, which can help businesses and marketers better understand their audience. Furthermore, dynamic QR codes are great for restaurants, the hospitality industry, government agencies, and other business types that need to collect data and periodically update QR codes.
 
 ## A breakdown of QR code components
 
