@@ -35,4 +35,4 @@ The **Other** is a subsection within the sidebar. Reference the table below to l
 |--|--|
 |👍 Code of Conduct|This menu item nagivates you to DEV's Code of Conduct page where you can learn DEV's rules and proper practices for community members to follow.|
 |🤓 Privacy Policy|This menu item nagivates you to DEV's Privacy Policy page where you can learn about how DEV collects, discloses, and manages your information.|
-|👀 Terms of Use|This menu item
+|👀 Terms of Use|This menu item navigates you to DEV's Web Site Terms and Conditions of Use page that specifies
