@@ -84,14 +84,21 @@ DEV displays trending tags under Listings where you can discover new DEV posts t
 
 The **Create Post** button located on the top navigation allows you to create a new DEV post.
 
-#### New Post
+#### New Post Editor
 
-When you create a new post, the What You See Is What You Get (WYSIWYG) is an editor appears that allows you to draft a DEV post.
+When you create a new post, you'll access DEV's editor that allows you to draft a DEV post.
 
-Reference the table below to learn about the WYSIWYG components:
+Reference the table below to learn about DEV's editor components:
 
-| Component           | Description                                                                                                                                                                                                       |
-| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Add a cover image   | The add a cover image button allows you to upload a picture to represent your DEV post.                                                                                                                           |
-| Add up to 4 tags... | The Add up to 4 tags... allows you to include four tags that are relevant to your DEV post; it will automatically provide suggestions of trending tags, or you can create your own tags.                          |
-| Toolbar             | The toolbar provides editing tools you can use, such as bolding and italicizing text; using ordered or an unorderd lists; creating headings; calling out quotes; displaying code; using codeblocks; adding images |
+| Component                       | Description                                                                                                                                                                                                                         |
+| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Add a cover image               | The add a cover image button allows you to upload a picture to represent your DEV post.                                                                                                                                             |
+| Add up to 4 tags...             | This allows you to add up to four tags of your choice that's relevant to your DEV post. Upon clicking, it will automatically provide a dropdown menu showing suggestions of trending tags, or you can create a new tag.             |
+| Toolbar                         | This provides editing tools you can use when creating your content, such as bolding and italicizing text; using ordered or unorderd lists; creating headings; calling out quotes; displaying code; using codeblocks; adding images. |
+| ⋮ (vertically aligned ellipsis) | This allows you to view and use more editing tools, inlcuding underlining and strikethrough text, using a line divider, and a button to view DEV's editor guide.                                                                    |
+| Write your post content here... | This allows you to type and create the content of your post in Markdown.                                                                                                                                                            |
+| Publish                         | This allows you to publish your DEV post for public viewing.                                                                                                                                                                        |
+| Save draft                      | This allows you to save your DEV post as a draft, allowing you to revisit your unpublished post at a later time.                                                                                                                    |
+| Post options                    | This allows you to change the canonical URL and if your post will be a part of a series, you can create a unique name for the series.                                                                                               |
+| Edit                            | This allows you to edit your DEV post after it's published or when it's saved as a draft.                                                                                                                                           |
+| Preview                         | This allows you to see how your DEV post will render.                                                                                                                                                                               |
