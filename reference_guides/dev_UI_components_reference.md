@@ -42,7 +42,7 @@ The **Other** is a subsection within the sidebar. Reference the table below to l
 
 #### Social
 
-Social icon are included in the sidebar that link to DEV's social media accounts, which include:
+Social icons are included in the sidebar that link to DEV's social media accounts, which include:
 
 - Twitter
 - Facebook
@@ -74,7 +74,7 @@ Reference the table below to learn about what each of the social feed filters me
 
 ### Listings
 
-**Listings** displays job posts, events, new products, and more. You can view more liststings by clicking See all where you can search and filter active listings. You can also create a listing.
+**Listings** displays job posts, events, new products, and other listings. You can view more liststings by clicking **See all** where you can find and filter active listings to narrow your search. You can also create a new listing.
 
 ### Trending tags
 
@@ -82,4 +82,16 @@ DEV displays trending tags under Listings where you can discover new DEV posts t
 
 ### Create post
 
-The **Create Post** button
+The **Create Post** button located on the top navigation allows you to create a new DEV post.
+
+#### New Post
+
+When you create a new post, the What You See Is What You Get (WYSIWYG) is an editor appears that allows you to draft a DEV post.
+
+Reference the table below to learn about the WYSIWYG components:
+
+| Component           | Description                                                                                                                                                                                                       |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Add a cover image   | The add a cover image button allows you to upload a picture to represent your DEV post.                                                                                                                           |
+| Add up to 4 tags... | The Add up to 4 tags... allows you to include four tags that are relevant to your DEV post; it will automatically provide suggestions of trending tags, or you can create your own tags.                          |
+| Toolbar             | The toolbar provides editing tools you can use, such as bolding and italicizing text; using ordered or an unorderd lists; creating headings; calling out quotes; displaying code; using codeblocks; adding images |
