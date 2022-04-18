@@ -88,6 +88,8 @@ The **Create Post** button on the top navigation allows you to create a new DEV 
 
 #### DEV's Editor
 
+![DEV's editor tool](https://github.com/heykayla/Technical-Writing-Portfolio/blob/main/Images/dev_UI_components_reference/dev_UI_components_reference2.png)
+
 When you create a new post, you'll access DEV's editor, which allows you to draft a DEV post.
 
 Reference the table below to learn about DEV's editor components:
