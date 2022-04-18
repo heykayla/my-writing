@@ -1,8 +1,8 @@
-# Git Commands Cheat Sheet
+# Git Commands Reference Guide
 
-## Introduction
+## Overview
 
-This cheat sheet lists all Git commands for users new to using Git or unfamiliar with many of the basic Git commands.
+This reference guide lists basic Git commands for users new to using Git or unfamiliar with many of the basic Git commands.
 
 ## Git Commands
 
@@ -41,7 +41,7 @@ The commands outlined in this section are helpful miscellaneous commands.
 
 ### Configure Git
 
-Use the commands outlined in this section to set up and customize your [Git](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) environment on your local computer for all repositories on your computer. You can also [configure Git per repository](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration#_git_config).
+Use the commands outlined in this section to set up and customize your [Git](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) environment on your local computer for all repositories on your computer. (**NOTE:** Learn how to configure Git per repository by reading [Customizing Git - Git Configuration](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration#_git_config).)
 
 | Command                                      | Definition                                |
 | -------------------------------------------- | ----------------------------------------- |
