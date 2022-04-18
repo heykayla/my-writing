@@ -2,7 +2,7 @@
 
 ## Overview
 
-This reference guide lists basic Git commands for users new to using Git or unfamiliar with many of the basic Git commands.
+This reference guide lists basic Git commands for novice users of Git.
 
 ## Git Commands
 
