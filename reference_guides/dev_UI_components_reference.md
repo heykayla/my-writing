@@ -1,5 +1,7 @@
 # DEV UI Components Reference
 
+![DEV's homepage](https://github.com/heykayla/Technical-Writing-Portfolio/blob/main/Images/dev_UI_components_reference/dev_UI_components_reference.png)
+
 ## Overview
 
 This reference document describes the components of [DEV's](https://dev.to/) user interface (UI) for users unfamiliar with the DEV website.
