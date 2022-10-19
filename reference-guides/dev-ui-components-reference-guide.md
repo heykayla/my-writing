@@ -1,6 +1,6 @@
 # DEV UI Components Reference Guide
 
-![DEV's homepage](https://github.com/heykayla/Technical-Writing-Portfolio/blob/main/Images/dev_UI_components_reference/dev_UI_components_reference.png)
+![DEV's homepage](https://github.com/heykayla/technical-writing-portfolio/blob/main/Images/dev-ui-components-reference-guide/dev_UI_components_reference.png)
 
 ## Overview
 
