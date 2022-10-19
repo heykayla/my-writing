@@ -1,6 +1,6 @@
 # QR Codes Explained
 
-![Infographic of QR code use case](https://github.com/heykayla/Technical-Writing-Portfolio/blob/main/Images/qr_codes_explained/qr_codes_explained.png)
+![Infographic of QR code use case](https://github.com/heykayla/technical-writing-portfolio/blob/main/Images/qr-codes-explained/qr_codes_explained.png)
 
 ## Overview
 
