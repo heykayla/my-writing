@@ -1,4 +1,4 @@
-# Welcome 👋
+# Welcome to my portfolio 👋
 
 Thank you for checking out my technical writing portfolio on GitHub. This repository contains pieces of technical documentation that I have created or am currently in the works of creating. 
 
