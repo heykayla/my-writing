@@ -33,7 +33,7 @@ After creating a DEV account, you can customize it by building your profile, cho
 1. *Optional*: After clicking **Continue** in the **Welcome to the DEV Community** dialog box, you can select tags to follow on the **What are you interested in?** dialog box and click **Continue**.
 
     **Note:** Tags customize your feed by showing posts that use your following tags.
-2. *Optional**: In the **Build your profile** dialog box, populate the following fields:
+2. *Optional*: In the **Build your profile** dialog box, populate the following fields:
   - **Username:** This field displays your GitHub username that DEV pulled from your GitHub account. If you want to change the username, you can click on the field and enter a new username.
   
     **Note:** Your profile picture is also pulled from your GitHub account, which you can change.
