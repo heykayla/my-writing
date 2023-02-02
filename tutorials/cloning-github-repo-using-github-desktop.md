@@ -30,7 +30,7 @@ Before you begin this tutorial, you must:
   
   **Note:** If you do not have Git installed on your computer, follow GitHub’s [Install Git](https://github.com/git-guides/install-git#:~:text=To%20install%20Git%2C%20run%20the,installation%20by%20typing%3A%20git%20version%20.) instructions.
 
-## Downloading GitHub Desktop
+## GitHub Desktop Download
 To get started, you must download the GitHub Desktop application on your computer.
 1. Go to the [GitHub Desktop](https://desktop.github.com/) website and select one of the following options:
   - If you have a Mac computer, click **Download for macOS**.
@@ -40,7 +40,7 @@ To get started, you must download the GitHub Desktop application on your compute
 
 **Result:** GitHub Desktop is downloaded to your computer.
 
-## Signing In to GitHub
+## GitHub Sign In
 
 Next, you need to sign in to your GitHub.com account.
 
@@ -59,7 +59,7 @@ Next, you need to sign in to your GitHub.com account.
 
 3. Sign in to your GitHub.com account with your login credentials
 
-## Cloning a repository
+## Repository clone
 After you sign in to your GitHub.com account, you can clone your repository to your local computer.
 
 1. Go back to the GitHub Desktop application.
