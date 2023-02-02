@@ -35,7 +35,8 @@ To get started, you must download the GitHub Desktop application on your compute
 1. Go to the [GitHub Desktop](https://desktop.github.com/) website and select one of the following options:
   - If you have a Mac computer, click **Download for macOS**.
   - If you have a Windows computer, click **Windows**.
-  Note: If you encounter issues, see [GitHub Desktop Documentation](https://docs.github.com/en/desktop) for installation instructions.
+    
+    **Note:** If you encounter issues, see [GitHub Desktop Documentation](https://docs.github.com/en/desktop) for installation instructions.
 
 **Result:** GitHub Desktop is downloaded to your computer.
 
