@@ -47,3 +47,12 @@ After creating a DEV account, you can customize it by building your profile, cho
 4. Select your email preferences and complete the DEV account customization.
 
     **Note:** This is to receive weekly DEV newsletters or top post announcements. You can select one, both, or none.
+
+**Result:** DEV directs you back to the homepage with a message confirming that you're a part of the DEV community.
+
+## Summary
+In this tutorial, you learned how to:
+- Create a DEV account with GitHub.
+- Customizing your DEV account.
+
+With your DEV account, you are a part of the DEV community and can create posts, share ideas, and collaborate with other developers.
