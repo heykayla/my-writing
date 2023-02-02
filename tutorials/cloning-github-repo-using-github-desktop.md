@@ -6,7 +6,7 @@ In this tutorial, you’ll learn how to clone a GitHub repository from your GitH
 
 ## Background
 
-Before you start this tutorial, there are a few concepts to review:
+There are a few concepts to review for this tutorial:
 - Git is an open-source Version Control System (VCS) software that records changes to files, allowing you to revert or recall changes you made. Git is like a time machine for your project, where you can always go back in time to review changes you made to a file, no matter how far you've altered them.
 - GitHub is a collaboration platform built on Git that enables you to host and review files and manage projects. It provides an efficient method for team collaboration by allowing multiple users to contribute to a file without having to overwrite and conflict with another user's work.
 - Within GitHub, there are repositories. Repositories are folders that contain and store files and their revision history. It provides another resourceful way to collaborate with other users.
