@@ -1,14 +1,12 @@
 # DEV UI Components Reference Guide
 
-![DEV's homepage](https://github.com/heykayla/technical-writing-portfolio/blob/main/Images/dev-ui-components-reference-guide/dev_UI_components_reference.png)
-
 ## Overview
 
 This reference document describes the components of [DEV's](https://dev.to/) user interface (UI) for users unfamiliar with the DEV website.
 
 ## Homepage components
 
-On the DEV homepage, after logging into your account, you will see:
+On the DEV homepage, after logging into your account, you'll see:
 
 - A sidebar
 - A social feed
@@ -18,38 +16,38 @@ On the DEV homepage, after logging into your account, you will see:
 
 ### Sidebar
 
-The sidebar serves as DEV's navigation system. Reference the table below to learn about each menu item in the sidebar.
+The sidebar serves as DEV's navigation system that contains the following menu items.
 
 | Menu Item      | Description                                                                                                                                                                             |
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🏡 Home        | This menu item navigates you to DEV's homepage.                                                                                                                                         |
-| 🗃 Reading List | This menu item navigates you to your bookmarked DEV posts.                                                                                                                              |
-| 🎙 Podcasts     | This menu item navigates you to DEV's Podcasts page, where you can discover podcasts related to tech.                                                                                   |
-| 🎥 Video       | This menu item navigates you to the DEV Community on Video page, where you can peruse and watch videos posted on DEV.                                                                   |
-| 🏷 Tags         | This menu item navigates you to the Top tags page that lists and defines popular DEV tags to follow.                                                                                    |
-| 💡 FAQ         | This menu item navigates you to the Frequently Asked Questions page, where you can find answers to questions you may have.                                                              |
-| 🛍 Forem Shop   | This menu item navigates you to the Forem store to purchase Forum merchandise.                                                                                                          |
-| ❤️ Sponsors    | This menu item navigates you to the Sponsorship Options page, where you can learn about DEV's current sponsors, how you can become a sponsor, and access the Sponsorship Interest Form. |
-| About          | This menu item navigates you to the About DEV page, where you can learn more about DEV.                                                                                                 |
-| Contact        | This menu item navigates you to the Contacts page, where you can find DEV's contact information.                                                                                        |
+| 🏡 Home        | Navigates you to DEV's homepage.                                                                                                                                         |
+| 🗃 Reading List | Navigates you to your bookmarked DEV posts.                                                                                                                              |
+| 🎙 Podcasts     | Navigates you to DEV's **Podcasts** page, where you can discover tech-related podcasts.                                                                                   |
+| 🎥 Video       | Navigates you to the **DEV Community on Video** page, where you can peruse and watch videos posted on DEV.                                                                   |
+| 🏷 Tags         | Navigates you to the **Top Tags** page that lists and defines popular DEV tags to follow.                                                                                    |
+| 💡 FAQ         | Navigates you to the **Frequently Asked Questions** page, where you can find answers to questions you may have.                                                              |
+| 🛍 Forem Shop   | Navigates you to the Forem store.                                                                                                          |
+| ❤️ Sponsors    | Navigates you to the **Sponsorship Options** page, where you can learn about DEV's current sponsors, how you can become a sponsor, and access the Sponsorship Interest Form. |
+| About          | Navigates you to the **About DEV** page, where you can learn more about DEV.                                                                                                 |
+| Contact        | Navigates you to the **Contacts** page, where you can find DEV's contact information.                                                                                        |
 
 #### Other
 
-The **Other** is a subsection within the sidebar. Reference the table below to learn about each menu item in the Other section of the sidebar.
+The **Other** is a subsection within the sidebar that contains the following menu items.
 |Menu Item|Description|
 |--|--|
-|👍 Code of Conduct|This menu item navigates you to DEV's Code of Conduct page, where you can learn DEV's rules and proper practices for community members to follow.|
-|🤓 Privacy Policy|This menu item navigates you to DEV's Privacy Policy page, where you can learn about how DEV collects, safeguards, and manages your information.|
-|👀 Terms of Use|This menu item navigates you to DEV's Web Site Terms and Conditions of Use page that discloses the rules, conditions, limitations, and other details that DEV and community members must agree to when using the website.|
+|👍 Code of Conduct| Navigates you to DEV's **Code of Conduct** page, where you can learn DEV's rules and proper practices for community members to follow.|
+|🤓 Privacy Policy| Navigates you to DEV's **Privacy Policy** page, where you can learn about how DEV collects, safeguards, and manages your information.|
+|👀 Terms of Use| Navigates you to DEV's **Web Site Terms and Conditions of Use** page that discloses the rules, conditions, limitations, and other details that DEV and community members must agree to when using the website.|
 
 #### Social
 
-Social icons are included in the sidebar that links to DEV's social media accounts, which include:
+Social icons are included in the sidebar that links to DEV's social media accounts, which include the following:
 
 - Twitter
 - Facebook
 - GitHub
-- Instagram, and
+- Instagram
 - Twitch
 
 #### My Tags
@@ -76,33 +74,31 @@ Reference the table below to learn what each social feed filter means.
 
 ### Listings
 
-**Listings** displays job posts, events, new products, and other listings. You can view more listings by clicking **See all** where you can find and filter active listings to narrow your search. You can also create a new listing.
+Displays job posts, events, new products, and other listings. You can view more listings by clicking **See all** where you can find and filter active listings to narrow your search. You can also create a new listing.
 
 ### Trending tags
 
-DEV displays and lists DEV posts that are using trending tags.
+Displays popular tags that are being used in DEV posts.
 
 ### Create post
 
-The **Create Post** button on the top navigation allows you to create a new DEV post.
+A button that allows you to create a new DEV post.
 
 #### DEV's Editor
 
-![DEV's editor tool](https://github.com/heykayla/Technical-Writing-Portfolio/blob/main/Images/dev_UI_components_reference/dev_UI_components_reference2.png)
+Allows you to create and edit a DEV post.
 
-When you create a new post, you'll access DEV's editor, which allows you to draft a DEV post.
-
-Reference the table below to learn about DEV's editor components:
+Reference the following table to learn about DEV's editor components.
 
 | Component                       | Description                                                                                                                                                                                                                  |
 | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Add a cover image               | This lets you upload a cover picture for your DEV post.                                                                                                                                                                      |
-| Add up to 4 tags...             | This lets you add up to four tags relevant to your DEV post. Upon clicking, it will automatically provide a dropdown menu showing suggestions of trending tags, or you can create a new tag.                                 |
-| Toolbar                         | This provides editing tools for creating your content, such as bolding and italicizing text, using ordered or unordered lists, creating headings, calling out quotes, displaying code, using code blocks, and adding images. |
-| ⋮ (vertically aligned ellipsis) | This lets you view and use more editing tools, including underlining and strikethrough text, a line divider, and a button to view DEV's editor guide.                                                                        |
-| Write your post content here... | This lets you type and create the content of your post in Markdown.                                                                                                                                                          |
-| Publish                         | This lets you publish your DEV post for public viewing.                                                                                                                                                                      |
-| Save draft                      | This lets you save your DEV post as a draft, allowing you to revisit your unpublished post later.                                                                                                                            |
-| Post options                    | This lets you change the canonical URL, and if your post is or will be a part of a series, you can create a unique name for the series.                                                                                      |
-| Edit                            | This lets you edit your DEV post after it's published or saved as a draft.                                                                                                                                                   |
-| Preview                         | This lets you see how your DEV post will render.                                                                                                                                                                             |
+| Add a cover image               | Lets you upload a cover picture for your DEV post.                                                                                                                                                                      |
+| Add up to 4 tags...             | Lets you add up to four tags relevant to your DEV post. Upon clicking, it automatically provides a dropdown showing suggestions of trending tags, or you can create a new tag.                                 |
+| Toolbar                         | Provides editing tools for creating your content, such as bolding and italicizing text, using ordered or unordered lists, creating headings, calling out quotes, displaying code, using code blocks, and adding images. |
+| ⋮ (vertically aligned ellipsis) | Lets you view and use more editing tools, including underlining and strikethrough text, a line divider, and a button to view DEV's editor guide.                                                                        |
+| Write your post content here... | Lets you type and create the content of your post in Markdown.                                                                                                                                                          |
+| Publish                         | Lets you publish your DEV post for public viewing.                                                                                                                                                                      |
+| Save draft                      | Lets you save your DEV post as a draft, allowing you to revisit your unpublished post later.                                                                                                                            |
+| Post options                    | Lets you change the canonical URL, and if your post is or will be a part of a series, you can create a unique name for the series.                                                                                      |
+| Edit                            | Lets you edit your DEV post after it's published or saved as a draft.                                                                                                                                                   |
+| Preview                         | Lets you see how your DEV post will render.                                                                                                                                                                             |
