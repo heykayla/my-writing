@@ -1,4 +1,4 @@
-# Cloning a GitHub repository with GitHub Desktop
+# Cloning a GitHub Repository with GitHub Desktop
 
 ## Overview
 
