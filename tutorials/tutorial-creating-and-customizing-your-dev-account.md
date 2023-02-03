@@ -1,4 +1,4 @@
-# Creating and customizing your DEV account
+# Creating and Customizing Your DEV Account
 
 ## Overview
 
