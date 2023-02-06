@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this tutorial, you'll learn how to create a DEV account, a free social networking platform for developers, with your GitHub account. Also, you’ll learn how to customize your DEV account. This tutorial is intended for beginners. 
+In this tutorial, you'll learn how to create a DEV account, a free social networking platform for developers, with your GitHub account. Also, you’ll learn how to customize your DEV account. This tutorial is intended for new users of DEV. 
 
 ## Before you begin
 Before you begin this tutorial, you must:
