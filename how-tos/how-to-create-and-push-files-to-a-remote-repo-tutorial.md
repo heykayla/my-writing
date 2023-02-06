@@ -25,7 +25,7 @@ Perform the following steps to locate and open your cloned repository:
 
 1. See your current local path on your computer by running the `pwd` command.
 2. Run `ls` to see your cloned repository listed.
-3. To go open your cloned repository, run `cd` followed by the name of the cloned repository.
+3. To open your cloned repository, run `cd` followed by the name of the cloned repository.
 
 ```
 >:$ cd <cloned_repo_name>
