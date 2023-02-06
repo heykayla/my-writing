@@ -29,7 +29,7 @@ You can use the following commands  to navigate directories (folders) or files o
 | `ls -a` | Lists all files and hidden files in a directory. |
 | `ls -l` | Lists all directories in a directory. |
 
-## Commands to create and rename
+## Commands to create and rename files and directories 
 
 You can use the following commands to create new files and directories on your local computer.
 
@@ -43,14 +43,14 @@ You can use the following commands to create new files and directories on your l
 
 You can use the following commands to configure a [Git](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) enviroment for your repositories on your local computer.
 
-Note: To learn how to configure Git, see [Customizing Git - Git Configuration](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration#_git_config).
+**Note**: To learn how to configure Git, see [Customizing Git - Git Configuration](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration#_git_config).
 
 | Command  | Description |
 |--|--|
 | `git config --global user.name "<username>"` | Sets your Git username. |
 | `git config --global user.email "<email>"` | Sets your Git email address. |
 
-## Commands to perform the Git workflow
+## Commands to perform Git workflow actions
 
 You can use the following commands to perform actions a part of the [Git workflow](https://uidaholib.github.io/get-git/3workflow.html).
 
