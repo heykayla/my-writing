@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this how-to, you’ll create and push new files to a remote repository (GitHub.com) with the command line. This how-to is intended for experts. 
+In this how-to, you’ll create and push new files to a remote repository (GitHub.com) with the command line. This how-to is intended for experts of GitHub. 
 
 ## Before you begin
 
