@@ -2,7 +2,7 @@
 
 ## Overview
 
-This reference article contains the following information for beginner Git users:
+This reference document contains the following information for beginner Git users:
 
 - Commands to navigate directories and files.
 
