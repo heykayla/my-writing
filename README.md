@@ -1,6 +1,6 @@
 # About the My Writing Repo
 
-This repository contains my technical writing samples. 
+My dedication to work and motivation to grow have led me to exceptional projects, careers, and experiences. I'm grateful to have had professions that I've been passionate about, and I am proud to share samples of my work in this repository.
 
 ## Documentation types
 
