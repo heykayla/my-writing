@@ -1,4 +1,4 @@
-# Git Commands Reference Guide
+# Git Commands
 
 ## Overview
 
