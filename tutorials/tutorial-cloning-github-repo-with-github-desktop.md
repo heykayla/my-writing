@@ -62,7 +62,7 @@ Next, you need to sign in to your GitHub.com account.
 
 3. Sign in to your GitHub.com account with your login credentials.
 
-## Clone repository
+## Clone the repository
 After you sign in to your GitHub.com account, you can clone your repository to your local computer.
 
 1. Go back to the GitHub Desktop application.
