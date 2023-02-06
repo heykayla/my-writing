@@ -42,6 +42,7 @@ You can use the following commands to create new files and directories on your l
 ## Commands to configure Git
 
 You can use the following commands to configure a [Git](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) enviroment for your repositories on your local computer.
+
 Note: To learn how to configure Git, see [Customizing Git - Git Configuration](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration#_git_config).
 
 | Command  | Description |
