@@ -12,7 +12,7 @@ Before you begin this tutorial, you must:
   
     **Note:** If you do not have a GitHub account, follow GitHub's [Signing up for a new GitHub account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account) instructions.
 
-## DEV account creation
+## Create a DEV account
 
 To get started, you’ll need to create a DEV account with your GitHub account.
 
@@ -27,7 +27,7 @@ To get started, you’ll need to create a DEV account with your GitHub account.
    **Result:** DEV redirects to the DEV website.
 5. In the **Welcome to the DEV Community** dialog box, to confirm that you agree with DEV’s Code of Conduct and terms and conditions, select the checkboxes and click **Continue**.
     
-##  DEV account customization
+##  Customize your DEV account
 After creating a DEV account, you can customize it by building your profile, choosing tags, finding people to follow, and more.
 
 1. *Optional*: After clicking **Continue** in the **Welcome to the DEV Community** dialog box, you can select tags to follow on the **What are you interested in?** dialog box and click **Continue**.
@@ -53,6 +53,6 @@ After creating a DEV account, you can customize it by building your profile, cho
 ## Summary
 In this tutorial, you learned how to:
 - Create a DEV account with GitHub.
-- Customizing your DEV account.
+- Customize your DEV account.
 
 With your DEV account, you are a part of the DEV community and can create posts, share ideas, and collaborate with other developers.
