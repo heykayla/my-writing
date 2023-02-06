@@ -38,6 +38,8 @@ To get started, you must download the GitHub Desktop application on your compute
     
     **Note:** If you encounter issues, see [GitHub Desktop Documentation](https://docs.github.com/en/desktop) for installation instructions.
 
+    ![A photo of the GitHub Desktop download page.](https://github.com/heykayla/my-writing/blob/main/images/tutorial-pics/step1-github-desktop-download.jpg)
+
 **Result:** GitHub Desktop is downloaded to your computer.
 
 ## GitHub sign in
@@ -54,6 +56,7 @@ Next, you need to sign in to your GitHub.com account.
   - Skip this step
 
 2. Click the **Sign In to GitHub.com** button.
+ ![A photo of the Welcome to GitHub Desktop message.](https://github.com/heykayla/my-writing/blob/main/images/tutorial-pics/step2b-github-sign-in.jpg)
  
     **Result:** The application redirects you to your web browser to sign in to your GitHub.com account.
 
@@ -64,26 +67,34 @@ After you sign in to your GitHub.com account, you can clone your repository to y
 
 1. Go back to the GitHub Desktop application.
 
-   **Result:** The **Let's Get Started** message displays that show the following options:
+   **Result:** The **Let's Get Started!** message displays that show the following options:
     - Create a Tutorial Repository
     - Clone a Repository from the Internet
     - Create a New Repository from your Hard Drive
     - Add an Existing Repository from your Hard Drive
  
 2. From the **Your Repositories** dropdown that lists your GitHub repositories, select the repository that you want to clone to your local computer.
+
 3. Click the **Clone [Repository's Name]** button.
+ ![A photo of the Your Repositories dropdown list and Clone button.](https://github.com/heykayla/my-writing/blob/main/images/tutorial-pics/step3c-repository-clone.jpg)
 
     **Result:** The **Clone a Repository** dialog box displays with the default set to cloning your repository through a URL.
     
     **Important:** You must keep the method for cloning your repository the same.
+
 4. Perform the following actions:
   - To choose the location to clone your repository to, in the **Local Path** field, click **Choose** and select a location path.
-    
-      **Result:** You are directed back to the **Clone a Repository** dialog box.
+
+    ![A photo of the Clone a Repository dialog box.](https://github.com/heykayla/my-writing/blob/main/images/tutorial-pics/step3d(a)-repository-clone.jpg)
+ 
+    **Result:** You are directed back to the **Clone a Repository** dialog box.
 
    - To clone your repository to your local computer, click the **Clone** button.
+   ![A photo of the Clone button in the Clone a Repository dialog box.](https://github.com/heykayla/my-writing/blob/main/images/tutorial-pics/step3d(b)-clone-repository.jpg)
 
 **Result:** Your cloned repository opens in GitHub Desktop. You can now change files locally and push them to your GitHub.com account.
+
+![A photo of the clone repository in the GitHubk Desktop app.](https://github.com/heykayla/my-writing/blob/main/images/tutorial-pics/step3result-clone-repository.jpg)
 
 ## Summary
 In this tutorial, you learned how to:
