@@ -1,6 +1,6 @@
 # About the My Writing Repo
 
-My dedication to work and motivation to grow have led me to exceptional projects, careers, and experiences. I'm grateful to have had professions that I've been passionate about, and I am proud to share samples of my work in this repository.
+This repository contains pieces of my writing. Most of the writing samples stemmed from workshops and personal experiences of using Git and GitHub.
 
 ## Documentation types
 
