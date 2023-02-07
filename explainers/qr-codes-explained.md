@@ -1,71 +1,71 @@
-# QR Codes Explained
-
-![Infographic of QR code use case](https://github.com/heykayla/technical-writing-portfolio/blob/main/Images/qr-codes-explained/qr_codes_explained.png)
+# What You Need to Know About QR Codes
 
 ## Overview
 
-This article will help you undertand:
+This explanation document will help you understand QR codes, such as: 
 
-- What a QR code is
-- How QR codes work
-- The pros of using QR codes
-- The different types of QR codes
-- The components of QR codes
-- Where you can create QR codes
+* What they are.
+* How they work.
+* The components of QR codes.
+* The advantages of using QR codes.
+* Where you can create QR codes.
 
-## About QR codes
+This explanation document's intended audience is nonspecialists unfamiliar with QR codes.
 
-A Quick Response (QR) code is an **interactive two-dimensional barcode that compresses data** into a small scannable box, consisting of **small patterned squares and dots encoded with pieces of information**.
+## What they are
 
-QR codes help you access information easily and quickly. All you need to do is **scan a QR code with a smartphone or tablet**, and it will direct you to a webpage, video, message, calendar event, or phone number. You can place and find QR codes on banners, business cards, leaflets, public posters, and more.
+A Quick Response (QR) code is an interactive two-dimensional barcode that compresses data into a small and scannable box consisting of small patterned squares and dots encoded with pieces of information.
 
-## How QR codes work
+QR codes help you access information easily and quickly. All you need to do is scan a QR code with a smartphone or tablet, and it will direct you to a webpage, video, message, calendar event, or phone number. You can place and find QR codes on banners, business cards, leaflets, public posters, and more.
 
-Many smart devices (e.g., iPhone, Android, tablets, etc.) have **integrated QR readers into the camera feature or offer QR reader applications** for download to scan QR codes. After you scan a QR code with a smart device, it will notify you that the QR code has been found and direct you to the desired information. You can scan QR codes vertically, horizontally, or at any angle due to their two-dimensional design.
+Additionally, there are two QR code types: 
+
+* A static QR code
+* A dynamic QR code
+
+A static QR code is primarily used for resumes, business cards, and temporary marketing campaigns. Static QR codes are permanent or fixed and provide limited functionality; this means that after you create a static QR code, you cannot change the encoded data. You also cannot track metrics, such as: 
+
+* The total number of scans.
+* The average total of scans per day.
+* The total number of unique visitors.
+* The location of scans.
+* The device types that were used to scan.
+
+Unlike static QR codes, you can modify dynamic QR codes. Dynamic QR codes also scan and load faster, and you can track metrics. Furthermore, dynamic QR codes are great for businesses, such as restaurants or government agencies because it allows you to collect data and update QR codes when necessary.
+
+
+## How they work
+
+Many smart devices, such as iPhones, Androids, and tablets, have integrated QR readers into the camera feature or offer QR reader applications to download. The integrated QR readers and applications allow you to scan QR codes to open and view the desired information. Due to their two-dimensional design, you can scan QR codes vertically, horizontally, or at any angle becasue of.
+
+## Components of QR codes
+
+QR codes consist of the following components that play an important role in its functionality:
+
+1. **Quiet Zone**: This component is the blank border surrounding the QR code. The quiet zone prevents a QR reader from interpreting anything outside the code.
+2. **Finder Pattern**: This component is a pattern with three dark squares at the corners of a QR code, minus the bottom-right corner. The finder patterns inform a QR reader that it is viewing a QR code.
+3. **Alignment Pattern**: This component is a a smaller square at near the bottom-right corner. The alignment pattern allows you to scan a QR code in any orientation.
+4. **Timing Pattern**: An L-shaped line that passes between the finder pattern. The timing pattern helps a QR reader identify the squares even if the QR code is damaged.
+5. **Version Information**: This component is the top right finder pattern. The version information identifies the version of a QR code to a QR reader.
+6. **Data Cells**: These components are the small squares within the QR code that contain the encoded information, such a URL, phone number, message
 
 ## Advantages of QR codes
 
-QR codes are used as a **shortcut to access information** easily and quickly. Unlike barcodes, QR codes do not need a specific machine to be read, just a smart device. QR codes **provide a digital dimension** to businesses, products, and marketing because products and services can be promoted and shared through QR codes, which can help improve engagement and conversions.
+A primary advantage of QR codes is that they provide a digital dimension to businesses. Many businesses create QR codes to:
 
-In comparison to traditional barcodes, QR codes are reliable. QR codes **can function while impaired** because they have a built-in error correction in the design, which means that even when the QR code gets damaged, it will find the correct redirection.
+* Help their customers access information easily and quickly.
+* Promote and market their products and services, which an improve engagement and conversions.
 
-## QR codes types
+Another advantage is that QR codes are reliable. In comparison to traditional barcodes, QR codes can function while impaired because the QR codes design has a built-in error correction; this means that when a QR code gets damaged, it will find the correct redirection.
 
-QR codes **can either be static or dynamic**. Static and dynamic QR codes are dissimilar and used for different purposes. **Static QR codes provide limited functionality, while dynamic QR codes do not**. Learn about the differences and use cases of both below.
-
-### Static QR codes
-
-Static QR codes are **permanent or fixed**, which means that after you generate a QR code, the encoded data cannot be changed or updated. Also, you cannot track metrics for static QR codes; this would include:
-
-- Total number of scans
-- Unique visitors
-- Location of scans
-- Device type
-- The average total of scans per day
-
-Although static QR codes provide limited functionality, they are helpful for personal use—such as resumes or business cards—and temporary marketing campaigns.
-
-### Dynamic QR codes
-
-Dynamic QR codes **can be modified** even after you generate them. They also scan and load faster in comparison to static QR codes. Metrics for dynamic QR codes can be tracked, which can help businesses and marketers better understand their audience. Furthermore, dynamic QR codes are great for restaurants, the hospitality industry, government agencies, and other business types that need to collect data and periodically update QR codes.
-
-## A breakdown of QR code components
-
-QR codes consist of six different parts that play a role in the functionality:
-
-1. **Quiet Zone:** A white border surrounding the QR code—prevents a QR reader from interpreting anything outside the code.
-2. **Finder Pattern:** A pattern with three black squares located in three corners of a QR code, minus the bottom right corner. The squares inform a QR reader that it is viewing a QR code.
-3. **Alignment Pattern:** A smaller square located near the bottom right corner. The alignment pattern ensures that you can read a QR code in any orientation.
-4. **Timing Pattern:** An L-shaped line that passes between the finder pattern. The timing pattern helps a QR reader identify the squares even if the QR code is damaged.
-5. **Version Information:** This is the top right finder pattern square—it helps identify the version of a QR code to a QR reader.
-6. **Data Cells:** These are the small squares within the QR code that contain information (e.g., a URL, phone number, message, etc.).
-
-## Creating QR codes
+## Where you can create QR codes
 
 Anyone can create QR codes through an online QR code generator, such as:
 
 - [QR Code Generator](https://www.qr-code-generator.com/free-generator/?ut_source=google_c&ut_medium=cpc&ut_campaign=en_top_kw&ut_content=qr_generator_exact&ut_term=qr-code-generator_e&gclid=CjwKCAjw64eJBhAGEiwABr9o2Ht7ItP5pRaUY_fKvDI8rsxygzlbRd1ysPqUHXOnv4rWOlY3JJesbBoCXOQQAvD_BwE)
+
 - [uQR.me](https://uqr.me/qr-code-generator/?ut_medium=cpc&ut_source=google&ut_campaign=2020-first&ut_term=qr-code-generator&ut_content=en&utm_term=qr-code-generator&utm_campaign=US+Campaigns&utm_source=adwords&utm_medium=ppc&hsa_acc=9523064648&hsa_cam=11226472739&hsa_grp=109303395039&hsa_ad=468751604145&hsa_src=g&hsa_tgt=kwd-374425108492&hsa_kw=qr-code-generator&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw64eJBhAGEiwABr9o2AbZwwS4iE1Kk6oyySe__lRpLmjmqEVuLgSJCBT9pWoIidPnhH2OVRoC3xkQAvD_BwE)
+
 - [QRCode Monkey](https://www.qrcode-monkey.com/)
 
-There are an array of QR code generators that you can use. It is essential to use a QR code generator that works best for you and your needs. Some QR code generators ensure a lifetime of unlimited scans, custom designs and colors, free commercial usage, performance tracking, and more. Conduct research and compare different QR code generators before deciding on one.
+There are an array of QR code generators that you can use. Using a QR code generator that works best for you and your needs is essential. Some QR code generators ensure a lifetime of unlimited scans, custom designs and colors, free commercial usage, performance tracking, and more. You should conduct research and compare different QR code generators before deciding on one.
