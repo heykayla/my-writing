@@ -47,7 +47,7 @@ QR codes consist of the following components that play an important role in its 
 3. **Alignment Pattern**: This component is a a smaller square at near the bottom-right corner. The alignment pattern allows you to scan a QR code in any orientation.
 4. **Timing Pattern**: An L-shaped line that passes between the finder pattern. The timing pattern helps a QR reader identify the squares even if the QR code is damaged.
 5. **Version Information**: This component is the top right finder pattern. The version information identifies the version of a QR code to a QR reader.
-6. **Data Cells**: These components are the small squares within the QR code that contain the encoded information, such a URL, phone number, message
+6. **Data Cells**: These components are the small squares within the QR code that contain the encoded information, such as a URL, phone number, or message.
 
 ## Advantages of QR codes
 
