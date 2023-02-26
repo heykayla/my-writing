@@ -24,7 +24,7 @@ Dynamic QR codes, on the other hand, are customizable and offer more functionali
 
 QR codes can be scanned using smart devices, such as iPhones, Androids, and tablets, which have integrated QR readers into their camera feature or offer QR reader applications to download. These integrated readers and applications allow you to scan QR codes and view the desired information quickly. Due to the two-dimensional design of QR codes can be scanned vertically, horizontally, or at any angle, making them convenient and versatile for users.
 
-## QR codes componenets
+## QR codes components
 
 QR codes have specific components that are essential for their functionality, including:
 
