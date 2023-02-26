@@ -5,7 +5,7 @@
 This document aims to provide an understanding of QR codes, including:
 
 * Definition and purpose
-* Functionality and working principles
+* Functionality
 * Key components of QR codes
 * Advantages of utilizing QR codes
 * Available resources for creating QR codes
