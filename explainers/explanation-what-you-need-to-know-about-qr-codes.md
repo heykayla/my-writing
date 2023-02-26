@@ -20,11 +20,11 @@ There are two types of QR codes: static and dynamic. Static QR codes are permane
 
 Dynamic QR codes, on the other hand, are customizable and offer more functionality. They scan and load faster, and you can track metrics such as the total number of scans, average total scans per day, and the number of unique visitors. Dynamic QR codes are ideal for businesses, such as restaurants or government agencies, as they allow for data collection and updates when necessary.
 
-## How they work
+## How QR codes work
 
 QR codes can be scanned using smart devices, such as iPhones, Androids, and tablets, which have integrated QR readers into their camera feature or offer QR reader applications to download. These integrated readers and applications allow you to scan QR codes and view the desired information quickly. Due to the two-dimensional design of QR codes can be scanned vertically, horizontally, or at any angle, making them convenient and versatile for users.
 
-## Components of QR codes
+## QR codes componenets
 
 QR codes have specific components that are essential for their functionality, including:
 
@@ -44,7 +44,7 @@ One primary advantage of QR codes is that they offer a digital dimension to busi
 
 Another advantage of QR codes is their reliability. Unlike traditional barcodes, QR codes can function even when impaired because of their built-in error correction design. This means that even if a QR code gets damaged, it can still find the correct redirection.
 
-## Where you can create QR codes
+## QR code generators
 
 There are various online QR code generators available that allow anyone to create QR codes quickly and easily. Some popular options include the following:
 
