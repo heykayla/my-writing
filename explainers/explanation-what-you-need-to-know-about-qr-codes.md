@@ -2,7 +2,7 @@
 
 ## Overview
 
-The goal of this explanation document is to provide an understanding of QR codes. This explanation document goes over the following:
+The goal of this explanation document is to provide an understanding of QR codes by addressing the following topics:
 * The definition and purpose of QR codes
 * The functionality of QR codes
 * The key components of QR codes
