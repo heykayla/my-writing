@@ -23,14 +23,14 @@ QR codes are scanned with smart devices, such as iPhones, Androids, and tablets,
 
 ## Components of QR codes
 
-QR codes consist of the following components that play an important role in its functionality:
+QR codes consist of the following components that are essential for their functionality:
 
-1. **Quiet Zone**: This component is the blank border surrounding the QR code. The quiet zone prevents a QR reader from interpreting anything outside the code.
-2. **Finder Pattern**: This component is a pattern with three dark squares at the corners of a QR code, minus the bottom-right corner. The finder patterns inform a QR reader that it is viewing a QR code.
-3. **Alignment Pattern**: This component is a a smaller square at near the bottom-right corner. The alignment pattern allows you to scan a QR code in any orientation.
-4. **Timing Pattern**: An L-shaped line that passes between the finder pattern. The timing pattern helps a QR reader identify the squares even if the QR code is damaged.
-5. **Version Information**: This component is the top right finder pattern. The version information identifies the version of a QR code to a QR reader.
-6. **Data Cells**: These components are the small squares within the QR code that contain the encoded information, such a URL, phone number, message
+* **Quiet Zone**: The blank border surrounding the QR code prevents a QR reader from interpreting anything outside the code.
+* **Finder Pattern**: A pattern with three dark squares at the corners of the QR code informs a QR reader that it is viewing a QR code.
+* **Alignment Pattern**: A smaller square located near the bottom-right corner of the QR code that allows scanning of a QR code in any orientation.
+* **Timing Pattern**: An L-shaped line that helps the QR reader identify the squares, even if the QR code is damaged.
+* **Version Information**: Located at the top right finder pattern, it identifies the version of the QR code to the QR reader.
+* **Data Cells**: Small squares within the QR code that contain encoded information, such as a URL, phone number, or message.
 
 ## Advantages of QR codes
 
