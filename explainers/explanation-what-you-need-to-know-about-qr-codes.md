@@ -11,7 +11,7 @@ The goal of this explanation document is to provide an understanding of QR codes
 
 ## What QR codes are
 
-A Quick Response (QR) code is a type of 2D barcode that contains small patterned squares and dots encoded with information. QR codes are scanned with a smartphone or tablet to quickly access information such as webpages, videos, messages, calendar events, or phone numbers. They can be used and found on banners, business cards, leaflets, public posters, and more, making it easy for users to access the encoded information.
+A Quick Response (QR) code is a type of 2D barcode that contains small patterned squares and dots encoded with information. QR codes are scanned with a smart device to quickly access information such as webpages, videos, messages, calendar events, or phone numbers. They can be used and found on banners, business cards, leaflets, public posters, and more, making it easy for users to access the encoded information.
 
 There are two types of QR codes: static and dynamic. Static QR codes are permanent and provide limited functionality, making them ideal for resumes, business cards, and temporary marketing campaigns. Once created, the encoded data in a static QR code cannot be changed, and you cannot track metrics, such as the number of scans, location of scans, or device types used to scan.
 
@@ -19,7 +19,7 @@ Dynamic QR codes, on the other hand, are customizable and offer more functionali
 
 ## How QR codes work
 
-Many smart devices, such as iPhones, Androids, and tablets, have integrated QR readers into the camera feature or offer QR reader applications to download. The integrated QR readers and applications allow you to scan QR codes to open and view the desired information. Due to their two-dimensional design, you can scan QR codes vertically, horizontally, or at any angle becasue of.
+QR codes are scanned with smart devices, such as iPhones, Androids, and tablets, that have integrated QR readers into their camera feature or offer QR reader applications to download. These integrated readers and applications allow you to scan QR codes and view the desired information quickly. Due to the two-dimensional design of QR codes, you can scan them vertically, horizontally, or at any angle, making them convenient and versatile.
 
 ## Components of QR codes
 
