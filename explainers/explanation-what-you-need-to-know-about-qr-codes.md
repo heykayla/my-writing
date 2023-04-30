@@ -17,7 +17,7 @@ There are two types of QR codes: static and dynamic. Static QR codes are permane
 
 Dynamic QR codes, on the other hand, are customizable and offer more functionality. They scan and load faster, and you can track metrics such as the total number of scans, average total scans per day, and the number of unique visitors. Dynamic QR codes are ideal for businesses, such as restaurants or government agencies, as they allow for data collection and updates when necessary.
 
-## How they work
+## How QR codes work
 
 Many smart devices, such as iPhones, Androids, and tablets, have integrated QR readers into the camera feature or offer QR reader applications to download. The integrated QR readers and applications allow you to scan QR codes to open and view the desired information. Due to their two-dimensional design, you can scan QR codes vertically, horizontally, or at any angle becasue of.
 
