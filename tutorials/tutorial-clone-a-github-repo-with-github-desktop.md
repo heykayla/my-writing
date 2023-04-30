@@ -19,14 +19,13 @@ Before you begin this tutorial, you must:
 
 - Have a GitHub account.
   
-  **Note:** If you do not have a GitHub account, you must create one. If you do not know how to create a GitHub account, follow GitHub's [Signing up for a new GitHub account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account) instructions.
+  **Note:** If you do not have a GitHub account, you must create one. You can follow GitHub's [Signing up for a new GitHub account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account) instructions.
 
 - Have a repository in your GitHub account.
   
   **Note:** If you need to learn how to create a repository in GitHub, follow GitHub's [Create a repo](https://docs.github.com/en/get-started/quickstart/create-a-repo) instructions.
 
-- Have a computer to perform the actions within this tutorial.
-- Have Git installed on your computer.
+- Have Git installed on your local computer with a macOS operating system
   
   **Note:** If you do not have Git installed on your computer, follow GitHub’s [Install Git](https://github.com/git-guides/install-git#:~:text=To%20install%20Git%2C%20run%20the,installation%20by%20typing%3A%20git%20version%20.) instructions.
 
