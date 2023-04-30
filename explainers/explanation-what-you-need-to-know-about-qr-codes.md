@@ -9,8 +9,6 @@ The goal of this explanation document is to provide an understanding of QR codes
 * The advantages of utilizing QR codes
 * The available resources for creating QR codes
 
-This explanation document's intended audience is nonspecialists unfamiliar with QR codes.
-
 ## What they are
 
 A Quick Response (QR) code is an interactive two-dimensional barcode that compresses data into a small and scannable box consisting of small patterned squares and dots encoded with pieces of information.
