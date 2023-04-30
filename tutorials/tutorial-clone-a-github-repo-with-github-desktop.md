@@ -29,17 +29,18 @@ Before you begin this tutorial, you must:
   
   **Note:** If you do not have Git installed on your computer, follow GitHub’s [Install Git](https://github.com/git-guides/install-git#:~:text=To%20install%20Git%2C%20run%20the,installation%20by%20typing%3A%20git%20version%20.) instructions.
 
-## Download GitHub Desktop
-To get started, you must download the GitHub Desktop application on your computer.
-1. Go to the [GitHub Desktop](https://desktop.github.com/) website and select one of the following options:
-  - If you have a Mac computer, click **Download for macOS**.
-  - If you have a Windows computer, click **Windows**.
-    
-    **Note:** If you encounter issues, see [GitHub Desktop Documentation](https://docs.github.com/en/desktop) for installation instructions.
+## Download and install GitHub Desktop
+To get started, you must download and install the GitHub Desktop application on your local computer.
+1. Go to the Go to the GitHub Desktop website at https://desktop.github.com/.
 
     ![A photo of the GitHub Desktop download page.](https://github.com/heykayla/my-writing/blob/main/images/tutorial-pics/step1-github-desktop-download.jpg)
 
-**Result:** GitHub Desktop is downloaded to your computer.
+2. Click **Download for macOS**.
+3. Go to your **Downloads** folder and perform the following actions:
+  - Double-click the GitHubDesktop-x64.zip file.
+  - After the file is unzipped, double-click the **GitHub Desktop** application file.
+
+**Results**: GitHub Desktop is installed on your local computer and launches, displaying the **Welcome to GitHub Desktop** message.
 
 ## Sign in to GitHub
 
