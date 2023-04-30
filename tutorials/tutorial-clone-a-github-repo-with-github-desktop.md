@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this tutorial, you’ll learn how to clone a remote GitHub repository (GitHub.com) to your local computer with GitHub Desktop. This tutorial is intended for beginners of GitHub.
+In this tutorial, you’ll learn how to clone a repository from your GitHub.com account to your local macOS computer with GitHub Desktop. This tutorial is intended for beginner users of GitHub Desktop.
 
 ## Background
 
