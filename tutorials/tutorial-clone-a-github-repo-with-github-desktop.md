@@ -44,23 +44,17 @@ To get started, you must download and install the GitHub Desktop application on 
 
 ## Sign in to GitHub
 
-Next, you need to sign in to your GitHub account.
+Afer you’ve downloaded, installed, and launched GitHub Desktop, you must sign in to your GitHub.com account.
 
-1. Once the download is complete, open the application on your computer.
+1. In the **Welcome to GitHub Desktop** message, select **Sign In to GitHub.com**.
 
-**Result:** The **Welcome to GitHub Desktop** message displays that show the following options:
-
-  - Create your free account
-  - Sign In to GitHub.com
-  - Sign In to GitHub Enterprise
-  - Skip this step
-
-2. Click the **Sign In to GitHub.com** button.
  ![A photo of the Welcome to GitHub Desktop message.](https://github.com/heykayla/my-writing/blob/main/images/tutorial-pics/step2b-github-sign-in.jpg)
  
-    **Result:** The application redirects you to your web browser to sign in to your GitHub.com account.
+  **Step Result**: GitHub Desktop redirects you to your web browser.
 
-3. Sign in to your GitHub account with your login credentials.
+2. On the **Sign in to GitHub** window, enter your GitHub username and password to sign into your account.
+
+**Results**: You are signed in to your GitHub.com account on the browser.
 
 ## Clone the repository
 After you sign in to your GitHub account, you can clone your repository to your local computer.
