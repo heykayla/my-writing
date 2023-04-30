@@ -2,13 +2,12 @@
 
 ## Overview
 
-This explanation document will help you understand QR codes, such as: 
-
-* What they are.
-* How they work.
-* The components of QR codes.
-* The advantages of using QR codes.
-* Where you can create QR codes.
+The goal of this explanation document is to provide an understanding of QR codes. This explanation document goes over the following:
+* The definition and purpose of QR codes
+* The functionality of QR codes
+* The key components of QR codes
+* The advantages of utilizing QR codes
+* The available resources for creating QR codes
 
 This explanation document's intended audience is nonspecialists unfamiliar with QR codes.
 
