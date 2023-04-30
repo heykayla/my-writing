@@ -37,7 +37,7 @@ To get started, you must download and install the GitHub Desktop application on 
 
 2. Click **Download for macOS**.
 3. Go to your **Downloads** folder and perform the following actions:
-  - Double-click the GitHubDesktop-x64.zip file.
+  - Double-click the **GitHubDesktop-x64.zip** file.
   - After the file is unzipped, double-click the **GitHub Desktop** application file.
 
 **Results**: GitHub Desktop is installed on your local computer and launches, displaying the **Welcome to GitHub Desktop** message.
