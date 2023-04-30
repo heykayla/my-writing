@@ -7,11 +7,11 @@ In this tutorial, you’ll learn how to clone a repository from your GitHub.com 
 ## Background
 
 There are a few concepts to review for this tutorial:
-- Git is an open-source Version Control System (VCS) software that records changes to files, allowing you to revert or recall changes you made. Git is like a time machine for your project, where you can always go back in time to review changes you made to a file, no matter how far you've altered them.
-- GitHub is a collaboration platform built on Git that enables you to host and review files and manage projects. It provides an efficient method for team collaboration by allowing multiple users to contribute to a file without having to overwrite and conflict with another user's work.
-- Within GitHub, there are repositories. Repositories are folders that contain and store files and their revision history. It provides another resourceful way to collaborate with other users.
-- GitHub Desktop is an application that you can install on your computer. The application allows you to interact with GitHub without using the command line and web browser because it provides a simple and intuitive graphical user interface (GUI).
-- Cloning a repository from your GitHub account creates a local copy on your computer. With Git, it allows you to remotely edit and create new files within your repository that you can sync to your GitHub account on the web browser.
+* **Git**: An open-source version control system (VCS) software that serves as a time machine because it records changes to your files and allows you to revert or recall changes you made.
+* **GitHub**: A web-based platform built on Git that can host and manage files and allows you to collaborate with other users on projects.
+* **Repositories**: Folders that store files and their revision history within GitHub.
+* **GitHub Desktop**: An application installed on your local computer that allows you to interact with your GitHub.com account without using the command line and web browser because it provides a simple and intuitive user interface.
+* **Clone Repositories**: A local copy of a repository on your computer that is created from and syncs to your GitHub.com account, allowing you to edit and create new files remotely.
 
 ## Before you begin
 
