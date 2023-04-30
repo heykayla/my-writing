@@ -19,7 +19,9 @@ Dynamic QR codes, on the other hand, are customizable and offer more functionali
 
 ## How QR codes work
 
-QR codes are scanned with smart devices, such as iPhones, Androids, and tablets, that have integrated QR readers into their camera feature or offer QR reader applications to download. These integrated readers and applications allow you to scan QR codes and view the desired information quickly. Due to the two-dimensional design of QR codes, you can scan them vertically, horizontally, or at any angle, making them convenient and versatile.
+QR codes are scanned with smart devices, such as iPhones, Androids, and tablets, that have integrated QR readers into their camera feature or offer QR reader applications to download. These integrated readers and applications allow you to scan QR codes and view the desired information quickly. 
+
+Due to the two-dimensional design of QR codes, you can scan them vertically, horizontally, or at any angle, making them convenient and versatile.
 
 ## Components of QR codes
 
@@ -29,17 +31,17 @@ QR codes consist of the following components that are essential for their functi
 * **Finder Pattern**: A pattern with three dark squares at the corners of the QR code informs a QR reader that it is viewing a QR code.
 * **Alignment Pattern**: A smaller square located near the bottom-right corner of the QR code that allows scanning of a QR code in any orientation.
 * **Timing Pattern**: An L-shaped line that helps the QR reader identify the squares, even if the QR code is damaged.
-* **Version Information**: Located at the top right finder pattern, it identifies the version of the QR code to the QR reader.
+* **Version Information**: Identifies the version of the QR code to the QR reader and is located at the top right finder pattern.
 * **Data Cells**: Small squares within the QR code that contain encoded information, such as a URL, phone number, or message.
 
 ## Advantages of QR codes
 
-A primary advantage of QR codes is that they provide a digital dimension to businesses. Many businesses create QR codes to:
+One of the advantages of QR codes is that they provide businesses with a digital dimension that can be leveraged in a variety of ways, including:
 
-* Help their customers access information easily and quickly.
-* Promote and market their products and services, which an improve engagement and conversions.
+* Providing easy and quick access to information for customers.
+* Promoting and marketing their products and services, which can improve engagement and conversions.
 
-Another advantage is that QR codes are reliable. In comparison to traditional barcodes, QR codes can function while impaired because the QR codes design has a built-in error correction; this means that when a QR code gets damaged, it will find the correct redirection.
+Another advantage of QR codes is their reliability. Unlike traditional barcodes, QR codes can function even when damaged because of their built-in error correction design. This means that even if a QR code gets damaged, it can still find the correct redirection.
 
 ## Where you can create QR codes
 
