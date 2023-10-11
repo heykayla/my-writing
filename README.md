@@ -1,13 +1,13 @@
 # About the My Writing Repo
 
-This repository houses a collection of my written works, primarily consisting of pieces from Git and GitHub workshops, as well as my personal experiences utilizing these platforms.
+This repository contains a collection of my writing, primarily consisting of pieces from Git and GitHub workshops, as well as my personal experiences utilizing these platforms.
 
 ## Documentation types
 
 My technical writing samples are categorized into the following documentation types:
 
 - Explainers
-- How tos
+- How-tos
 - Quick start guides
 - Reference guides
 - Tutorials
