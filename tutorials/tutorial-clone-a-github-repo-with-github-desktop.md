@@ -41,10 +41,10 @@ To get started, you must first download and install the GitHub Desktop applicati
     ![A photo of the GitHub Desktop download page.](https://github.com/heykayla/my-writing/blob/main/images/tutorial-pics/step1-github-desktop-download.jpg)
 
 2. On the **GitHub Desktop** window, click **Download for macOS**.
-3. After the download, go to your **Downloads** in the **Finder** browser.
+3. Go to your **Downloads** in the **Finder** browser.
 4. Double-click the **GitHubDesktop-x64.zip** file to unzip the file.
 5. After the file unzips, drag and drop the GitHub Desktop application file into your **Applications** folder.
-6. In **Applications**, double-click **GitHub Desktop**.
+6. In the **Applications** folder, double-click **GitHub Desktop**.
 7. Click **Open** when prompted to confirm launching GitHub Dekstop.
 
 **Results**: GitHub Desktop launches, showing the **Let’s get started!** landing page.
@@ -54,22 +54,23 @@ To get started, you must first download and install the GitHub Desktop applicati
 After downloading, installing, and launching GitHub Desktop, you must sign into your GitHub.com account.
 
 1. On the **Let’s get started!** landing page, select **Clone a Repository from the Internet**.
-  **Step Result**: The **Clone a Repository** window opens.
+  
+  **Step Result**: The **Clone a Repository** dialog box opens.
 
 2. On the **GitHub.com** tab, click **Sign In**.
 
   **Step Result**: The **Sign in Using Your Browser** confirmation message opens.
 
-4. To confirm, click **Continue With Browser**.
+4. Click **Continue With Browser**.
 
-  **Step Result**: The **Sign into GitHub** window opens in your default browser.
+  **Step Result**: The **Sign in to GitHub** window opens in your default browser.
 
-5. Enter your GitHub username and password.
+5. Enter your GitHub username or email address and password, then click **Sign in**.
 
 **Results**: You are signed in to your GitHub.com account.
 
 ## Step 3 — Clone the repository
-Now that you are signed in to your GitHub.com account, you can clone a repository to your local computer.
+Now that you are signed into your GitHub.com account, you can clone a repository to your local computer.
 
 1. Go back to the GitHub Desktop application.
  
