@@ -8,7 +8,7 @@ This tutorial is intended for beginner users of GitHub Desktop.
 
 ## Background
 
-For this tutorial, there are a few concepts to review:
+The following are a few concepts to review for this tutorial:
 
 * **Git**: An open-source version control system (VCS) software that serves as a time machine because it records changes to your files and allows you to revert or recall changes you made.
 * **GitHub**: A web-based platform built on Git that can host and manage files and allows you to collaborate with other users on projects.
@@ -40,12 +40,12 @@ To get started, you must first download and install the GitHub Desktop applicati
 
     ![A photo of the GitHub Desktop download page.](https://github.com/heykayla/my-writing/blob/main/images/tutorial-pics/step1-github-desktop-download.jpg)
 
-2. On the **GitHub Desktop** window, click **Download for macOS**.
-3. Go to your **Downloads** in the **Finder** browser.
-4. Double-click the **GitHubDesktop-x64.zip** file to unzip the file.
+2. In the **GitHub Desktop** window, click **Download for macOS**.
+3. In the **Finder** browser, go to the **Downloads** folder.
+4. To unzip the file, double-click the **GitHubDesktop-x64.zip** file.
 5. After the file unzips, drag and drop the GitHub Desktop application file into your **Applications** folder.
 6. In the **Applications** folder, double-click **GitHub Desktop**.
-7. Click **Open** when prompted to confirm launching GitHub Dekstop.
+7. To confirm launching GitHub Dekstop, click **Open** when prompted.
 
 **Results**: GitHub Desktop launches, showing the **Let’s get started!** landing page.
 
@@ -55,9 +55,9 @@ After downloading, installing, and launching GitHub Desktop, you must sign into 
 
 1. On the **Let’s get started!** landing page, select **Clone a Repository from the Internet**.
   
-  **Step Result**: The **Clone a Repository** dialog box opens.
+  **Step Result**: The **Clone a Repository** dialog opens.
 
-2. On the **GitHub.com** tab, click **Sign In**.
+2. In the **GitHub.com** tab, click **Sign In**.
 
   **Step Result**: The **Sign in Using Your Browser** confirmation message opens.
 
@@ -65,7 +65,7 @@ After downloading, installing, and launching GitHub Desktop, you must sign into 
 
   **Step Result**: The **Sign in to GitHub** window opens in your default browser.
 
-5. Enter your GitHub username or email address and password, then click **Sign in**.
+5. Enter your GitHub username or email address and password, and then click **Sign in**.
 
 **Results**: You are signed in to your GitHub.com account.
 
@@ -79,9 +79,9 @@ Now that you are signed into your GitHub.com account, you can clone a repository
 3. Click **Clone [Repository's Name]**.
  ![A photo of the Your Repositories dropdown list and Clone button.](https://github.com/heykayla/my-writing/blob/main/images/tutorial-pics/step3c-repository-clone.jpg)
 
-  **Step Result**: The **Clone a Repository** dialog box opens with the URL tab selected as the default cloning method. 
+  **Step Result**: The **Clone a Repository** dialog opens with the URL tab selected as the default cloning method. 
 
-  **NOTE**: Since GitHub Desktop is connected to your GitHub.com account, the Repository URL or GitHub username and repository field is automatically filled in.
+  **NOTE**: Since GitHub Desktop is connected to your GitHub.com account, the **Repository URL or GitHub username and repository** field is automatically filled in.
 
   ![A photo of the Clone a Repository dialog box.](https://github.com/heykayla/my-writing/blob/main/images/tutorial-pics/step3d(a)-repository-clone.jpg)
 
