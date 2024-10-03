@@ -2,7 +2,7 @@
 
 ## Overview
 
-[DEV](https://dev.to/) is a free social networking platform for developers. This document describes the components of DEV's user interface (UI) for users new to the platform.
+[DEV](https://dev.to/) is a free social networking platform for developers. This document describes the components of DEV's user interface (UI) for new members to reference.
 
 ## Homepage components
 
@@ -15,7 +15,9 @@ On the DEV homepage, after logging on to your account, you'll see:
 
 ### Sidebar
 
-The sidebar serves as DEV's navigation system. The following table describes the menu items available in the sidebar.
+The sidebar serves as DEV's navigation system. 
+
+The following table describes the menu items available in the sidebar.
 
 | **Menu Item**      | **Description**                                                                                                                                                                             |
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -32,7 +34,9 @@ The sidebar serves as DEV's navigation system. The following table describes the
 
 #### Other
 
-The **Other** is a subsection within the sidebar. The following table describes the menu items in the **Other** subsection.
+The **Other** is a subsection within the sidebar. 
+
+The following table describes the available menu items in the **Other** subsection.
 
 |Menu Item|Description|
 |--|--|
@@ -79,9 +83,7 @@ The **Active discussions** pane shows blog posts on trending topics.
 
 ### Create post
 
-The **Create Post** button allows you to create and publish a new DEV post.
-
-After you click the button, the **Create Post editor** opens. 
+The **Create Post** button allows you to create and publish a new DEV post. After you click the button, the **Create Post editor** opens. 
 
 The following table describes the different components available in the editor.
 
