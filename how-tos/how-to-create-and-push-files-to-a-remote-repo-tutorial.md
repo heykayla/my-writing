@@ -1,28 +1,35 @@
-# How to Create and Push Files to a Remote Repository
+# How to Create and Push New Files to a Remote Repository
 
 ## Overview
 
-In this how-to, you’ll use the command line to create and push new files to a remote repository (GitHub.com). 
-
-This how-to is intended for intermediate to expert users of GitHub.
+This guide explains how to create and push new files to a remote repository (GitHub.com) with the command line. 
 
 ## Before you begin
 
-Before you begin this how-to, you must have the following:
+Before you begin pushing new files to a remote repository, ensure that you have:
 
 - Git installed and configured on your local computer
-- A repository created and cloned to your local computer
+- A repository cloned to your local computer
 - A text editor downloaded on your local computer, such as VS Code or Atom
 
-## Step-by-step guide
+## Step 1 — Open your terminal
 
-### Step 1 — Open your terminal
+The terminal provides a command line where you can enter text commands.
 
-To run commands, open your local computer's terminal or the text editor's built-in terminal.
+To open the terminal on your Mac computer, do the following:
+1. Open **Launchpad**.
+2. In the top search bar, enter **Terminal**.
+3. From the search result, select **Terminal**.  
 
-### Step 2 — Open your cloned repository
+To open the terminal on your Windows computer, do the following:
+1. Right-click the Start button.
+2. From the drop-down menu, select Terminal. 
 
-In your terminal, do the following to locate and open your cloned repository:
+## Step 2 — Open your cloned repository
+
+Cloned repositories are copies of remote repositories that are created on your local computer, allowing you to work on files within the repository locally.
+
+To locate and open your cloned repository from your terminal, do the following:
 
 1. To see your current location path on your local computer, run the `pwd` command.
 2. To see a list of directories and locate your cloned repository, run the `ls` command.
@@ -34,7 +41,9 @@ In your terminal, do the following to locate and open your cloned repository:
 
 4. To validate that you have opened your cloned repository, re-run the `pwd` command.
 
-### Step 3 — Check your Git configuration settings
+## Step 3 — Check your Git configuration settings
+
+The Git configuration settings control how Git behaves on your local computer.
 
 To check your Git configuration settings on your local computer, run the `git config -l` command in your terminal. The output should list your Git username, email, and other details.
 
@@ -55,9 +64,9 @@ filter.lfs.process=git-lfs filter-process
 filter.lfs.required=true
 ```
 
-> 🚩 **NOTE**:  Your outputs may differ from the output examples in this how-to.
+> 🚩 **NOTE**:  Your outputs may differ from the output examples in this guide.
 
-### Step 4 — Create a new file
+## Step 4 — Create a new file
 
 To **create** a new file in your cloned repository, run the `touch` command followed by the filename you're giving it in your terminal.
 
@@ -67,7 +76,9 @@ To **create** a new file in your cloned repository, run the `touch` command foll
 
 ### Step 5 — Stage your file
 
-After you create and edit the file, run the `git add .` command in your terminal to stage your changes.
+Staging in Git is the process of preparing your file to be included in your next commit.
+
+To stage the changes you made to the file, run the `git add .` command in your terminal.
 
 ```
 >:$ git add .
@@ -75,7 +86,9 @@ After you create and edit the file, run the `git add .` command in your terminal
 
 **NOTE**: You will not see an output after running the command.
 
-### Step 6 — Commit your file
+## Step 6 — Commit your file
+
+Committing in Git is the process of saving your file from staging to the repository's history.
 
 To commit your file, run the `git commit -m "<message>"` command in your terminal. Within the quotation marks, enter a brief description of your commit.
 
@@ -91,7 +104,9 @@ Afterward, you should see a similar output:
  rewrite How-to-Guides/hello_world.md (87%)
 ```
 
-### Step 7 — Push the file to your remote repository
+## Step 7 — Push the file to your remote repository
+
+Pushing in Git is the process of sending your file to your remote repository. 
 
 To publish your changes to your remote repository, run the `git push` command in your terminal.
 
