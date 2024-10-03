@@ -10,7 +10,7 @@ This reference document contains the following information for beginner Git user
 
 - Commands to configure Git
 
-- Commands for miscellenous actions
+- Commands for miscellaneous actions
 
 - Commands set up and work a remote repository
 
@@ -20,11 +20,11 @@ You can use the following commands to navigate directories (folders) or files on
 
 | Command | Description  |
 |--|--|
-| `cd ..` | Takes you to a directory above the one you're currently in. |
+| `cd ..` | Takes you to a directory above the one you're currently using. |
 | `cd <directory_name>` | Lets you enter and open a directory. If you enter only `cd` or `cd ~`, you'll be directed back to your **Home** folder. |
 | `cd -` | Takes you to the directory you were in before. |
 | `pwd` | Shows your current file path. |
-| `pwd -p` | Shows the full file path you're in currently. |
+| `pwd -p` | Shows the full file path you're currently using. |
 | `ls` | Lists all the files in a directory. |
 | `ls -a` | Lists all files and hidden files in a directory. |
 | `ls -l` | Lists all directories in a directory. |
@@ -41,7 +41,7 @@ You can use the following commands to create new files and directories on your l
 
 ## Commands to configure Git
 
-You can use the following commands to configure a [Git](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) enviroment for your repositories on your local computer.
+You can use the following commands to configure a [Git](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) environment for your repositories on your local computer.
 
 **Note**: To learn how to configure Git, see [Customizing Git - Git Configuration](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration#_git_config).
 
@@ -52,11 +52,11 @@ You can use the following commands to configure a [Git](https://git-scm.com/book
 
 ## Commands to perform Git workflow actions
 
-You can use the following commands to perform actions a part of the [Git workflow](https://uidaholib.github.io/get-git/3workflow.html).
+You can use the following commands to perform actions that are part of the [Git workflow](https://uidaholib.github.io/get-git/3workflow.html).
 
 |Command| Description |
 |--|--|
-| `git clone` | Clones a repository to your local computer. You can use either an HTTPS or SSH URL for cloning a repository. Example: git clone https://github.com/uidaholib/gitworkshop.git. |
+| `git clone` | Clones a repository to your local computer. You can use either an HTTPS or SSH URL to clone a repository. Example: git clone https://github.com/uidaholib/gitworkshop.git. |
 | `git status` | Shows the current state of your repository and staging area. |
 | `git log` | Lists all recent activities. |
 | `git add .` | Stages your files after applying and saving changes. The `git add .` command tells Git that you've made changes to a file and that you would like Git to track the file. |
