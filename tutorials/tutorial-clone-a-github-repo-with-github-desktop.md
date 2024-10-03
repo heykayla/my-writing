@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this tutorial, you’ll learn how to clone a repository from your GitHub.com account to your local macOS computer with GitHub Desktop. 
+In this tutorial, you’ll learn how to clone a repository from your remote GitHub.com account to your local macOS computer with GitHub Desktop. 
 
 This tutorial is intended for beginner users of GitHub Desktop.
 
@@ -10,11 +10,11 @@ This tutorial is intended for beginner users of GitHub Desktop.
 
 The following are a few concepts to review for this tutorial:
 
-* **Git**: An open-source version control system (VCS) software that serves as a time machine because it records changes to your files and allows you to revert or recall changes you made.
-* **GitHub**: A web-based platform built on Git that can host and manage files and allows you to collaborate with other users on projects.
-* Repositories: Folders that store files and their revision history within GitHub.
-* **GitHub Desktop**: An application installed on your local computer that allows you to interact with your GitHub.com account without using the command line and web browser because it provides a simple and intuitive user interface.
-* **Cloned Repositories**: A local copy of a repository on your computer that is created from and syncs to your GitHub.com account, allowing you to edit and create new files remotely.
+* **Git**: An open-source version control system (VCS) software that serves as a time machine. It records changes to your files and lets you revert or recall changes you made.
+* **GitHub**: A web-based platform built on Git that can host and manage files and lets you collaborate with other users on projects.
+* **Repositories**: Folders that store files and their revision history within GitHub.
+* **GitHub Desktop**: An application installed on your local computer that lets you interact with your remote GitHub.com account without using the command line and web browser. It provides a simple and intuitive user interface.
+* **Cloned Repositories**: A local copy of a repository on your computer that is created from and syncs to your remote GitHub.com account. It lets you edit and create new files locally.
 
 
 ## Before you begin
@@ -23,15 +23,15 @@ Before you begin this tutorial, you must have:
 
 - A GitHub account
   
-  **Note:** If you do not have a GitHub account, you must create one. You can follow GitHub's [Signing up for a new GitHub account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account) instructions.
+  **Note:** Learn how to create a GitHub account by following the [Signing up for a new GitHub account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account) instructions.
 
 - A repository in your GitHub account
   
-  **Note:** If you need to learn how to create a repository in GitHub, follow GitHub's [Create a repo](https://docs.github.com/en/get-started/quickstart/create-a-repo) instructions.
+  **Note:** Learn how to create a repository in GitHub by following the [Create a repo](https://docs.github.com/en/get-started/quickstart/create-a-repo) instructions.
 
 - Git installed on your local computer with a macOS operating system
   
-  **Note:** If you do not have Git installed on your computer, follow GitHub’s [Install Git](https://github.com/git-guides/install-git#:~:text=To%20install%20Git%2C%20run%20the,installation%20by%20typing%3A%20git%20version%20.) instructions.
+  **Note:** Learn how to install Git on your local computer by following the [Install Git](https://github.com/git-guides/install-git#:~:text=To%20install%20Git%2C%20run%20the,installation%20by%20typing%3A%20git%20version%20.) instructions.
 
 ## Step 1 — Download and install GitHub Desktop
 To get started, you must first download and install the GitHub Desktop application on your local computer.
@@ -49,9 +49,9 @@ To get started, you must first download and install the GitHub Desktop applicati
 
 **Results**: GitHub Desktop launches, showing the **Let’s get started!** landing page.
 
-## Step 2 — Sign in to GitHub
+## Step 2 — Log on to GitHub
 
-After downloading, installing, and launching GitHub Desktop, you must sign into your GitHub.com account.
+After downloading, installing, and launching GitHub Desktop, you must log on to your remote GitHub.com account.
 
 1. On the **Let’s get started!** landing page, select **Clone a Repository from the Internet**.
   
@@ -67,10 +67,10 @@ After downloading, installing, and launching GitHub Desktop, you must sign into 
 
 5. Enter your GitHub username or email address and password, and then click **Sign in**.
 
-**Results**: You are signed in to your GitHub.com account.
+**Results**: You are signed in to your remote GitHub.com account.
 
 ## Step 3 — Clone the repository
-Now that you are signed into your GitHub.com account, you can clone a repository to your local computer.
+Now that you are signed into your remote GitHub.com account, you can clone a repository to your local computer.
 
 1. Go back to the GitHub Desktop application.
  
@@ -79,9 +79,9 @@ Now that you are signed into your GitHub.com account, you can clone a repository
 3. Click **Clone [Repository's Name]**.
  ![A photo of the Your Repositories dropdown list and Clone button.](https://github.com/heykayla/my-writing/blob/main/images/tutorial-pics/step3c-repository-clone.jpg)
 
-  **Step Result**: The **Clone a Repository** dialog opens with the URL tab selected as the default cloning method. 
+  **Step Result**: The **Clone a Repository** dialog box opens with the **URL** tab selected as the default cloning method. 
 
-  **NOTE**: Since GitHub Desktop is connected to your GitHub.com account, the **Repository URL or GitHub username and repository** field is automatically filled in.
+  **NOTE**: Since GitHub Desktop is connected to your remote GitHub.com account, the **Repository URL or GitHub username and repository** field is automatically filled in.
 
   ![A photo of the Clone a Repository dialog box.](https://github.com/heykayla/my-writing/blob/main/images/tutorial-pics/step3d(a)-repository-clone.jpg)
 
@@ -96,4 +96,4 @@ Now that you are signed into your GitHub.com account, you can clone a repository
    - Click **Clone**.
    ![A photo of the Clone button in the Clone a Repository dialog box.](https://github.com/heykayla/my-writing/blob/main/images/tutorial-pics/step3d(b)-clone-repository.jpg)
 
-**Results:** The repository is cloned to your local computer from your GitHub.com account and opens in GitHub Desktop. You can now change files locally and push them to your GitHub.com repository.
+**Results:** The repository is cloned to your local computer from your remote GitHub.com account and opens in GitHub Desktop. You can now change files locally and push them to your remote GitHub.com repository.
