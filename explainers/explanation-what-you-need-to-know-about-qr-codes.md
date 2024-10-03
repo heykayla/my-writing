@@ -1,6 +1,6 @@
 ## What You Need to Know About QR Codes
 
-### Introduction
+### Overview
 
 QR codes everywhere, from restaurant menus to product packaging. Their ease of use makes them an essential tool for businesses and individuals. 
 
