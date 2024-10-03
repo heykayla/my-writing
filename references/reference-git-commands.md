@@ -29,9 +29,9 @@ You can use the following commands to navigate directories (folders) or files on
 
 ## Commands to create and rename files and directories 
 
-You can use the following commands to create new files and directories on your local computer.
+The following table describes the commands for creating new files and directories on your local computer.
 
-| Command | Description |
+| **Command** | **Description** |
 |--|--|
 | `git mv <old_filename> <new_filename>` | Renames files. Example: `git mv hello_world.md hello_universe.md` |
 | `mkdir <directory_name>` | Creates an empty directory. Example: `mkdir new_folder` |
@@ -39,20 +39,20 @@ You can use the following commands to create new files and directories on your l
 
 ## Commands to configure Git
 
-You can use the following commands to configure a [Git](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) environment for your repositories on your local computer.
+The following table describes the commands for configuring a [Git](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) environment for your repositories on your local computer.
 
 **Note**: To learn how to configure Git, see [Customizing Git - Git Configuration](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration#_git_config).
 
-| Command  | Description |
+| **Command**  | **Description** |
 |--|--|
 | `git config --global user.name "<username>"` | Sets your Git username. |
 | `git config --global user.email "<email>"` | Sets your Git email address. |
 
 ## Commands to perform Git workflow actions
 
-You can use the following commands to perform actions that are part of the [Git workflow](https://uidaholib.github.io/get-git/3workflow.html).
+The following table describes the commands for performing actions that are part of the [Git workflow](https://uidaholib.github.io/get-git/3workflow.html).
 
-|Command| Description |
+| **Command** | **Description** |
 |--|--|
 | `git clone` | Clones a repository to your local computer. You can use either an HTTPS or SSH URL to clone a repository. Example: `git clone https://github.com/uidaholib/gitworkshop.git` |
 | `git status` | Shows the current state of your repository and staging area. |
