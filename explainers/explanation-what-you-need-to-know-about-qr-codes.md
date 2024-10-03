@@ -4,7 +4,7 @@
 
 QR codes everywhere, from restaurant menus to product packaging. Their ease of use makes them an essential tool for businesses and individuals. 
 
-The goal of this article is to help you understand QR codes by explaining their purposes, functionality, components, advantages, and how to create them.
+The goal of this article is to help you understand QR codes by explaining their purpose, functionality, components, advantages, and how to create them.
 
 ### About QR codes
 
