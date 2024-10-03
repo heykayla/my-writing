@@ -77,20 +77,18 @@ Now that you are signed into your remote GitHub.com account, you can clone a rep
 3. Click **Clone [Repository's Name]**.
  ![A photo of the Your Repositories dropdown list and Clone button.](https://github.com/heykayla/my-writing/blob/main/images/tutorial-pics/step3c-repository-clone.jpg)
 
-4. In the Perform the following actions:
+4. In **URL** tab of the **Clone a Repository** dialog box, next to the **Local Path** field, click **Choose**.
 
-    a. In **URL** tab of the **Clone a Repository** dialog box, next to the **Local Path** field, click **Choose**.
+  **NOTE**: The **URL** tab is selected as the default cloning method. Since GitHub Desktop is connected to your remote GitHub.com account, the **Repository URL or GitHub username and repository** field is also automatically filled in.
 
-     **NOTE**: The **URL** tab is selected as the default cloning method. Since GitHub Desktop is connected to your remote GitHub.com account, the **Repository URL or GitHub username and repository** field is also automatically filled in.
+  ![A photo of the Clone a Repository dialog box.](https://github.com/heykayla/my-writing/blob/main/images/tutorial-pics/step3d(a)-repository-clone.jpg)
 
-    ![A photo of the Clone a Repository dialog box.](https://github.com/heykayla/my-writing/blob/main/images/tutorial-pics/step3d(a)-repository-clone.jpg)
+5. In the **Finder** browser, select the location of where you want your repository to be cloned to on your local computer
 
-    b. In the **Finder** browser, select the location of where you want your repository to be cloned to on your local computer
+  **Step Result:** You are directed back to the **URL** tab in the **Clone a Repository** dialog box.
 
-    **Step Result:** You are directed back to the **URL** tab in the **Clone a Repository** dialog box.
+6. Click **Clone**.
 
-    c. Click **Clone**.
-    
    ![A photo of the Clone button in the Clone a Repository dialog box.](https://github.com/heykayla/my-writing/blob/main/images/tutorial-pics/step3d(b)-clone-repository.jpg)
 
 **Results:** The repository is cloned to your local computer from your remote GitHub.com account and opens in GitHub Desktop. You can now change files locally and push them to your remote GitHub.com repository.
