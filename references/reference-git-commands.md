@@ -56,7 +56,7 @@ You can use the following commands to perform actions that are part of the [Git 
 
 |Command| Description |
 |--|--|
-| `git clone` | Clones a repository to your local computer. You can use either an HTTPS or SSH URL to clone a repository. Example: git clone https://github.com/uidaholib/gitworkshop.git. |
+| `git clone` | Clones a repository to your local computer. You can use either an HTTPS or SSH URL to clone a repository. Example: `git clone https://github.com/uidaholib/gitworkshop.git` |
 | `git status` | Shows the current state of your repository and staging area. |
 | `git log` | Lists all recent activities. |
 | `git add .` | Stages your files after applying and saving changes. The `git add .` command tells Git that you've made changes to a file and that you would like Git to track the file. |
