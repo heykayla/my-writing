@@ -4,17 +4,15 @@
 
 This reference document contains the following information for beginner Git users:
 
-- Commands to navigate directories and files
+- [Commands to navigate directories and files](https://github.com/heykayla/my-writing/blob/main/references/reference-git-commands.md#commands-to-navigate)
 
-- Commands to create directories and files
+- [Commands to create directories and files](https://github.com/heykayla/my-writing/blob/main/references/reference-git-commands.md#commands-to-create-and-rename-files-and-directories)
 
-- Commands to configure Git
+- [Commands to configure Git](https://github.com/heykayla/my-writing/blob/main/references/reference-git-commands.md#commands-to-configure-git)
 
-- Commands for miscellaneous actions
+- [Commands to perform Git workflow actions](https://github.com/heykayla/my-writing/blob/main/references/reference-git-commands.md#commands-to-perform-git-workflow-actions)
 
-- Commands set up and work a remote repository
-
-## Commands to navigate
+## Commands to navigate directories and files
 
 You can use the following commands to navigate directories (folders) or files on your local computer.
 
