@@ -10,16 +10,16 @@ The goal of this explanation article is to provide an understanding of QR codes 
 * Advantages of utilizing QR codes
 * Available resources for creating QR codes
 
-### What QR codes are
+### About QR codes
 
-A Quick Response (QR) code is a 2D barcode with small patterned squares and dots encoded with information. QR codes are scanned with a smart device to quickly access information such as webpages, videos, messages, calendar events, or phone numbers. You can use and find QR codes on banners, business cards, leaflets, public posters, and more, making it easy for users to access the encoded information.
+A Quick Response (QR) code is a 2D barcode with small patterned squares and dots encoded with information. It is scanned with a smart device to quickly access information such as webpages, videos, messages, calendar events, or phone numbers, making it easy for people to access the encoded information. You can use find QR codes on banners, business cards, leaflets, public posters, and more.
 
 The following are the two types of QR codes that you can use: 
 
-* **Static**: QR codes that are permanent and provide limited functionality. Once created, you cannot change the encoded data in a static QR code and track metrics, such as the number of scans, location of scans, or device types used to scan. Static QR codes are ideal for resumes, business cards, and temporary marketing campaigns.
-* **Dynamic**: QR codes that are customizable and offer more functionality. They scan and load faster, and you can track metrics such as the total number of scans, average total scans per day, and the number of unique visitors. Dynamic QR codes are ideal for restaurants, government agencies, and other business types as they allow for data collection and updates when necessary.
+* **Static**: Static QR codes are permanent and provide limited functionality. Once created, you cannot change the encoded data in a static QR code and track metrics, such as the number of scans, location of scans, or device types used to scan. Static QR codes are ideal for resumes, business cards, and temporary marketing campaigns.
+* **Dynamic**: Dynamic QR codes are customizable and offer more functionality. They scan and load faster, and you can track metrics such as the total number of scans, average total scans per day, and the number of unique visitors. Dynamic QR codes are ideal for restaurants, government agencies, and other business types as they allow for data collection and updates when necessary.
 
-### How QR codes work
+### Functionality of QR codes
 
 You can scan QR codes with smart devices like iPhones, Androids, and tablets. Most smart devices have integrated QR readers into their camera feature or offer QR reader applications to download. The integrated readers and applications allow you to scan QR codes and view the encoded information quickly. 
 
@@ -29,9 +29,9 @@ Due to QR codes' two-dimensional design, you can scan them vertically, horizonta
 
 QR codes consist of the following components that are essential for their functionality:
 
-* **Quiet Zone**: The blank border surrounding the QR code prevents a QR reader from interpreting anything outside the code.
-* **Finder** **Pattern**: A pattern with three dark squares at the corners of the QR code informs a QR reader that it is viewing a QR code.
-* **Alignment Pattern**: A smaller square near the bottom-right corner of the QR code allows the scanning of a QR code in any orientation.
+* **Quiet Zone**: A blank border that surrounds the QR code to help prevent a QR reader from interpreting anything outside the code.
+* **Finder** **Pattern**: A pattern with three dark squares at the corners of the QR code that informs the QR reader that it is viewing a QR code.
+* **Alignment Pattern**: A smaller square near the bottom-right corner of the QR code that allows the scanning of a QR code in any orientation.
 * **Timing Pattern**: An L-shaped line that helps the QR reader identify the squares, even if the QR code is damaged.
 * **Version Information**: Identifies the version of the QR code to the QR reader and is located at the top right finder pattern.
 * **Data Cells**: Small squares within the QR code that contain encoded information, such as a URL, phone number, or message.
