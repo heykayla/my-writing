@@ -6,11 +6,11 @@
 
 * **Testing and Analytics** 
 
-    This feature provides a set of tools that allow you to create email marketing campaign tests, monitor user engagement,  track real-time data, and generate dashboard or paginated reports.
+    This feature provides a set of tools for creating email marketing campaign tests, monitoring user engagement,  tracking real-time data, and generating dashboard or paginated reports.
 
 * **Email Automation** 
 
-    This feature allows you to schedule email marketing campaigns, promotions, and events.
+    This feature lets you schedule email marketing campaigns, promotions, and events.
 
 ### Improvements
 
