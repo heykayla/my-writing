@@ -1,6 +1,6 @@
 # {Project Name} Contributing Guide
 
-{**Note:** The contributing guide template is customizable; you can **reorder, rename, and remove sections** that do not apply to your project. To learn how to use this template, read the [accompanying guide](about-contributing-guide.md).}
+{**Note:** The contributing guide template is customizable; you can **reorder, rename, and remove sections** that do not apply to your project. Placeholder text is indicated in curly brackets {} that you must replace with your own. Learn how to use this template by reading the [accompanying guide](https://github.com/heykayla/my-writing/blob/main/contributing-guide/guide_contributing-guide.md).}
 
 ## Welcome
 
