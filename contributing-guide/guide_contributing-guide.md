@@ -52,7 +52,7 @@ Throughout the contributing guide template, you will see the following:
 **Note:** Boilerplate is the standardized text you can use and reuse within the template.
 * Placeholder text indicated in {curly brackets}.
 
-The contributing guide template is customizable; you can **reorder, rename, and remove sections** that do not apply to your project.
+The contributing guide template is customizable. You can **reorder, rename, and remove sections** that do not apply to your project.
 
 The following sections provide guidance and context on how to fill out the contributing guide template.
 
