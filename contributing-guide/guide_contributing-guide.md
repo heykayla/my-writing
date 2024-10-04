@@ -94,7 +94,7 @@ Provide a brief description of your project’s purpose and objectives that you 
 
 ### About the “Ground rules” section
 
-Inform your contributors about your project’s behavior policies. Behavior policies are rules and expectations on how to behave and not behave when contributing.
+Inform your contributors about your project's behavior policies. Behavior policies are rules and expectations for how to behave and how not to behave when contributing.
 
 Provide a list of general behavior policies or share a link to your Code of Conduct if you have one established.
 
@@ -109,11 +109,11 @@ Provide a list of general behavior policies or share a link to your Code of Cond
 
 ### About the “Community engagement” section
 
-Provide information on how contributors can engage with your project outside of their contributions; this can include sharing recurring meeting details, a link to your project’s Slack space, an email distribution group, or a link that allows contributors to sign up for newsletters.  
+Provide information on how contributors can engage with your project outside of their contributions. You can include details of recurring meetings, a link to your project's Slack space, an email distribution group, or a link that allows contributors to sign up for newsletters.
 
 ### About the “Share ideas” section
 
-Describe how contributors can propose their ideas for the project. Ideas can be suggestions for process improvements, new tools to use, new documentation, and more. Ensure you mention where and how contributors can share their ideas and the review and approval process. Alternatively, you can share a link to a template or form that contributors can use to share their ideas.
+Describe how contributors can propose their ideas for the project. Ideas can be suggestions for process improvements, new tools, new documentation, and more. Ensure you mention where and how contributors can share their ideas and the review and approval process. Alternatively, you can share a link to a template or form that contributors can use to share their ideas.
 
 ### About the “Before you start” section
 
@@ -150,7 +150,7 @@ Also, if you have a parent guide for best practices, provide a link to it in thi
 
 ### About the “Content style guide” section
 
-A style guide contains a set of standards on how to write and format content consistently. If you accept documentation contributions and have established a style guide, explain the purpose of a style guide and share an external link to it for contributors to review and reference. However, if your project does not have a content style guide but would like to establish one, use The Good Docs Project’s [Style Guide](https://gitlab.com/tgdp/templates/-/blob/main/style-guide/template-style-guide.md) template as a baseline for creating one.
+A style guide contains a set of standards on how to write and format content consistently. If you accept documentation contributions and have established a style guide, explain its purpose and share an external link to it for contributors to review and reference. However, if your project does not have a content style guide but would like to establish one, use The Good Docs Project’s [Style Guide](https://gitlab.com/tgdp/templates/-/blob/main/style-guide/template-style-guide.md) template as a baseline for creating one.
 
 **Example:** Read our [Style Guide](https://example.com/) to understand our guidelines for formatting and writing documents. The purpose of our style guide is to ensure consistency in the tone, voice, and structure of our documentation.
 
@@ -168,7 +168,7 @@ This section contains the following subsections to help describe your project’
     * What can a contributor do if they do not receive a response
     * What a contributor can do to get their PR reviewed
     * The approval and review process
-* **Releases**: Explain your project’s release process and cadence, such as if they are monthly, bimonthly, weekly, or continuous.
+* **Releases**: Explain your project’s release process and cadence, such as whether it is monthly, bimonthly, weekly, or continuous.
 * **Issue management**: Explain the general process for how your project manages issues, such as tagging and assigning issues.
 * **Text formats**: Explain what text formats contributors must use; this is especially important for documentation contributions. Text format types include a specific Markdown flavor, HTML, and JSON. 
 
