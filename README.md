@@ -1,6 +1,6 @@
 # About the My Writing Repo
 
-This repository contains documents that I have created for workshops and open-source projects.
+This repository contains the writing samples I created for workshops, open-source projects, and in my personal time.
 
 If you want to learn more about me, my background, and my documentation process, check out my [Wiki](https://github.com/heykayla/my-writing/wiki).
 
