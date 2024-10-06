@@ -2,7 +2,7 @@
 
 This repository contains a collection of my writing, primarily pieces from Git and GitHub workshops and my personal experiences utilizing these platforms.
 
-If you want to learn more about me, my background, and approach to documentation, check out my [Wiki](https://github.com/heykayla/my-writing/wiki).
+If you want to learn more about me, my background, and my documentation process, check out my [Wiki](https://github.com/heykayla/my-writing/wiki).
 
 ## Documentation types
 
