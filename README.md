@@ -12,6 +12,7 @@ My technical writing samples are categorized into the following documentation ty
 - How-tos
 - Quickstart guides
 - Reference guides
+- Templates
 - Tutorials
 
 For all my writing samples, I followed the [Google developer documentation style guide](https://developers.google.com/style).
