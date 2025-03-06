@@ -2,22 +2,22 @@
 
 ### Overview
 
-QR codes are everywhere, from restaurant menus to product packaging. They are easy to use, making them an essential tool for businesses and individuals. 
+You can find QR codes anywhere, from restaurant menus to product packaging. This type of barcode helps people access information with ease and has become an essential tool for businesses and individuals. 
 
 The goal of this article is to help you understand QR codes by explaining their purpose, functionality, components, advantages, and how to create them.
 
 ### About QR codes
 
-A Quick Response (QR) code is a 2D barcode with small patterned squares and dots encoded with information. It is scanned with a smart device to quickly access information such as webpages, videos, messages, calendar events, or phone numbers, making it easy for people to access the encoded information. You can use find QR codes on banners, business cards, leaflets, public posters, and more.
+A Quick Response (QR) code is a 2D barcode with small patterned squares and dots encoded with information, such as webpages, videos, or calendar events. You can scan a QR code with a smart device, helping you quickly access the encoded information. You can use QR codes on banners, business cards, leaflets, public posters, and more.
 
-The following are the two types of QR codes that you can use: 
+You can use two types of QR codes: 
 
-* **Static**: Static QR codes are permanent and provide limited functionality. Once created, you cannot change the encoded data in a static QR code and track metrics, such as the number of scans, location of scans, or device types used to scan. Static QR codes are ideal for resumes, business cards, and temporary marketing campaigns.
-* **Dynamic**: Dynamic QR codes are customizable and offer more functionality. They scan and load faster, and you can track metrics such as the total number of scans, average total scans per day, and the number of unique visitors. Dynamic QR codes are ideal for restaurants, government agencies, and other business types as they allow for data collection and updates when necessary.
+* **Static**: Static QR codes are permanent and provide limited functionality. After you create a static QR code, you cannot change the encoded data. You also cannot track metrics, such as the number of scans, location of scans, or device types used to scan. Static QR codes are ideal for resumes, business cards, and temporary marketing campaigns.
+* **Dynamic**: Dynamic QR codes are customizable and offer more functionality. They load the encoded information faster, and you can track metrics such as the total number of scans, average total scans per day, and the number of unique visitors. Dynamic QR codes are ideal for restaurants, government agencies, and other business types as they allow for data collection and updates when necessary.
 
 ### Functionality of QR codes
 
-You can scan QR codes with smart devices like iPhones, Androids, and tablets. Most smart devices have integrated QR readers into their camera feature or offer QR reader applications to download. The integrated readers and applications allow you to scan QR codes and view the encoded information quickly. 
+You can scan QR codes with smart devices, such as iPhones, Androids, and tablets. Most smart devices have integrated QR readers into their camera feature or offer QR reader applications to download. The integrated readers and applications allow you to scan QR codes and view the encoded information quickly. 
 
 Due to QR codes' two-dimensional design, you can scan them vertically, horizontally, or at any angle, making them convenient and versatile.
 
