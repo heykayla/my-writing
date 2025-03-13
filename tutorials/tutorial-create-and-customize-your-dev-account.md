@@ -63,4 +63,4 @@ In this tutorial, you learned how to do the following:
 - Create a DEV account with GitHub
 - Customize your DEV account
 
-With your DEV account, you are a part of the DEV community and can create posts, share ideas, and collaborate with other developers.
+You are now a part of the DEV community and can create posts, share ideas, and collaborate with other developers.
