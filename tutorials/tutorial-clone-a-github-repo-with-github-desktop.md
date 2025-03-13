@@ -36,12 +36,12 @@ Before you begin this tutorial, you must have:
 ## Step 1 — Download and install GitHub Desktop
 To get started, you must first download and install the GitHub Desktop application on your local computer.
 
-1. Go to the GitHub Desktop website at https://desktop.github.com/.
+1. In your browser, go to the GitHub Desktop website at https://desktop.github.com/.
 
     ![A photo of the GitHub Desktop download page.](https://github.com/heykayla/my-writing/blob/main/images/tutorial-pics/step1-github-desktop-download.jpg)
 
 2. In the **GitHub Desktop** window, click **Download for macOS**.
-3. In the **Finder** browser, go to the **Downloads** folder.
+3. In your **Finder** browser, go to the **Downloads** folder.
 4. To unzip the file, double-click the **GitHubDesktop-x64.zip** file.
 5. After the file unzips, drag and drop the GitHub Desktop application file into your **Applications** folder.
 6. In the **Applications** folder, double-click **GitHub Desktop**.
@@ -79,7 +79,7 @@ Now that you are signed into your remote GitHub.com account, you can clone a rep
 
 4. In **URL** tab of the **Clone a Repository** dialog box, next to the **Local Path** field, click **Choose**.
 
-  **NOTE**: The **URL** tab is selected as the default cloning method. Since GitHub Desktop is connected to your remote GitHub.com account, the **Repository URL or GitHub username and repository** field is also automatically filled in.
+  **NOTE**: The **URL** tab is the default cloning method. Since GitHub Desktop is connected to your remote GitHub.com account, the **Repository URL or GitHub username and repository** field is also automatically filled in.
 
   ![A photo of the Clone a Repository dialog box.](https://github.com/heykayla/my-writing/blob/main/images/tutorial-pics/step3d(a)-repository-clone.jpg)
 
