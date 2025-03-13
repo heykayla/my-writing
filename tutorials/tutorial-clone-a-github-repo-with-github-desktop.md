@@ -10,8 +10,8 @@ This tutorial is intended for new GitHub Desktop users.
 
 The following are a few concepts to review for this tutorial:
 
-* **Git**: An open-source version control system (VCS) software that serves as a time machine. It records changes to your files and lets you revert or recall changes you made.
-* **GitHub**: A web-based platform built on Git that can host and manage files and lets you collaborate with other users on projects.
+* **Git**: An open-source version control system (VCS) software that records changes to your files and lets you revert or review changes you made.
+* **GitHub**: A web-based platform built on Git that hosts and manages files and facilitates collaboration with other users.
 * **Repositories**: Folders that store files and their revision history within GitHub.
 * **GitHub Desktop**: An application installed on your local computer that lets you interact with your remote GitHub.com account without using the command line and web browser.
 * **Cloned Repositories**: A local copy of a repository on your computer that is created from and syncs to your remote GitHub.com account. It lets you edit and create new files locally.
