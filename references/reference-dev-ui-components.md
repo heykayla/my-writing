@@ -26,9 +26,9 @@ The following table describes the menu items available in the sidebar.
 | 🎙 **Podcasts**     | Navigates you to DEV's **Podcasts** page, where you can discover tech-related podcasts.                                                                                   |
 | 🎥 **Video**       | Navigates you to the **DEV Community on Video** page, where you can peruse and watch videos posted on DEV.                                                                   |
 | 🏷 **Tags**         | Navigates you to the **Top Tags** page that lists and defines popular DEV tags to follow.                                                                                    |
-| 💡 **FAQ**         | Navigates you to the **Frequently Asked Questions** page, where you can find answers to questions you may have.                                                              |
+| 💡 **FAQ**         | Navigates you to the **Frequently Asked Questions** page, where you can find answers to questions.                                                              |
 | 🛍 Forem Shop   | Navigates you to the Forem store.                                                                                                          |
-| ❤️ **Sponsors**    | Navigates you to the **Sponsorship Options** page, where you can learn about DEV's current sponsors, how you can become a sponsor, and access the Sponsorship Interest Form. |
+| ❤️ **Sponsors**    | Navigates you to the **Sponsorship Options** page, where you can learn about DEV's current sponsors, how to become a sponsor, and access the Sponsorship Interest Form. |
 | **About**          | Navigates you to the **About DEV** page, where you can learn more about DEV.                                                                                                 |
 | **Contact**        | Navigates you to the **Contacts** page, where you can find DEV's contact information.                                                                                        |
 
@@ -36,19 +36,19 @@ The following table describes the menu items available in the sidebar.
 
 The **Other** is a subsection within the sidebar. 
 
-The following table describes the available menu items in the **Other** subsection.
+The following table describes the menu items in the **Other** subsection.
 
 |Menu Item|Description|
 |--|--|
 |👍 **Code of Conduct**| Navigates you to DEV's **Code of Conduct** page, where you can learn about DEV's rules and proper practices.|
-|🤓 **Privacy Policy**| Navigates you to DEV's **Privacy Policy** page, where you can learn about how DEV collects, safeguards, and manages your information.|
+|🤓 **Privacy Policy**| Navigates you to DEV's **Privacy Policy** page, where you can learn how DEV collects, safeguards, and manages your information.|
 |👀 **Terms of Use**| Navigates you to DEV's **Web Site Terms and Conditions of Use** page that discloses the rules, conditions, limitations, and other details that community members must agree to when using the website.|
 
 #### Social
 
 Social icons are included in the sidebar that links to DEV's social media accounts, which include the following:
 
-- Twitter
+- X (formerly Twitter)
 - Facebook
 - GitHub
 - Instagram
@@ -83,7 +83,7 @@ The **Active discussions** pane shows blog posts on trending topics.
 
 ### Create post
 
-The **Create Post** button allows you to create and publish a new DEV post. After you click the button, the **Create Post editor** opens. 
+The **Create Post** button lets you create and publish a new DEV post. After you click the button, the **Create Post editor** opens. 
 
 The following table describes the different components available in the editor.
 
