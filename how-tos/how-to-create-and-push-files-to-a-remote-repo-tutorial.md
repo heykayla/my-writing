@@ -2,11 +2,11 @@
 
 ## Overview
 
-This guide explains how to create and push new files to a remote repository (GitHub.com) with the command line. 
+This guide explains how to use the command line to create and push new files to a remote repository (GitHub.com).
 
 ## Before you begin
 
-Before you begin pushing new files to a remote repository, ensure that you have:
+Before you begin pushing new files to a remote repository, ensure that you have the following:
 
 - Git installed and configured on your local computer
 - A repository cloned to your local computer
@@ -27,7 +27,7 @@ To open the terminal on your Windows computer, do the following:
 
 ## Step 2 — Open your cloned repository
 
-Cloned repositories are copies of remote repositories that are created on your local computer, allowing you to work on files within the repository locally.
+Cloned repositories are copies of remote repositories created on your local computer. They allow you to work on files within the repository locally.
 
 To locate and open your cloned repository from your terminal, do the following:
 
@@ -76,7 +76,7 @@ To **create** a new file in your cloned repository, run the `touch` command foll
 
 ### Step 5 — Stage your file
 
-Staging in Git is the process of preparing your file to be included in your next commit.
+Staging in Git prepares your file to be included in your next commit.
 
 To stage the changes you made to the file, run the `git add .` command in your terminal.
 
@@ -106,7 +106,7 @@ Afterward, you should see a similar output:
 
 ## Step 7 — Push the file to your remote repository
 
-Pushing in Git is the process of sending your file to your remote repository. 
+Pushing in Git sends your file to your remote repository. 
 
 To publish your changes to your remote repository, run the `git push` command in your terminal.
 
