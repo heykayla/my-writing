@@ -7,7 +7,7 @@ In this tutorial, you'll learn how to create a DEV account, a free social networ
 This tutorial is intended for new DEV users. 
 
 ## Before you begin
-Before you begin this tutorial, you must have:
+Before you begin this tutorial, you must have the following:
 - A computer
 - An internet connection
 - A GitHub account
@@ -16,7 +16,7 @@ Before you begin this tutorial, you must have:
 
 ## Create a DEV account
 
-To get started, go to the DEV webiste in your browser.
+To get started, go to the DEV website in your browser.
 
 **Note:** DEV also allows users to sign up with their Apple ID, Forem, or Twitter account. You are welcome to choose a different third-party application. The steps for creating a DEV account with a different third-party application are similar.
 
@@ -39,13 +39,13 @@ After creating a DEV account, you can customize it by building your profile, cho
 
     **Note:** Tags customize your feed by showing posts that use your following tags.
 
-2. *Optional*: In the **Build your profile** dialog box, populate the following fields:
+2. *Optional*: In the **Build your profile** dialog box, fill in the following fields:
   - **Username:** This field displays your GitHub username that DEV pulled from your GitHub account. If you want to change the username, you can click on the field and enter a new username.
   - **Note:** Your profile picture is also pulled from your GitHub account, which you can change.
   - **Bio:** Share a brief summary of your background, interests, hobbies, and more.
   - **Work:** Share what you do for work (e.g., Technical Writer at Gringotts Wizarding Bank).
   - **Education:** Share where you went to school (e.g., Hogwarts School of Witchcraft and Wizardry).
-  - **Skills/Languages:** List any coding languages or skills you know or are familiar with (e.g., python, ruby, Git, etc.).
+  - **Skills/Languages:** List any coding languages or skills you know or are familiar with (e.g., Python, Ruby, Git, etc.).
 
 3. *Optional*: In the **Suggested people to follow** dialog box, select people to follow from the DEV community and click **Continue**.
 
@@ -58,7 +58,7 @@ After creating a DEV account, you can customize it by building your profile, cho
 **Results:** DEV directs you back to the homepage with a message confirming that you're a part of the DEV community.
 
 ## Summary
-In this tutorial, you learned how to:
+In this tutorial, you learned how to do the following:
 
 - Create a DEV account with GitHub
 - Customize your DEV account
