@@ -13,7 +13,7 @@ A Quick Response (QR) code is a 2D barcode with small patterned squares and dots
 You can use two types of QR codes: 
 
 * **Static**: Static QR codes are permanent and provide limited functionality. After you create a static QR code, you cannot change the encoded data. You also cannot track metrics, such as the number of scans, location of scans, or device types used to scan. Static QR codes are ideal for resumes, business cards, and temporary marketing campaigns.
-* **Dynamic**: Dynamic QR codes are customizable and offer more functionality. They load the encoded information faster, and you can track metrics such as the total number of scans, average total scans per day, and the number of unique visitors. Dynamic QR codes are ideal for restaurants, government agencies, and other business types as they allow for data collection and updates when necessary.
+* **Dynamic**: Dynamic QR codes are customizable and provide more functionality. They load the encoded information faster, and you can track metrics such as the total number of scans, average total scans per day, and the number of unique visitors. Dynamic QR codes are ideal for restaurants, government agencies, and other business types as they allow for data collection and updates when necessary.
 
 ### Functionality of QR codes
 
@@ -50,5 +50,3 @@ Popular options include the following:
 * [QR Code Generator](https://www.qr-code-generator.com/free-generator/?ut_source=google_c&ut_medium=cpc&ut_campaign=en_top_kw&ut_content=qr_generator_exact&ut_term=qr-code-generator_e&gclid=CjwKCAjw64eJBhAGEiwABr9o2Ht7ItP5pRaUY_fKvDI8rsxygzlbRd1ysPqUHXOnv4rWOlY3JJesbBoCXOQQAvD_BwE)
 * [uQR.me](https://uqr.me/qr-code-generator/?ut_medium=cpc&ut_source=google&ut_campaign=2020-first&ut_term=qr-code-generator&ut_content=en&utm_term=qr-code-generator&utm_campaign=US+Campaigns&utm_source=adwords&utm_medium=ppc&hsa_acc=9523064648&hsa_cam=11226472739&hsa_grp=109303395039&hsa_ad=468751604145&hsa_src=g&hsa_tgt=kwd-374425108492&hsa_kw=qr-code-generator&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw64eJBhAGEiwABr9o2AbZwwS4iE1Kk6oyySe__lRpLmjmqEVuLgSJCBT9pWoIidPnhH2OVRoC3xkQAvD_BwE)
 * [QRCode Monkey](https://www.qrcode-monkey.com/)
-
-It's important to choose a generator that best suits your needs. Some QR code generators offer features such as unlimited scans, customizable designs and colors, free commercial usage, and performance tracking. Before deciding on a generator, it is recommended to research and compare the available options.
