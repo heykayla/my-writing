@@ -19,7 +19,7 @@ The following are a few concepts to review for this tutorial:
 
 ## Before you begin
 
-Before you begin this tutorial, you must have:
+Before you begin this tutorial, you must have the following:
 
 - A GitHub account
   
