@@ -2,7 +2,7 @@
 
 ### Overview
 
-QR codes are a type of barcode that you can find anywhere, from restaurant menus to product packing. They help people access information quickly, serving an essential tool for businesses and individuals. 
+QR codes are a type of barcode that you can find anywhere, from restaurant menus to product packing. They help people access information quickly, serving as an essential tool for businesses and individuals. 
 
 The goal of this article is to help you understand QR codes by explaining their purpose, functionality, components, advantages, and how to create them.
 
